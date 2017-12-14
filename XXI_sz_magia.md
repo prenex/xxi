@@ -1,32 +1,32 @@
-Aranymagor – a fehér ló útja
+% Aranymagor – a fehér ló útja
 
 <span id="anchor"></span>Előszó
 ===============================
 
 Abban reménykedem, hogy nem derül ki a nevem. Nem félek, hogy a mag tán
-gyümölcsöt is terem sőt bízva-bízok, hogy célba talál a fegyverem. Azért
+gyümölcsöt se terem sőt bízva-bízok, hogy célba talál a fegyverem. Azért
 bízok, mert az íjat nem magamért feszítem. Istent magát kérem: ne legyen
 hírnevem! A győzelemre esküszök: nem magamért készítem.
 
-Mi az a mágia? Milyen út vagy vágta?\
-Mennynek és földnek elveszett koronája,\
-Istennek dicsősége, szentek áldomása,\
-Szerelem tüzének dicső ragyogása,\
-Győzelem nyilának megvillanása,\
-Egyenesen annak szívbehatolása,\
-ott soha nem pusztításra,\
-hanem gyógyításra.
+	Mi az a mágia? Milyen út vagy vágta?\
+	Mennynek és földnek elveszett koronája,\
+	Istennek dicsősége, szentek áldomása,\
+	Szerelem tüzének dicső ragyogása,\
+	Győzelem nyilának megvillanása,\
+	Egyenesen annak szívbehatolása,\
+	ott soha nem pusztításra,\
+	hanem gyógyításra.
 
 Sokan talán csodát keresnek majd ebben a könyvben, vagy varázslatot –
 ígéreteket, esetleg nacionalista felhangokat. A varázslat azonban nem
-mágia és a mágia nem varázslat! Amit feltárunk nem titkos tudás, nem is
-titkolni való – hanem egy maréknyi arany mustármag.
+mágia és a mágia nem varázslat! Amit olvashatunk nem "titkos" tudás és 
+főként nem titkolni való – hanem egy maréknyi arany mustármag.
 
-Nem rejtegették, hanem eltemették,\
-Mindig is őrízték, mindig is szerették,\
-Világnak porai már régen befedték,\
-Arany szegeletét oly sokszor felégeték,\
-Soha meg nem törték, szunnyadó életét.
+	Nem rejtegették, hanem eltemették,\
+	Mindig is őrízték, mindig is szerették,\
+	Világnak porai már régen befedték,\
+	Arany szegeletét oly sokszor felégeték,\
+	Soha meg nem törték, szunnyadó életét.
 
 Amit feltárunk az nem egy dicső, bár letűnt múlt, hanem parázsként élő
 és a nyelv, a kultúra és igazosság által elérhető élet. Olyan út – a tű
@@ -34,10 +34,10 @@ fokán keresztül – ahol csak nyílhegyek hatolnak át. Nem a vér, hanem a
 megismerés, az önmagunkba, belső „mag”-unkba való befogadás örökölteti
 át.
 
-Nevünk megőrízte,\
-Nyelvünk éltette,\
-Mindenkiért tette,\
-Mindenki érthette.
+	Nevünk megőrízte,\
+	Nyelvünk éltette,\
+	Mindenkiért tette,\
+	Mindenki érthette.
 
 – a legfontosabb tanítása pedig abban áll, hogy másoknak meg tudjuk
 mutatni, hogy van népi értéken alapuló alternatívája annak, hogy a
