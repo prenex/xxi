@@ -232,7 +232,7 @@ sárkány mindent megigézett!
 	szeme tágan járja,
 	körül a vidéket,
 	sok szomorút látva.
-	
+
 	Egyfelől a sárkány,
 	uszítja a népekt,
 	másfelől készíti,
@@ -265,27 +265,26 @@ mindig volt aki kibírta állva - hát most jól figyelj a tanulságra.
 	megkezdé meséjét,
 	Boldog anyukája,
 	segíté beszédét.
-	
+
 	Repül túlról madár,
 	suhog mélyen szárnya,
 	Hogy a földig leér,
 	Rezgő csapkodása.
-	
+
 	Leszáll vele szava
 	Atyának, Anyának:
 	Fel a táltos lóra!
 	Induljunk a tájnak!
-	
+
 	Ha van füled hallod,
 	Ha szemed hát látod,
 	Vágtassál mivélünk,
 	Rá termettél, látod!
-	
+
 	Halld az öreg szavát,
 	Add hozzá szívedet,
 	Tisztasággal kérlek,
 	Teremts újra minket!
-
 
 <span id="anchor-4"></span>Ami tudvalevő a mindenségről
 =======================================================
