@@ -8,13 +8,13 @@ gyümölcsöt se terem sőt bízva-bízok, hogy célba talál a fegyverem. Azér
 bízok, mert az íjat nem magamért feszítem. Istent magát kérem: ne legyen
 hírnevem! A győzelemre esküszök: nem magamért készítem.
 
-	Mi az a mágia? Milyen út vagy vágta?\
-	Mennynek és földnek elveszett koronája,\
-	Istennek dicsősége, szentek áldomása,\
-	Szerelem tüzének dicső ragyogása,\
-	Győzelem nyilának megvillanása,\
-	Egyenesen annak szívbehatolása,\
-	ott soha nem pusztításra,\
+	Mi az a mágia? Milyen út vagy vágta?
+	Mennynek és földnek elveszett koronája,
+	Istennek dicsősége, szentek áldomása,
+	Szerelem tüzének dicső ragyogása,
+	Győzelem nyilának megvillanása,
+	Egyenesen annak szívbehatolása,
+	ott soha nem pusztításra,
 	hanem gyógyításra.
 
 Sokan talán csodát keresnek majd ebben a könyvben, vagy varázslatot –
@@ -22,10 +22,10 @@ Sokan talán csodát keresnek majd ebben a könyvben, vagy varázslatot –
 mágia és a mágia nem varázslat! Amit olvashatunk nem "titkos" tudás és 
 főként nem titkolni való – hanem egy maréknyi arany mustármag.
 
-	Nem rejtegették, hanem eltemették,\
-	Mindig is őrízték, mindig is szerették,\
-	Világnak porai már régen befedték,\
-	Arany szegeletét oly sokszor felégeték,\
+	Nem rejtegették, hanem eltemették,
+	Mindig is őrízték, mindig is szerették,
+	Világnak porai már régen befedték,
+	Arany szegeletét oly sokszor felégeték,
 	Soha meg nem törték, szunnyadó életét.
 
 Amit feltárunk az nem egy dicső, bár letűnt múlt, hanem parázsként élő
@@ -34,16 +34,16 @@ fokán keresztül – ahol csak nyílhegyek hatolnak át. Nem a vér, hanem a
 megismerés, az önmagunkba, belső „mag”-unkba való befogadás örökölteti
 át.
 
-	Nevünk megőrízte,\
-	Nyelvünk éltette,\
-	Mindenkiért tette,\
+	Nevünk megőrízte,
+	Nyelvünk éltette,
+	Mindenkiért tette,
 	Mindenki érthette.
 
 – a legfontosabb tanítása pedig abban áll, hogy másoknak meg tudjuk
 mutatni, hogy van népi értéken alapuló alternatívája annak, hogy a
 sokszínűséget elvesztve olvadjon össze az emberiség Bábel tornyának új
 oltárán! Nem adunk majd elő rituálékat különböző természetvallásokból,
-hanem magát az életet fogjuk megszólítani – közvetlenül. Olyan
+hanem magát az életet fogjuk megszólítani – egészen közvetlenül. Olyan
 dolgokról, amelyek külsőségekről szólnak, mi itt nem fogunk sok szót
 ejteni. Amit ebben a könyvben olvashatunk az nem népszerű és nem is
 egyszerű, de mégsem tudós közösségnek szánjuk, hanem hősöknek. Olyan
@@ -62,10 +62,10 @@ teljesen megtévedett embernek felnyissuk a szemét. Fontos, hogy nem
 próbáljuk megerőszakolni környezetünket, de tudatosan használható, okos
 fegyver gyanánt néhány gondolatot át kell adunk. Ennek ellenére a cél
 inkább azon képességek fejlesztése, amivel mi magunk válhatunk saját
-eszünk és szívünk fegyverének kovácsaivá.
+eszünk és szívünk fegyvereinek kovácsaivá.
 
-Ez a könyv csakis azokhoz szól, akik a nyitottak a magok befogadására és
-a kinyílásra várnak, akik az igaz élethez kérnek hatékony
+Ez a könyv azokhoz szól, akik a nyitottak a magok befogadására és
+azok kinyílására várnak. Azoknak kik az igaz élethez kérnek hatékony
 eszközkészletet, de nem a múlt sérelmei, a felgyülemlett sérülések
 szerint látják a dolgokat, hanem még eredeti tisztaságukban. Azokhoz
 szól a könyv, akik növekedésre áhítoznak, hogy aztán égig érő faként
@@ -78,16 +78,16 @@ környezetben kell szorítkoznunk sok esetben. A magot megszaporítjuk és
 elvetjük. A csipegető madarakkal nem foglalkozunk.
 
 A mag bennünk van és a tisztaság, az igaz emberség megismerésével
-felövezve magunkat az igazi bölcs mesterként való életre azokon is
-segíthettünk majd tán, akik az itt leírtakat csak sokkal több,
+felövezve magunkat az igaz emberként való életre majd azokon is
+segíthetünk tán, akik az itt leírtakat csak sokkal több, hosszabb,
 összetettebb magyarázat mellett értenék meg. Ha a nemzetben csak
 ötvenezer igazi mágus lenne, akkor ma is legendák születnének és nem
 kellene arra várni, hogy mikor lesz a Magyar név, megint szép! Ehhez
-mérten továbbá, ha a világban csak ötven millió igaz mágus van, akkor
+mérten továbbá, ha a világban csak ötmillió igaz mágus van, akkor
 reménykedhetünk, hogy a sátán még nem győzedelmeskedett, de majd látni
 fogjuk, hogy bámikor akár egyetlen igaz ember létével is még menthetőnek
 nevezhetnénk a helyzetet ahogyan azt Isten kinyilatkoztatásaiból
-ismerjük. Nem mindenható pártokban, hanem a saját lelkünk
+ismerjük. Nem mindenható pártokban, hanem a saját lelkünk, nemzetünk
 felemelkedésében, alulról építkezve válthatjuk meg a hazánkat és a
 világot!
 
@@ -113,13 +113,19 @@ célt szerez magának, amelyért lélekben meghalnánk. Olyan célt, amit
 akkor is elérünk, ha nagyon nehéznek, sőt kilátástalannak tűnik az
 erőfeszítés. Olyan jövőt, melyet nem csak gyermekeinkre, hanem az
 emberiségre hagyományozunk. Olyan világba születtetünk, ahol a legtöbb
-nemzet elvesztették már mindezt, vagy torzult nacionalizmus ártó
-árnyékában, vagy ellenében – de ezt nekünk még akkor is meg kell őrízni,
-ha ebbe pusztulnánk.
+nemzetek elvesztették már mindezt, például torzult nacionalizmus ártó
+árnyékában, vagy épp ellenében – de ezt nekünk még akkor is meg kell
+őrízni, ha ebbe pusztulnánk.
 
 Ez az út egy tanítás útja: annak a tanítása a világ népei felé, hogy
 becsüljék meg önmagukat, múltjukat és nemzetüket és mindenki mást – ha
 különböznek is – erre tanítsanak tovább!
+
+Nehéz lesz-e? Az nem kifejezés! Olyan vállalkozás ez, amely látszólag
+lehetetlen, amelyre nem számítanak sehol, amely a világ ellenében,
+az élet szerelmében, de hősi diadal jegyében ír - sőt ró - történelmet!
+
+Mégis szép csendben rója a történelmet, rejtett módon, zaj nélkül.
 
 <span id="anchor-1"></span>Ami tudvalevő Aranymagorról
 ======================================================
@@ -169,18 +175,17 @@ gondolatok képe – és mindezek megszemélyesítése. Mágikus mesehős, új
 korok szárnya – gyönyörű mezőknek példás unokája. Táltos lován a világot
 bejárja, csodát hoz létre, sok szépet a világra. Akkor élt, amikor már
 csak az igazi mágia segíthetett, mert a világ és mindenség életében újra
-nagy zavar kerekedett. A halak világkorában, halál fenyegetett – és az
-emberiség a félelmében a nagy kiömlő víz lehetőségétől – újra tornyot
-építgetett.
+nagy zavar kerekedett. Nagyhalak korában, halál fenyegetett – és az
+emberiség a félelmében a sok kiömlő víztől – újra tornyot építgetett.
 
 Olyan korok jártak, amikor még néhányan tudták, hogy vízzel álmodni
 rosszat jelent, de már rég azt sem értették miért vízözön képében írták
-meg az egyik előző hasonló történetet – bolond idők voltak ezek!
+meg az egyik előző, hasonló történetet – bolond idők voltak ezek!
 Aranymagor nem értette, vajh ilyen ostobaság hogyan lehet – míly dolog
 nem látni azt, ami olyan érthetően ott lebeg? De hát nem látták azt sem,
 hogy nincs különbség! Nincs aközött ki másokat pusztít és ki mindenkit
 egyszerre pusztít épp! Oszd meg és uralkodj – ez volt a beszéd – s oly
-sokan hallgatták, hogy egyénnek lenni lassan minden nép ismerőse félt:
+sokan hallgatták, hogy egyénnek lenni lassan minden nép-ismerőse félt:
 „Ha mindenki leszek, nem leszek megosztott és ha mind meghalunk, az
 embereket pedig magukra hagyjuk – majd csak találnak maguknak új
 népeket: gyárakat, szektákat, sőt elmebetegségeket! Majd mindezek új
@@ -220,10 +225,67 @@ lenn a mellkasodba? Látod-e Magyar hőseim a bátor kezedben és anyukád
 szentjeit gyönyörű szemedben? Meg kell ejtenünk most az apa-fia
 beszédet: lassan eszes leszel és magadat felméred! Gondoltál-e arra,
 vajon mily különböző vagy? Hogy lehet hogy szüleiddel kicsit-kicsit egy
-vagy?
+vagy? Nézz körül a kertben, haldoklunk mink, népek! A sötét lúdvérc
+sárkány mindent megigézett!
 
-TODO: át kell majd szerkeszteni, hogy legyen kapcsolat a mesehőssel,
-hiszen végig róla szól minden, amit át szeretnénk adni.
+	Körbenéz a legény:
+	szeme tágan járja,
+	körül a vidéket,
+	sok szomorút látva.
+
+	Egyfelől a sárkány,
+	uszítja a népekt,
+	másfelől készíti,
+	az olvasztó tégelyt.
+
+- Apám, vak mindenki? Hová lesz a drága, csillagos egeknek sok szép
+kultúrája?
+
+- Nem vész még el fiam, volt már ilyen Róma... hanem nyisd ki füled
+tágra és most vigyázz a világra: Téged azért neveltünk, hogy legyen
+olyan nép, akire mind ki a múltját keresi büszkén néz! Aki reményt,
+hitet és szeretetet visz zászlóján, amikor nagy a vész és táltos
+paripáján olyant dobbant, hogy arra minden szív megdobban! Nem
+vérből, hanem szellemből való vagy te, mint valaha én, apám és 
+mind a szüleink. Olyan népek, melyek nem hellyel, nem származással,
+hanem helyes szívvel, tettekkel és a közös belső világ elfogadásával
+születtek meg szerelemből - emberekből akik nem csak élnek, de 
+szeretnek, remélnek és egymásért örömmel tennének. Olyan, világ ez
+ahol a emberekre találsz ki Rómával szemben beáll Atilla seregébe
+és bárki legyen is, máris Szittya - ha már Szittya, viselete, dala,
+beszéde és szíve! Ez az mi el lett ásva fiam jó mélyre, hogy mi alkot
+egy népet és hogy született a közös ének! Addig szép az élet, amíg
+nem egyedül éled, de egymásnak lehet ugrasztani a fiatal nemzedéket,
+majd odanyújtani a mézes cukros süteményed: újra birodalmat építeni,
+egy égig éri tornyot ahol minden egyfélén fortyog. Ez a sárkány játéka
+aki a háttérben kavarog. Minden 12 hónapban elpróbálja ez a barom és
+mindig volt aki kibírta állva - hát most jól figyelj a tanulságra.
+
+	Azzal pedig apja,
+	megkezdé meséjét,
+	Boldog anyukája,
+	segíté beszédét.
+	
+	Repül túlról madár,
+	suhog mélyen szárnya,
+	Hogy a földig leér,
+	Rezgő csapkodása.
+
+	Leszáll vele szava
+	Atyának, Anyának:
+	Fel a táltos lóra!
+	Induljunk a tájnak!
+
+	Ha van füled hallod,
+	Ha szemed hát látod,
+	Vágtassál mivélünk,
+	Rá termettél, látod!
+
+	Halld az öreg szavát,
+	Add hozzá szívedet,
+	Tisztasággal kérlek,
+	Teremts újra minket!
+
 
 <span id="anchor-4"></span>Ami tudvalevő a mindenségről
 =======================================================
@@ -238,10 +300,10 @@ szörnyeteget! A mindenség földje lesz ami megremeg: nem a világi téglák
 <span id="anchor-5"></span>A tisztán látás jellemzői
 ----------------------------------------------------
 
-Aki vak az nem lát csak néz,\
-Az egó a szép szemed lakatja.\
-Igaz légy, mielőtt kihuny a fény!\
-A halál mindenképp felszaggatja!
+	Aki vak az nem lát csak néz,
+	Az egó a szép szemed lakatja.
+	Igaz légy, mielőtt kihuny a fény!
+	A halál mindenképp felszaggatja!
 
 Amikor tisztán látsz és ezt meggondolod, akkor majd életed adósságát
 siratod. Amint magadat feladod, amint magad választását az éghez szabod
@@ -251,21 +313,35 @@ csak igaz emberként a magot. Addig minden nap van mit takarítanod.
 <span id="anchor-6"></span>Az univerzum és a világ
 --------------------------------------------------
 
-A fényeset keresed, vagy a mindenséget?\
-Ha kevered elnyerted a hülyeséget!\
+	A fényeset keresed, vagy a mindenséget?
+	Ha kevered elnyerted a hülyeséget!
 
-TODO: Mi a különbség; párhuzamos univerzumok oximoronja
+Valamikor mindenek tudák, még a pásztor legények is, hogy a mindenség
+az minden, abban ott van Isten: abban ott a legény és aranyos szellem.
+A nyelv nem hazudik: a minden az minden. Hogy ha máshogy lenne, más név 
+lenne itten. A világ az más dolog, fényes és világos: hogy ennek azt
+nevezzük, ami látható a virág most. Ha máshonnan nézed, láthatsz más
+virágot, de ez csupán az érzet: egy kertben van, látod?
 
-Univerzum: mindenség – egység. Nincs több. Nincs univerzumon kívül
-semmi, mindent (még Istent is) bele kell érteni!
+	Ha több mindenséget lát,
+	részeg hát a lelked!
+	Sok világban járhatsz,
+	de mindenből? Csak egy lesz!
 
-Világ: Ez az, amit tapasztalati törvényekkel leírunk és amiben élünk.
-Lehet szűkebb értelemben akár egy bolygóra is fogalmaznunk így, de a
-teljes kozmológiai világot beleérthetjük…
+Tudták ezt még később, más népek s családok, nem csak piciny arany
+szegeletben látod: Univerzum - mondták - és értették a számot!
 
-Mi itt elsősorban az univerzum kérdéseiről és az ember azon belüli
-helyéről beszélünk. A világról szóló ismereteink praktikus célokat
-fognak szolgálni emellett természetesen.
+Mondd, írd, hogy az univerzum: mindenség – egység. Nincs több és trükközés!
+Nincs az univerzumon kívül semmi, mindent (még Istent is) bele kell érteni!
+
+Világ: Ez amit tapasztalattal, törvényekkel leírunk és amiben élünk.
+Akár egy bolygóra, akár a csillagokra nézünk. Ha túl okosak vagyunk
+sok egymás mellettit remélünk és mint sötét erdők: elfedik mit nézünk.
+
+	Első az Isten s a Mindenség,
+	benne Nemzet, Család s Ember,
+	Hogy mit miért mutat fényesség,
+	Hasznos tudnod, de nem kell!
 
 <span id="anchor-7"></span>A kilőtt nyíl előrehaladása
 ------------------------------------------------------
