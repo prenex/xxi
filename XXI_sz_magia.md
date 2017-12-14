@@ -133,35 +133,35 @@ Mégis szép csendben rója a történelmet, rejtett módon, zaj nélkül.
 <span id="anchor-2"></span>Aranymagor dala
 ------------------------------------------
 
-Fehér lovon vágtál,\
-Koronája örök,\
-Íja célba talál,\
-Ég is beledörög.\
-\
-Király vajon ő tán?\
-Úr a népek között?\
-De hisz nép maga is!\
-Az utolsók mögött!\
-\
-Népekért száll lóra,\
-Másokért könyörög!\
-Nem válhat valóra:\
-Bábel? – nem, köszönöd.\
-\
-A jó Istentől várja,\
-Hogy reád tekintsen,\
-Hozzá szól imája:\
-„Másokon segítsen!”\
-\
-Szín-aranyban úszik,\
-De pénze sok nincsen.\
-Lelkében mély hit\
-Szegeletén kincsem.\
-\
-Vérét nem sajnálja,\
-Teste: igaz nincsen.\
-Tagjai mi vagyunk,\
-Aranymagyar szívben.
+	Fehér lovon vágtál,
+	Koronája örök,
+	Íja célba talál,
+	Ég is beledörög.
+
+	Király vajon ő tán?
+	Úr a népek között?
+	De hisz nép maga is!
+	Az utolsók mögött!
+
+	Népekért száll lóra,
+	Másokért könyörög!
+	Nem válhat valóra:
+	Bábel? – nem, köszönöd.
+
+	A jó Istentől várja,
+	Hogy reád tekintsen,
+	Hozzá szól imája:
+	„Másokon segítsen!”
+
+	Szín-aranyban úszik,
+	De pénze sok nincsen.
+	Lelkében mély hit
+	Szegeletén kincsem.
+
+	Vérét nem sajnálja,
+	Teste: igaz nincsen.
+	Tagjai mi vagyunk,
+	Aranymagyar szívben.
 
 <span id="anchor-3"></span>Hősi küldetése
 -----------------------------------------
@@ -232,7 +232,7 @@ sárkány mindent megigézett!
 	szeme tágan járja,
 	körül a vidéket,
 	sok szomorút látva.
-
+	
 	Egyfelől a sárkány,
 	uszítja a népekt,
 	másfelől készíti,
@@ -270,17 +270,17 @@ mindig volt aki kibírta állva - hát most jól figyelj a tanulságra.
 	suhog mélyen szárnya,
 	Hogy a földig leér,
 	Rezgő csapkodása.
-
+	
 	Leszáll vele szava
 	Atyának, Anyának:
 	Fel a táltos lóra!
 	Induljunk a tájnak!
-
+	
 	Ha van füled hallod,
 	Ha szemed hát látod,
 	Vágtassál mivélünk,
 	Rá termettél, látod!
-
+	
 	Halld az öreg szavát,
 	Add hozzá szívedet,
 	Tisztasággal kérlek,
