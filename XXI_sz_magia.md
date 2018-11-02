@@ -1,4 +1,34 @@
-% Aranymagor – a fehér ló útja
+% Az utolsó aranymag – a fehér ló útján
+
+<span id="anchor"></span>Elő-előszó
+===================================
+
+Ez a könyv több okból íródott. A kezdetben mindinkább filozófiai és 
+metafizikai témákat egyre jobban felváltotta a praktikus bölcsesség 
+átadása és megóvása, illetve mindazon összegyűlt tudás fenntartása
+mellett, amely ebben a műben összegyűjteni kíséreltetik, a könyv
+ugyan ennyire a nemzetek megmentéséről is szól. Nem pontosan egyetlen
+egy (tehát a Magyar), nemzet megmentéséről, hanem annak örök életűvé
+tételének kísérletével egyetemben, minden népek és nemzetek számára
+a fennmaradás reményeként megjelenő szimbólummá való átalakításáról
+szólnak a megfelelő fejezetek.
+
+A fő cél nem kevesebb, mint az összes lehetséges érték, minél pontosabb
+és részletgazdagabb, de egyszerűen, a mindennapi emberek számára érthető 
+gyűjtése. A másodlagos cél sem kisebb feladat: elérni, hogy ha minden
+nemzet el is bukna, ha az emberiség egyszer ténylegesen is felépítené
+Bábel tornyát, az egyféleség pedig végképp elterjedne, akkor is maradjon
+egy pislákoló remény: Egy gyűjtemény ami szimbolizálni képes mi veszett
+el és mi hiányzik. Amiben le van írva annak a magva, ami elveszett.
+
+Ha pedig megmarad magként ami látszólag elvész, ha ki is halunk, egyszer
+talán eljő egy ifjú, aki elolvasván újra feltámasztja a nemzetet: akár
+milyen jellegű háttérrel és akárhonnan is jön - mégis talán Magyarrá 
+válik majd és ezzel feltámad a nemzet is, a hagyomány is. Reményeink 
+szerint ha egyszer elveszünk, szimbólumként - a lázadás szimbólumaként
+örökké élünk majd és amikor már azt hisszük minden nemzet kivérzett,
+ott pislákol majd még a remény: a remény, hogy visszatér mindaz, ami
+már oda...
 
 <span id="anchor"></span>Előszó
 ===============================
