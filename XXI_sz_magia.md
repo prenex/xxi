@@ -157,10 +157,10 @@ az élet szerelmében, de hősi diadal jegyében ír - sőt ró - történelmet!
 
 Mégis szép csendben rója a történelmet, rejtett módon, zaj nélkül.
 
-<span id="anchor-1"></span>Ami tudvalevő Aranymagorról
+<span id="anchor-10"></span>Ami tudvalevő Aranymagorról
 ======================================================
 
-<span id="anchor-2"></span>Aranymagor dala
+<span id="anchor-20"></span>Aranymagor dala
 ------------------------------------------
 
 	Fehér lovon vágtál,
@@ -193,7 +193,7 @@ Mégis szép csendben rója a történelmet, rejtett módon, zaj nélkül.
 	Tagjai mi vagyunk,
 	Aranymagyar szívben.
 
-<span id="anchor-3"></span>Hősi küldetése
+<span id="anchor-30"></span>Hősi küldetése
 -----------------------------------------
 
 Kérdezték is az emberek, bölcsek és gyermekek: Kicsoda Aranymagor? Egy
@@ -316,7 +316,7 @@ mindig volt aki kibírta állva - hát most jól figyelj a tanulságra.
 	Tisztasággal kérlek,
 	Teremts újra minket!
 
-<span id="anchor-4"></span>Ami tudvalevő a mindenségről
+<span id="anchor-40"></span>Ami tudvalevő a mindenségről
 =======================================================
 
 A mágus, azaz magos az, aki magosságot cselekszik, „mert a világon élni,
@@ -326,7 +326,7 @@ felett akik nem teszik fel a fontos kérdéseket és tovább építik a
 szörnyeteget! A mindenség földje lesz ami megremeg: nem a világi téglák
 és elvek azok, amik elhozzák végzeted...
 
-<span id="anchor-5"></span>A tisztán látás jellemzői
+<span id="anchor-50"></span>A tisztán látás jellemzői
 ----------------------------------------------------
 
 	Aki vak az nem lát csak néz,
@@ -339,7 +339,7 @@ siratod. Amint magadat feladod, amint magad választását az éghez szabod
 – remélve, hogy így legalább egy részét talán megkapod – akkor veted el
 csak igaz emberként a magot. Addig minden nap van mit takarítanod.
 
-<span id="anchor-6"></span>Az univerzum és a világ
+<span id="anchor-60"></span>Az univerzum és a világ
 --------------------------------------------------
 
 	A fényeset keresed, vagy a mindenséget?
@@ -372,7 +372,7 @@ sok egymás mellettit remélünk és mint sötét erdők: elfedik mit nézünk.
 	Hogy mit miért mutat fényesség,
 	Hasznos tudnod, de nem kell!
 
-<span id="anchor-7"></span>A kilőtt nyíl előrehaladása
+<span id="anchor-70"></span>A kilőtt nyíl előrehaladása
 ------------------------------------------------------
 
 Ha kilövünk egy nyilat légüres térben mi mozgatja előre? Egyenes vonalú
@@ -394,7 +394,7 @@ helyezkedik el. Ő ezért érzékeli ott, ahol van. Nincs varázslat, ez
 mágia – vagyis a dolgok igazi magva. Ha ezt most értjük, akkor azt is
 megértjük majd, hogy a változás látszólagos.
 
-<span id="anchor-8"></span>A dolgok lényege
+<span id="anchor-80"></span>A dolgok lényege
 -------------------------------------------
 
 I, II, III, IV; 1, 2, 3, 4; a, b, c, d. Látjuk-e mindezekben ugyanazt az
@@ -419,7 +419,7 @@ TODO: Mi azonos és mi különböző, mi az hogy valamink a lényege?
 
 TODO: nem csak Istenes példák
 
-<span id="anchor-9"></span>Valószínűség
+<span id="anchor-90"></span>Valószínűség
 ---------------------------------------
 
 Aki túlzottan bízik a valószínűégszámításban és statisztikában annak a
@@ -463,7 +463,7 @@ fogjuk. Mégis milyen sokan vannak, akik azt sem tudják, hogy milyen
 dolgokban hisznek, hanem vakon hisznek abban, hogy a múltbeli
 ismereteink és az empirikus eredményeink helyesek!
 
-<span id="anchor-10"></span>A múlt bizonytalansága
+<span id="anchor-100"></span>A múlt bizonytalansága
 --------------------------------------------------
 
 TODO: A hitről és a bizonyíthatóság látszatáról… Ez tudományos szemmel
@@ -585,7 +585,7 @@ univerzumra próbálja vonatkoztatni, illetve hogy emberként mennyire nem
 vagyunk képesek elvonatkoztatni a saját életterünktől még a
 tudományokban sem.
 
-<span id="anchor-11"></span>A rózsa színe
+<span id="anchor-110"></span>A rózsa színe
 -----------------------------------------
 
 Azt mondhatnánk háromféle bizonyítás létezik:
@@ -620,7 +620,7 @@ amit érzékelünk, azt képtelenek vagyunk megosztani egymással! Ha én úgy
 jelentését, akkor is ugyanígy fogok viselkedni. Ez az információ olyan
 dolog, ami megoszthatatlan másokkal.
 
-<span id="anchor-12"></span>Az élőlények felépítése
+<span id="anchor-120"></span>Az élőlények felépítése
 ---------------------------------------------------
 
 TODO: Érzékelés = teremtés
@@ -642,7 +642,7 @@ egyedi és csak hozzánk, illetve a megfigyelés tárgyához kapcsolódó új
 létező, aminek mi az előállítását éljük át! A megtapasztalás tehát maga
 az élet – és a megtapasztalás egy teremtő folyamat!
 
-<span id="anchor-13"></span>A változás illúziója
+<span id="anchor-130"></span>A változás illúziója
 ------------------------------------------------
 
 A legtöbb, a világmindenségről, vagy világról alkotott modellünk
@@ -680,7 +680,7 @@ varázslatos médiumi képességet, de lehetőleg mi ne essünk ebbe az
 kommunikációs modelljében az kialakult. Azok a létezők, amelyek esetleg
 más világokat alkotnak, nyilvánvaló módon más rendszert alakítottak ki.
 
-<span id="anchor-14"></span>Álom és valóság, idegenek és más világok
+<span id="anchor-140"></span>Álom és valóság, idegenek és más világok
 --------------------------------------------------------------------
 
 TODO: mit jelent, hogy ezek is ugyan úgy létező dolgok, mint a
@@ -689,7 +689,7 @@ hétköznapi élet – mégis miért nem jelent ez semmi nagyon eget rengetőt?
 TODO: A világok közötti utazás problémái – megkötései. Ezek miért
 fakadnak csupán logikus korlátokból?
 
-<span id="anchor-15"></span>Az idő
+<span id="anchor-150"></span>Az idő
 ----------------------------------
 
 Az idő alatt túl sok mindent értünk. Ha jót akarunk magunknak, akkor a
@@ -700,7 +700,7 @@ paradox módon könnyebben megérthetővé válik, hogy miért is olyan hosszú
 a buszra való várakozás – miközben a fizikai mértékegységek szerint nem
 hosszabb, mint egy futbalmérkőzés mondjuk.
 
-<span id="anchor-16"></span>Jóslatok, próféciák, apokalipszis
+<span id="anchor-160"></span>Jóslatok, próféciák, apokalipszis
 -------------------------------------------------------------
 
 TODO: Miért is van, hogy nem tudhatja senki, hogy mikor következik be?
@@ -710,13 +710,37 @@ lehetséges hogy a jövőről lehet dolgokat tudni látszólag, de mégsem
 beszélhetünk arról, hogy minden előre elrendeltetett? Hogyan lehet
 mindezt modellezni, párhuzamos lehetőségek végtelen létezése nélkül?
 
-<span id="anchor-17"></span>Jövőbe látás
+<span id="anchor-170"></span>Jövőbe látás
 ----------------------------------------
 
 TODO: kép arról, hogy mit jelent, ha az átélt idő és a valós idő
 eltérnek.
 
-<span id="anchor-18"></span>A jó és a rossz
+<span id="anchor-175"></span>A "három izom"
+-----------------------------------------
+
+* A test izma - edzeni testedzéssel lehet
+
+* A szellem izma - edzeni például logikai, nyelvi és egyéb **készségek** segítségével lehet
+
+* A lélek izma - edzeni például önmegtartóztatással, az egoizmus elvetésével stb. lehet
+
+Ezek különböznek az "izmok használatának tudásától", mert jól tudhatja 
+valaki, hogy miként kell a labdát rúgni, ha az izmai fejletlenek, de 
+nagyrészben hiába a lexikális tudás egy logikai, vagy gondolkozást 
+igénylő feladat megoldásakor. Amikor pedig le kell szokni egy káros 
+szenedélyről, hiába tudjuk a praktikákat pl. a dohányzás elhagyásához 
+(vagy akár csak a "lefogyáshoz"), ha nincs semmi lelki izomtömeg.
+
+Az izom jellemzője, hogy valós edzése fájdalommal jár. Önsanyargató-e 
+az, aki a testi izmait fejleszti? Nyilván nem, amennyiben ezt céltudat 
+is meghatározza. Hasonlóként fájdalmas azonban egy bonyolult matek, 
+vagy egy lelki "gyakorlat" elvégzése is. Sokan azt hiszik spórolni tud 
+az ember azzal, hogy csak "könnyű" dolgokat végez, de ha taktikával és 
+lexikális tudással sokra is mehet, izmainak hiánya korlátokat szab!
+
+
+<span id="anchor-180"></span>A jó és a rossz
 -------------------------------------------
 
 TODO: A rossz, az tényleg a jó hiánya – így keletkezett, de ettől még
@@ -729,7 +753,7 @@ megtörténjenek. A sátán eme hiányból született és egy létező személy,
 kísértései is létezők, de a természete olyan, akár az üresség
 természete.
 
-<span id="anchor-19"></span>A világ teremtése
+<span id="anchor-190"></span>A világ teremtése
 ---------------------------------------------
 
 TODO: ábrák a kezdetekről – a világ olyan mint egy virág, vagy egy nagy
@@ -737,14 +761,14 @@ fa ;-)
 
 TODO: kapcsolat a folyamatos teremtésről szóló résszel
 
-<span id="anchor-20"></span>A végtelenség helyes fogalma
+<span id="anchor-200"></span>A végtelenség helyes fogalma
 --------------------------------------------------------
 
 TODO: A helyes modellekben nem csak változásra nincs szükség, de
 végtelen sok létező dolgokra sem. A végtelen sokaság mindig illúzió – a
 teremtés folyamatosságának a bizonyos módjait takarja.
 
-<span id="anchor-21"></span>A falszifikálhatóság csapdája
+<span id="anchor-210"></span>A falszifikálhatóság csapdája
 ---------------------------------------------------------
 
 Aki túl sokat mozog különféle metafizikai, vagy fizikai körökben az
@@ -779,10 +803,10 @@ illetve egyáltalán nincs is más tényleges értelemmel megtöltött megoldás
 Aki a falszifikálhatóságot keresi, nem a tökéletes megoldást keresi, így
 azt nem találja egykönnyen!
 
-<span id="anchor-22"></span>Ami tudvalevő a világról
+<span id="anchor-220"></span>Ami tudvalevő a világról
 ====================================================
 
-<span id="anchor-23"></span>Törvények és példázatok
+<span id="anchor-230"></span>Törvények és példázatok
 ---------------------------------------------------
 
 A példázatok mindig többet érnek a szabályoknál és a tiszta erkölcs is
@@ -800,10 +824,10 @@ adnak számunkra. A gonosz ember talán jóvá válik azáltal, hogy megtartja
 a törvényeket? A jó tett talán gonosszá válik azáltal, ha valamiért
 törvényt szeg?
 
-<span id="anchor-24"></span>Népek, nemzetek és történelmük
+<span id="anchor-240"></span>Népek, nemzetek és történelmük
 ----------------------------------------------------------
 
-### <span id="anchor-25"></span>Birodalmak és háttér-hatalmak
+### <span id="anchor-250"></span>Birodalmak és háttér-hatalmak
 
 TODO: Perzsa, Róma, stb. bábel tornyának újjáépítése – nem tanultunk a
 hibáinkból.
@@ -811,20 +835,20 @@ hibáinkból.
 TODO: milyen egy „jobb birodalom”? Atilla, Pártus birodalom – nemzetek,
 önazonosságuk megtartásával...
 
-### <span id="anchor-26"></span>Kína
+### <span id="anchor-260"></span>Kína
 
 TODO: lehet hogy ha csak egy gyermeked van, akkor nem osztod sokfelé a
 hagyatékod, de a Kínai kúltúra biztosította be a létezését a földön több
 évezredre a jövő generációi számára és nem a holland, vagy svájci
 kultúra.
 
-### <span id="anchor-27"></span>Japán
+### <span id="anchor-270"></span>Japán
 
 TODO: mit tanulhatunk? A múlt erejének élő példája, a tartás példája.
 
-### <span id="anchor-28"></span>Korea
+### <span id="anchor-280"></span>Korea
 
-### <span id="anchor-29"></span>A zsidóság, mint nép
+### <span id="anchor-290"></span>A zsidóság, mint nép
 
 TODO: népről, vagy vallásról kellene beszélni egyáltalán?
 
@@ -836,17 +860,17 @@ TODO: pozitív lehetőségek
 
 TODO: negatív lehetőségek
 
-### <span id="anchor-30"></span>Arab népek
+### <span id="anchor-300"></span>Arab népek
 
-### <span id="anchor-31"></span>Dél-amerika
+### <span id="anchor-310"></span>Dél-amerika
 
-### <span id="anchor-32"></span>Afrikai országok
+### <span id="anchor-320"></span>Afrikai országok
 
-### <span id="anchor-33"></span>Kihaláshoz közel álló apró népek
+### <span id="anchor-330"></span>Kihaláshoz közel álló apró népek
 
-### <span id="anchor-34"></span>Angol-szász kultúra
+### <span id="anchor-340"></span>Angol-szász kultúra
 
-### <span id="anchor-35"></span>Mediterrán típusú népek (Görög, Olasz, Spanyol)
+### <span id="anchor-350"></span>Mediterrán típusú népek (Görög, Olasz, Spanyol)
 
 TODO: éghajlati okok és magyarázat
 
@@ -854,22 +878,22 @@ TODO: történelem és különböző kiindulási feltételek
 
 TODO: A délies lazaság előnyei és veszélyei
 
-### <span id="anchor-36"></span>Germán népek
+### <span id="anchor-360"></span>Germán népek
 
 TODO: éghajlati okok és magyarázat
 
 TODO: A precizitás előnyei és veszélyei
 
-### <span id="anchor-37"></span>A török nép
+### <span id="anchor-370"></span>A török nép
 
 TODO: pre- és poszt-Oszmán/ottomán korszakok.
 
-### <span id="anchor-38"></span>Franciák
+### <span id="anchor-380"></span>Franciák
 
 TODO: Gallia pusztulásai, „Párizs” neve, bor és szőlő, bölcsesség és
 balsors, hibák, multikulti.
 
-### <span id="anchor-39"></span>Fiatal nemzetek és országok
+### <span id="anchor-390"></span>Fiatal nemzetek és országok
 
 TODO: USA, Ausztrália, erősen multikultúrális nemzetek
 
@@ -877,20 +901,20 @@ TODO: Múlt nélküliség, gyökértelenség
 
 TODO: Baj? Nem baj?
 
-### <span id="anchor-40"></span>Szláv népek
+### <span id="anchor-400"></span>Szláv népek
 
 TODO: Sose nézd le a szlávokat – lehet hogy a mindig aktuális birodalmak
 szolgaként számolnak velük, de te ne nézd le őket sosem. Ha segítesz
 nekik feljebb lépni, olyan nem várt szövetségeseid lesznek, melyekre a
 háttérhatalmak soha nem számítanának.
 
-### <span id="anchor-41"></span>A szovjetúnió és az urópai únió
+### <span id="anchor-410"></span>A szovjetúnió és az urópai únió
 
 TODO: hasonlóságok
 
 TODO: különbségek
 
-### <span id="anchor-42"></span>Magyarság – a mag népe
+### <span id="anchor-420"></span>Magyarság – a mag népe
 
 TODO: pontosan mit jelent, milyen feladat.
 
@@ -901,10 +925,10 @@ körülötted élőket, hanem próbáld megtanítani arra, hogy
 
 TODO: A magyar nyelv csodája
 
-<span id="anchor-43"></span>Vallásokról és hitről
+<span id="anchor-430"></span>Vallásokról és hitről
 -------------------------------------------------
 
-### <span id="anchor-44"></span>A szent könyvek helyes olvasata
+### <span id="anchor-440"></span>A szent könyvek helyes olvasata
 
 Meg kell nyilatkoznunk a szent könyvek, szövegek olvasásának módjáról.
 Sajnos ahogyan azt mondani szokás: a sátán is képes idézni a bibliából,
@@ -962,7 +986,7 @@ A bibliát, más vallások könyveit csak úgy olvashatjuk helyen, hogy
 magunkat kiüresítve, Isten igazi példázatait próbáljuk befogadni a
 szeretet és jóság keresésével – nincs más útja-módja!
 
-### <span id="anchor-45"></span>A nagy vallások és azok viszonyai
+### <span id="anchor-450"></span>A nagy vallások és azok viszonyai
 
 A világmindenség egyetlen egységet képez, a kezdetek-kezdetén jelen lévő
 teremtő pedig egy és ugyanaz, bármilyen módon is tekintünk rá, mert
@@ -994,7 +1018,7 @@ is boldogak lehetünk, ha sikerül másokkal megosztani az örömhírt. Az
 örömhírt, hogy Isten köztünk járt emberként személyesen példát mutatva
 és személyes tapasztalatokkal tudja milyen nehéz az élet!
 
-#### <span id="anchor-46"></span>Buddhizmus és egyéb keleti vallások
+#### <span id="anchor-460"></span>Buddhizmus és egyéb keleti vallások
 
 TODO: Buddhizmus és az univerzumról fentebb mondottak. Leírja a létezők
 és a teremtés folyamatát, közös alapot biztosít a szeretettel és
@@ -1016,17 +1040,17 @@ atekintetben, hogy a létezők egyszer keletkeznek és mindörökké
 változatlanok, de az amit átélnek, amit közegüknek érzékelnek azáltal,
 hogy megteremtik igenis más lehet, változhat!
 
-#### <span id="anchor-47"></span>Természetvallások, törzsi vallások
+#### <span id="anchor-470"></span>Természetvallások, törzsi vallások
 
 TODO: Természetvallások, ausztrál bennszülöttek, ezoterikusnak tűnő, de
 régi törzsi vallások. Mind érzékelnek részeket a mindenség működéséből.
 
-#### <span id="anchor-48"></span>Materializmus mint vallás
+#### <span id="anchor-480"></span>Materializmus mint vallás
 
 TODO: a materializmus / „nem-hit” mint vallás – miért is tekintendő
 vallásnak?
 
-#### <span id="anchor-49"></span>A zsidó vallás
+#### <span id="anchor-490"></span>A zsidó vallás
 
 TODO: Zsidó vallás – Jézus szerepe, elkövetett bűnök, látszólagos módon
 el nem érhető helyes út, mely mégis teret ad a helyes útnak! A
@@ -1034,14 +1058,64 @@ kiigazításra szorult vallás, mely helyesen követve továbbra is a jó
 szolgája lehet – de nagyon veszélyes közegben létezik. Mindezt
 kifejteni!
 
-#### <span id="anchor-50"></span>A kereszténység
+
+#### <span id="anchor-495"></span>Az iszlám
+
+TODO: A vallás emberadta részeinek túlságos előtérbe hozásának és a
+"szolgálatnak" a problémái.
+
+#### <span id="anchor-500"></span>A kereszténység
+
+Először is hívő, de más vallású emberek szemszögéből kell megvizsgáljuk 
+a kereszténységet. Sok más vallás azért rökönyödik meg a kereszténység 
+történetén, mert nem tudják elképzelni, hogy a teremtő Isten emberként 
+megjelenhet a világban. Pedig az Isten mindenhatósága nem csorbul azzal 
+semmit sem, hogy a mindenhatásnak mi a módja: ugyanis nem mindegy, hogy 
+valaki csak feletesen - felülről, a magas lóról - ismeri a földi élet 
+viszontagságait, vagy első kézből - saját tapasztalatból!
+
+Örülnünk kell, hogy Isten mindenhatóként azt választotta, hogy a földön, 
+emberként és első kézből, belső nézetből próbálja ki milyen az emberlét! 
+Isten bár mindenható, de azt a "hatást" elérni, hogy pontosan ismerje 
+az emberek viszontagságait csak ezen a módon lehetséges. Minden más út 
+esetén kevesebb tudáshoz juthatunk, ezért csecsemőtől a kereszthalálig 
+kellett minden megkíértést és fájdalmat, az élet gyötrelmeit viselnie. 
+Példát is ad emberségből, de nem csak a példa miatt jött, hanem még 
+inkább a pontos megismerés miatt, illetve a halál eltörölése miatt.
+
+Itt is tetten érhető, hogy Isten "mindenre képessége" nem feltétlen 
+olyan módon jelenik meg ahogy azt sokan képzelik. Isten tényleg 
+mindenható a halál és a bűnök eltörlésében, de ez sem személytelenül, 
+harmadik nézőpontból, hanem közvetlenül történik. A halál árnyékát is 
+csak úgy lehet elpusztítani, hogy maga a teremtő keresztül próbál 
+haladni a halálon és ne feledjük el, hogy "leszáll a poklokra" is az 
+evangélium szövege szerint, mielőtt felszállt volna a mennyekbe és
+mielőtt feltámadott volna a halálból maga az Isten. Biztosak lehetünk: 
+ott is valamely teendő miatt jelent meg közvetlenül, sőt talán embert 
+is felszabadított a poklok alól az új tapasztalatok után?
+
+
+TODO: A "térítés" nem kötelező - de az örömhírt továbbadni igen!
 
 TODO: Sajnos sokan félreértik és felületesen ismerik… Az örömhír
-nagysága sokkal fontosabb bárminél
+nagysága sokkal fontosabb bárminél. Ezt rendesen ki kellene fejteni!
 
-#### <span id="anchor-51"></span>A tisztítótűz
+#### <span id="anchor-510"></span>A mennyország, pokol és a tisztítótűz
 
-#### <span id="anchor-52"></span>Pokol és bűnök, megbocsátás fontossága
+TODO: A buddhizmus és a kereszténység látszólag különböző látásmódja.
+
+TODO: A földi értékekhez ragaszkodás nem enged át a mennyekbe, ezért égünk.
+
+TODO: Nem rosszakarat miatt létezik a pokol, hanem a rosszakaratú emberek 
+elválasztása miatt. Ennek meglehet hogy nincs más módja: a mennyország 
+csak azért lehet tökéletesen jó, mert a gonoszság elválasztásra kerül 
+minden lélektől aki a mennyekben van. Ez az elválás hosszú és rövid is
+lehet, de a mennyek országában már csak szentként élnek a lelkek.
+
+A pokol nem annyira "bűntetés" Istentől, hanem az oda tartók sajnos saját
+önbűntetése"
+
+#### <span id="anchor-520"></span>Pokol és bűnök, megbocsátás fontossága
 
 Jó emberként élni nem csak a pokoltól való félelem miatt „kell”, hanem a
 kereszténység igazi tanítását akkor értjük igazán, ha akkor is jók
@@ -1050,7 +1124,7 @@ volna el, hogy a pokolra kerültünk! Ez a keresztényi gondolat, nem a
 pokoltól való félelem, hanem a jó tett önmaga jutalmaként történő
 működés gondolata!
 
-#### <span id="anchor-53"></span>Javaslatok és álmok
+#### <span id="anchor-530"></span>Javaslatok és álmok
 
 TODO: A legontosabb – minden vallás az egy Istent és teremtményét
 imádja. Nézzük csak meg amit fentebb az univerzumról mondtunk!
@@ -1058,7 +1132,7 @@ imádja. Nézzük csak meg amit fentebb az univerzumról mondtunk!
 TODO: Közös esküvés módja, eltérések feltételes elfogadása: „ha igaz,
 akkor elfogadom”. Aki mélyen hisz, annak ez nem sértő!
 
-### <span id="anchor-54"></span>Ezoterikusok, szekták és titkos társaságok
+### <span id="anchor-540"></span>Ezoterikusok, szekták és titkos társaságok
 
 Sokan vannak, akik azért keresik a varázslatot, mert a világból el
 szeretnének menekülni és el szeretnének bújni különféle dolgok elől. Az
@@ -1176,7 +1250,7 @@ lesznek, akik csak barátaitoknak mutatják magukat, de titokban a sátán
 vet a jövő számára, így minden segítség úgy éri majd tervét, hogy csak
 annál jobban biztosítja sikerünket!
 
-### <span id="anchor-55"></span>Jézus, a próféták, szent emberek és a kinyilatkoztatások kora
+### <span id="anchor-550"></span>Jézus, a próféták, szent emberek és a kinyilatkoztatások kora
 
 Sokan kérdezik maguktól, hogy Krisztus, vagy akár a különböző próféták
 miért akkor jöttek el az emberek közé, amikor eljöttek és miért nem
@@ -1230,13 +1304,13 @@ mindenhatóságát azáltal, hogy végtelen bölcsességében talán olyan
 módokat választ az emberekkel való érintkezésre, mely sokkal jobb annál,
 amint amit mi esetleg magunk a legerőteljesebbnek elképzelnénk!
 
-<span id="anchor-56"></span>Populáris kultúra és média
+<span id="anchor-560"></span>Populáris kultúra és média
 ------------------------------------------------------
 
-<span id="anchor-57"></span>A lokalitás törvénye
+<span id="anchor-570"></span>A lokalitás törvénye
 ------------------------------------------------
 
-<span id="anchor-58"></span>Tudomány
+<span id="anchor-580"></span>Tudomány
 ------------------------------------
 
 A tudomány ne legyen ellenséged! Légy tudóssá, ismerd a világot, ismerd
@@ -1255,10 +1329,10 @@ nem lehetne hívő csak néhány szűk ateista kör által terjesztett
 hazugság, amivel saját felsőbbrendűségüket igyekeznek igazolni. Amikor a
 tudományokkal foglalkozunk, akkor tényleg meg
 
-<span id="anchor-59"></span>Emberi- és párkapcsolatok
+<span id="anchor-590"></span>Emberi- és párkapcsolatok
 -----------------------------------------------------
 
-### <span id="anchor-60"></span>Szeretet
+### <span id="anchor-600"></span>Szeretet
 
 Szeretet nélkül semminek nincs értelme se a világban, se az
 univerzumban. Az különbözteti meg az igazakat és a Magyart a sehonnani
@@ -1281,7 +1355,7 @@ szer, amit az emberek az élő Istennel való szövetség mintájára kötnek,
 olyan kötelékké, amely az igaz ember minden cselekedetét átszövi és
 megfelelő, magosságos „tett”-eket szül.
 
-### <span id="anchor-61"></span>Szerelem
+### <span id="anchor-610"></span>Szerelem
 
 A szeretet magosságos törvényét alkalmazók remélhetőleg maguktól,
 önmaguktól – tehát abból a magból, mely bennük él és csírázik ki a
@@ -1370,7 +1444,7 @@ magnak, mely bennünk a fény ígéretét tartalmazza – ne ártsunk! Nem lelki
 önsanyargatók, hanem igaz emberek legyünk és igaz embereket keressünk. A
 saját érdekünk és az emberiség érdeke is, hogy ne adjuk alább!
 
-### <span id="anchor-62"></span>Lovagiasság
+### <span id="anchor-620"></span>Lovagiasság
 
 Vannak akik a lovagiasságot úgy élik meg, mintha a lovagiasságot csak a
 gyengével szemben gyakorolhatnánk. Nincs is nagyobb ostobaság ennél a
@@ -1385,16 +1459,16 @@ lovagiasságát, de nem önző éne miatt élvezkedik benne, hanem szeretetből
 olyan férfi, aki dühöt táplál maga és a világ felé olyan pillanatában,
 amikor nem érez elég erőt a lovagiasságra.
 
-### <span id="anchor-63"></span>Segítségnyújtás és a segítő kéz elfogadása
+### <span id="anchor-630"></span>Segítségnyújtás és a segítő kéz elfogadása
 
 TODO: Nyújtsunk és fogadjuk is el a segítséget!
 
-### <span id="anchor-64"></span>Szeretteink elvesztése
+### <span id="anchor-640"></span>Szeretteink elvesztése
 
 TODO: Halál, vagy más által történő elvesztés is (pl. válás, földrajzi
 távolság)
 
-<span id="anchor-65"></span>Szexualitás
+<span id="anchor-650"></span>Szexualitás
 ---------------------------------------
 
 A szexualitással mindenki találkozik, része az életnek, természetnek és
@@ -1502,7 +1576,7 @@ melyben valami elérhetetlenné válik számunkra. Azért igyekeznek mindent
 kipróbálni egyesek, mert vannak olyan dolgok, amiket mindörökkön örökké
 elveszni látnak már.
 
-<span id="anchor-66"></span>Kísértés
+<span id="anchor-660"></span>Kísértés
 ------------------------------------
 
 Légy erős, ne lengedezz,\
@@ -1515,10 +1589,10 @@ Hited ne hagyd oda!\
 Vesszen el az ostoba,\
 De te ne légy buta!\
 
-<span id="anchor-67"></span>Alkalmazandó stratégia
+<span id="anchor-670"></span>Alkalmazandó stratégia
 ==================================================
 
-<span id="anchor-68"></span>Az ellenség
+<span id="anchor-680"></span>Az ellenség
 ---------------------------------------
 
 Ellenséged nem emberi személy,\
@@ -1545,7 +1619,7 @@ fegyver az: élesebb mint a kard; olyan nyílvesszők szavai, amikkel az
 időn és a teren is keresztül lehet hatolni – az itt leírtakat csakis
 Magyarul lehet igazán érteni.
 
-<span id="anchor-69"></span>Győzd meg a gazdagok utódait
+<span id="anchor-690"></span>Győzd meg a gazdagok utódait
 --------------------------------------------------------
 
 Tudással fel sem érhető uradalom,\
@@ -1568,7 +1642,7 @@ Aki meggyőzi őket az már győzelmet aratott. A nyelvben is láthatod,
 hiába tagadod. Ha esetleg ezt valaha majd úgy olvasod, valódi fiatal
 úrként, titokban szorongatod – büszke vagyok rá, de sok a feladatod.
 
-<span id="anchor-70"></span>Légy türelmes – az aranymag örök
+<span id="anchor-700"></span>Légy türelmes – az aranymag örök
 ------------------------------------------------------------
 
 Az igaz aranymag soha nem vész el,\
@@ -1576,18 +1650,18 @@ Ha földbe vetetted, majd egyszer kikel,\
 Ilyen egy napba öltözött és igazi jel,\
 Ami örök, ha kell hát örökké telel!
 
-<span id="anchor-71"></span>Lelki és testi önvédelem
+<span id="anchor-710"></span>Lelki és testi önvédelem
 ----------------------------------------------------
 
 TODO: Főleg a lelkiekről – mert az sokkal fontosabb.
 
-<span id="anchor-72"></span>Hősiességről és bölcsességről
+<span id="anchor-720"></span>Hősiességről és bölcsességről
 ---------------------------------------------------------
 
-<span id="anchor-73"></span>Szeretetről és hűségről
+<span id="anchor-730"></span>Szeretetről és hűségről
 ---------------------------------------------------
 
-### <span id="anchor-74"></span>A világunk tagjainak felébresztése
+### <span id="anchor-740"></span>A világunk tagjainak felébresztése
 
 ### 
 
