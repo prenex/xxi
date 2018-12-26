@@ -630,7 +630,7 @@ Minden dolog igazából élőlény is, mely azáltal él, hogy új életet ad -
 teremt. Az új élet két élőlény közötti kapcsolatból származik.
 
 Minden élőlényre igaz, hogy az összes minden létezőt „látja” és
-kapcsolatban áll a teljes mindenséggel, de ez a látás nem olyan látás,
+kapcsolatban áll a teljes mindenséggel, de ez a "látás" nem olyan látás,
 mint amit mi megszoktunk. Akkor ugyanis, amikor a rózsa piros színét
 megtapasztaljuk, akkor nem felismerjük a teremtett piros színt – hanem
 akkor teremtjük meg magát ezt az érzetet. Az érzékelés maga a teremtés
@@ -713,8 +713,84 @@ mindezt modellezni, párhuzamos lehetőségek végtelen létezése nélkül?
 <span id="anchor-170"></span>Jövőbe látás
 ----------------------------------------
 
+Két eshetőség van:
+
+- A jövőbe látás illúzió: a "jelent" látjuk csak a mi relatív időnkben még a múltban tartunk.
+- A jelent látjuk és annyira egyértelmű hogy merre vezetnek az ok-okozati láncok, hogy emiatt a "jövőt" látjuk.
+- Forgatókönyv: Maga a jelenség egy "ügy", amiért különféle élőlények "harcolnak" - vagy elérni, vagy elkerülni.
+- Sablontörténet: Maga a teremtő és az előlények többsége előre "megegyezhetnek" egy bizonyos történetben, amiben a szereplők helye ki van hagyva. Olyankor a sablon úgy "aktiválódik", ha a történet szerepei eljátszásra kerülnek, ezáltal beteljesednek.
+- De-ja-vu: Itt most azt hívjuk de-ja-vunek ha csak beteljesedéskor jut eszünkbe, hogy "ezt már láttuk".
+- Egyéb más hasonló módok.
+
+Vegyük az illúzió esetét, ekkor ugyanis ahhoz hasonlóra gondoljunk, 
+mintha eltérne a "valós idő" és a saját időpillanataink egymás utáni 
+sorából fakadó idő. Ekkor mi úgy érezzük, hogy még az ágyban alszunk 
+példának okáért - miközben a valós idő már a jövőben látott esemény
+pillanatában jár. Látható, hogy távoli "próféciák" jelenségét nem ez
+a mód, hanem az ok-okozati láncok, forgatókönyvek, sablonok jelentik.
+
+Az illúzió jellegű relatívan átélt időből való "jelenbe látás", ami 
+a "ritkább átélési teremtés" eredménye tehát leginkább a megérzések, 
+a közeljövő "meglátása" esetén jelentkezik. A sablonok ellenben jól 
+magyarázni képesek miért nem tudja senki "kiszámolni" mikor is fog 
+majd beteljesedni a jelenések könyve - miközben lesznek jelek a 
+földön és az égben, illetve senki sem mondja, hogy nem lehet ezen 
+jeleket "meglátni" és ezzel tájékozódni. Pont az ellenkezője van 
+leírva ugyanis: akinek van szeme látja, akinek van füle hallja!
+
+A De-ja-vu jelensége is érdekfeszítő. Az érzet abból fakadhat, hogy 
+teljesen ugyan azt átélni kétszer nem lehet, mert teljesen ugyan azt 
+megteremteni nem lehet - minden átéléssel-teremtés egyedi, habár 
+kapcsolódhat ugyan ahhoz a tárgyhoz belőlünk kiindulva. Mivel az 
+élmény a teremtés során nem lehet pontosan a korábbi, ezért egy 
+igen furcsa érzést, vagyis de-ja-vu érzést érzünk, ami a közeli 
+teremtés miatt, szinte a korábbi élménnyel való "súrlódás" miatt 
+keletkezik. Azt érezzük, hogy pont ugyan azt nem teremthetjük! 
+
+A de-ja-vu jelensége azért is érdekes, mert a hasonlóság miatt 
+ha megfelelően gyorsan észbe kapunk, akár nagyon jó "becslést" 
+is kaphatunk a közeli jövőre, vagy a nem belátott jelenre nézve!
+
+Természetesen a teljes jelen pillanatot mindig ismerjük, így a
+jelen vizsgálatára nem feltétlen a legtisztább ez az eszköz, de
+akár arra is jó lehet a pillanat hevében.
+
+Érdekes kérdés miként jelenthetnek eseményeket az égi és földi 
+jelek. Fizikai szemmel a csillagok és égitestek távolsága erre 
+nem sok alkalmat adhat, azonban másként fest a helyzet ha a jel 
+szónak a "szimbólum" jelentését kezdjük használni! Ugyanis újra 
+a nyelv hoz minket helyzetbe a megértéshez: a jelek szimbólumok!
+
+Ezt azért fontos hangsúlyozni, mert így egy analógiákkal dolgozó 
+világ tárul elénk, amelyben bizonyos élőlény helyezte el a jelet 
+és pontosan azért, hogy nagyobb időszakokra felhívja a figyelmet, 
+illetve nagyobb jelenségekre, a szimbólumot megtestesítő erőre!
+
 TODO: kép arról, hogy mit jelent, ha az átélt idő és a valós idő
 eltérnek.
+
+TODO: Az alábbiakat emberi nyelvre fordítani... :-)
+
+A "valós időnek" most azt nevezzük, amely az egyes teremtő-pillanatok 
+sorát adják a mindenségben. Ha úgy modellezzük a mindenséget, ahol 
+az egyes élőlények minden teremtő-pillanatban vagy megteremtik azt, 
+amit átélni választanak a mindenség teljes állapotában, vagy nem,
+akkor lehetséges olyan helyzet, hogy bizonyos lények "ritkábban"
+élnek át 10db pillanatot, mint mások - vagy az is lehet, hogy minden 
+élőlény más és más relatív időben létezik. Túl nagy idő-eltérés nem 
+lehetséges, mert az a kommunikációt is zavarná az emberek között, 
+de bőven lehetséges olyan, hogy amikor álmunkban a jövőt "látjuk", 
+akkor nem a "jövőt" látjuk, hanem már abban a helyzetben van a 
+világ és mi a "jelent" látjuk fura módon.
+
+A fentiekből fakad, hogy a jövőbe látás illuzíó jellegű módjához az 
+vezet, ha egy élőlény ritkán él a teremtés lehetőségével, de amikor 
+él vele, akkor - bár a jelen előrehaladt - de ő maga még a múltnak 
+megfelelő érzeteket állítja elő. Sajnos az ilyen "jövőlátás" nem 
+igazán "hasznos", mert semmit se változtathatunk a látottakon, ha 
+nem sablont, vagy lehetőséget, hanem ténylegesen a jövőt véljük
+"jelenlátással" látni. Ez inkább egy jelenség, mintsem kiaknázható 
+képesség úgy látszik.
 
 <span id="anchor-175"></span>A "három izom"
 -----------------------------------------
@@ -753,13 +829,90 @@ megtörténjenek. A sátán eme hiányból született és egy létező személy,
 kísértései is létezők, de a természete olyan, akár az üresség
 természete.
 
-<span id="anchor-190"></span>A világ teremtése
----------------------------------------------
+<span id="anchor-190"></span>A mindenség kezdete, a világ teremtése és formája
+----------------------------------------------------
 
-TODO: ábrák a kezdetekről – a világ olyan mint egy virág, vagy egy nagy
-fa ;-)
+Ahogy az élőlények felépítése fejezetben is leírtuk, az érzet és a 
+megtapasztalás maga a teremtés észlelése. Csak azt látjuk, amit mi 
+teremtünk a mindenség jelen állapotából. Ezt megfigyelhetjük, hiszen 
+az adott érzet, a rózsa színe korábban sehol nem létezett és egy olyan 
+információ, amelyet emberi és nyelvi eszközökkel nem tudunk leírni.
 
-TODO: kapcsolat a folyamatos teremtésről szóló résszel
+Az ilyen érzet láthatóan az élőlény és az érzet tárgyának a sajátja, 
+tehát ezt a kettőt kapcsolja össze. Fontos látnunk, hogy a mindenség 
+könnyen modellezhető innentől kezdve az alábbiak szerint.
+
+A létező dolgok kapcsolatok - valamely élő lény maga és az általa
+átélt tárgy között. A létező dolgok "élnek" amennyiben ők is hasonló 
+kapcsolatokat teremtenek (szintén két-végű kapcsolatokat) amely 
+kapcsolatok egyik vége saját magukban, a másik vége az átélt érzet 
+tárgyában található meg. A rendszer indulásához kell egyetlen egy 
+darab kezdeti létező (Isten személye), amely természetesen élő kell 
+legyen. Ezen kezdeti létező önmagában az alfa és az omega - a kezdet 
+és a vég is egyben, ezért egy körként rajzolhatjuk papírra.
+
+Vegyünk elő egy papírt: kezdetben rajzoljuk rá Istent, mint önmagába 
+kapcsoló egységet - azaz kört. Ez a kör önmaga megismerésével teremti 
+meg az első néhány tőle független létezőt, amelyet úgy rajzolhatunk le,
+hogy kis hurkokat húzunk a körből, mintha virágszirmok lennének.
+
+Miután több ilyen "hurok" kialakult, ők is képesek már teremteni és 
+ők is elkezdhetnek saját kapcsolatokat kialakítani egymás és Isten 
+megismerésére. Minden élőlény "tudhatja" a mindenség teljes állapotát, 
+de mivel azt éljük át, mikor teremtünk, ez számunkra nem látszik úgy, 
+ahogyan például a szobánkat látjuk. Amikor ugyanis azt látjuk, akkor 
+éppen az zajlik le, amint a mindenség jelenlegi állapotából - amiben 
+mi úgy értjük a megbeszélt nyelv szerint, hogy egy szobában ülünk - 
+megteremtjük az ennek megfelelő érzetet és átélt pillanatokat.
+
+Szükség van ugyanis egyfajta "nyelvre" ahhoz, hogy az élőlények egy 
+világban, egymással és nem csak egymás mellett éljenek. Rendszert 
+alkottunk, amelynek során az egyes létezők a közösen elfogadott 
+szabályok szerint "teremtik" meg az érzeteiket, ezért idővel egy 
+nyelvet beszélve a jelen világot kialakítottak.
+
+Érdemes a fentieket összekapcsolni a teremtés könyvével, ami több 
+jelentős ponton összecseng az itt leírtakkal. Érdekes látni például, 
+hogy miután Isten valamit teremt, mindig "látá, hogy ez jó", ami 
+egy igen erős utalás, a teremtés, mint átélés, mint érzet jellegének 
+a leírására! Megtudhatjuk továbbá, hogy mi és milyen sorrendben lett 
+először megteremtve, illetve a fenti rendszerben követhetjük az 
+események lefolyását annak a könyv szerinti részleteiben is.
+
+Fontos látni továbbá, hogy miként jelennek meg "élőlényként" ebben 
+a modellben a természeti törvények is: ugyanis változás nincs a 
+rendszerben az új érzetek teremtésén kívül! Ha egy kilőtt nyilat 
+a következő pillanatban egy kicsit odébb látunk, akkor meglehet, 
+hogy egy - most egyszerűsítve - mozgatónak nevezett élőlény figyel 
+amely semmi mást nem tesz, mint megteremti a következő pozíciónak 
+megfelelő hurkot, amelyet mindenki más megfelelő érzettel válaszol 
+meg. Fontos látni, hogy nem a nyíl maga teremtődik meg, sem nem 
+annak alakja, sem a képe, hangja - hanem csak egy "szabálysablon".
+Ez a szabálysablon annyit jelent, mint hurok, hogy a "nyíl" és a 
+"mozgató" létezők között kapcsolat alakul ki, amit mindenki a 
+"megbeszélteknek", a nagy nyelvnek megfelelően úgy bont ki, hogy 
+minden esetben ha a nyílra nézünk, olyan érzetet látunk, ahol az 
+a szabályoknak megfelelően "odébb van" már.
+
+Felmerül, hogy eltérhetünk-e a világ, vagyis a közös nyelvi alap 
+szabályaitól, vagy sem. Természetesen eltérhetünk, azonban úgy 
+nagy valószínűséggel teljesen magunkra maradunk: jobb esetben az 
+ilyesmi képzelődésként - rosszabb esetben mentális betegségként 
+fog mások számára látszani. Ne becsüljük le életünk során tanult 
+"világnyelvünket" amely miatt más élőlényekkel beszélhetünk! Ha 
+más, a mindenségben létező, de nem a világban lévő életelemekkel 
+akarunk kapcsolatba lépni, lehetőleg sose próbáljuk lerombolni a 
+világgal lévő meglévő kapcsolatunkat! Erre szükség nincs, de a 
+rombolás során könnyen eltévedhetünk, miközben a józanságunkra 
+lenne éppen a legnagyobb szükség. A magvető mágusnak nem szükséges 
+boszorkánysággal élnie és kétes szerekhez, állapotokhoz nyúlnia!
+
+TODO: ábrák a kezdetekről – a világ olyan mint egy virág, vagy egy
+fa - ha kicsit másképp rajzoljuk meg (bár a virág közelebbi) ;-)
+
+TODO: kapcsolat a folyamatos teremtésről szóló résszel (élőlények rész)
+
+TODO: Kapcsolat a számok végtelenségének modelljével (köv fejezet pl.)
 
 <span id="anchor-200"></span>A végtelenség helyes fogalma
 --------------------------------------------------------
