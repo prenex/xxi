@@ -1105,7 +1105,7 @@ szinte egyetlen más élő nyelvre sem jellemző sajnos ma már!
 
 7. A szógyökök, szótövek és szavak is sokszor hangutánzó jellegűek!
 
-### <span id="anchor-426"></span>Áttekintés
+### <span id="anchor-427"></span>Áttekintés
 
 A fenti hét pont közül az első hármat még manapság is tömegesen ismerik 
 az emberek, de sokan azt sem ismerik fel, hogy a "vár" ige (várakozás) 
@@ -1159,8 +1159,8 @@ de itt most az egyszerűség kedvéért jelezzük: ezért Valentin = Bálint.
 
 Nem csak a teljesen egyező jelentésű nevek, vagy szavak, hanem az 
 eltérő jelentésű szavak, szótők és szógyökök mögé látás is előnyös. 
-Így látható például a "HiT" és "HiD" jelentéstani kapcsolata, vagy 
-az "ital", "etel", "atilla", "Etele", "Étel" szavak jelentéstani 
+Így látható például a "HiT", "HéT" és "HiD" jelentéstani kapcsolata,
+de az "ital", "etel", "atilla", "Etele", "Étel" szavak jelentéstani 
 kapcsolódása is. Ez nem csak teljes szavakra, hanem a szótagokat 
 alkotó szógyökökre is vonatkoztatható - pl. a Boszorka szóban így 
 emiatt a BoS szótőhöz kapcsolt "-oR-ka" azaz "Úr-ka" is megjelenik, 
@@ -1183,16 +1183,45 @@ számára érezhetően és láthatóan töredezett, köves, vagy más olyan utat
 jelent, amely egy szekéren közlekedve "drapatás" szónak megfelelő érzetet 
 kelt bennünk áthaladáskor - legyen az hang, vagy más hatás miatt.
 
-### <span id="anchor-428"></span>Mássalhangzó-csoportok és átjárások
+### <span id="anchor-428"></span>Mássalhangzó csoportok "hangkategóriák" és átjárások szerint
 
-TODO:
+Mint azt említettük, a magánhangzókat lényegében elvethetjük, hozzáadhatjuk, 
+cserélhetjük szabadon és a mássalhangzók adják meg a csontszerkezetét a szónak. 
+A mássalhangzók változtatgatásával és kereshetjük az értelmükben hasonló 
+szavakat, azonban ekkor csak a mássalhangzók csoportjait képző "hangkategóriák" 
+szerint érdemes elvégeznünk az átalakításokat.
 
-B - V - P - stb.
-D - T - stb.
-N - M - Ny - stb.
-S - Sz - Z - Zs - stb. ("magánhangzó" bizonyos értelemben!)
-Cs - C - stb. (és Cs átjárási pont előző alcsoporttal)
-stb.
+Ezen hangkategóriák tehát:
+
+1. (B - P) - (V - F): "Pöfögős" hangkategória (A)
+
+2. D - T - Ty: "Felpattanós" hangkategória (B)
+
+3. J - R - L - Ly - "Nyelvmozgós" hangkategória
+
+4. (K - H) - (G - Gy) - (Dzs): "Köhögős" hangkategória (C)(D) 
+
+5. N - M - Ny: "Letapadós" hangkategória (orrhangok) (E)
+
+6. (S - Sz - Z - Zs) - (Cs - C): "Sziszegős" hangkategória (F)
+
+7. X - Y - Q - W: "Idegen" hangkategória (G)
+
+Megjegyzések / átjárások:
+
+* (A) Itt (és később) zárójellel  alcsoportokat jelzünk, mert láthatóan a hangképzés csak közeli rokon a két alcsoport között. A V-F alcsoport szinte magánhangzóként is viselkedni képes!
+ 
+* (B) Látható, hogy a "Ty" hang, a "Gy" segítségével át tud vezetni a kategóriákon!
+
+* (C) A Dzs-n keresztül ritkán az 3. és 4. kategóriák felé is lehet átjárás itt!
+
+* (D) Itt a "Gy"-hez el lehet jutni a G, Dzs, de a "Dj" felől is - átjárási pontként!
+
+* (E) Itt kategória-átjárást lehetséges: N-D, M-B (orrbefogva)
+
+* (F) Itt az első és második alkategóriát megint az választja szét, hogy "magánhangzóként" hallathtó-e folytatólagosan!
+
+* (G) Ezek külföldi forrásból érkezettek, ezért az adott szó kiejtése szerinti egyéb kategóriába esővel kell hasonlítani!
 
 ### <span id="anchor-429"></span>Nyelvpörgetési példák
 
@@ -1336,8 +1365,31 @@ kifejteni!
 
 #### <span id="anchor-495"></span>Az iszlám
 
+TODO: Allah - Éli - és egyéb korábbi nevek amik alapul szolgáltak.
+
+Iszlám kozmológia: Igen lényeges annak felismerése, hogy egy adott 
+dologgal nem csak a fizikai valója, de a korábban vele fizikailag és 
+nem fizikailag kapcsolatba került dolgok is utaznak! Ebből fakad itt 
+a "Halal" típusú ételkészítés és sok más szokás, illetve tiltás. A 
+vallási "szabályokat" nem szabadna olyan szigorral venni, mint az az 
+iszlám vallásra sajnos jellemző, de a mögöttes mondanivaló itt nagyon 
+értékesnek tűnik. Ez ugyan az a gondolatmenet, ami alapján többet ér 
+egy kézműves ital, mint az ezt elemezve, fizikailag molekulárisan 
+teljesen megegyező pontossággal, de gyártási módszerrel előállított 
+ital. Az ezoterikus és new-age jellegű szekták ezt különféle rejtett 
+energiákkal, vagy rezgésekkel hoznák összefüggésbe, holott ez nem 
+ilyen misztikus - vagy inkább még misztikusabb - ami csupán annyit 
+jelent, hogy valamilyen módon a múlt a jelenbe tapodva megőrződik!
+
 TODO: A vallás emberadta részeinek túlságos előtérbe hozásának és a
 "szolgálatnak" a problémái.
+
+A nővel kapcsolatos bánásmód szomorú. Fontos, hogy különböző a nő és 
+a férfi, de soha nem szabad ebből alá-fölérendeltséget kihozni, mert 
+akkor elvetjük a nőiség vagy férfiasság értékeit valamely irányban. 
+Etekintetben a vallás gyakorlásának a módjában biztos problémák vannak, 
+amennyiben az bármely fél érzéseit sérti - nem feltétlenül a mélyebb 
+rétegekben, de az is baj, ha az emberek dogmatikus saját nézeteiben.
 
 #### <span id="anchor-500"></span>A kereszténység
 
@@ -1399,7 +1451,7 @@ volna el, hogy a pokolra kerültünk! Ez a keresztényi gondolat, nem a
 pokoltól való félelem, hanem a jó tett önmaga jutalmaként történő
 működés gondolata!
 
-#### <span id="anchor-530"></span>Javaslatok és álmok
+#### <span id="anchor-530"></span>Javaslatok
 
 TODO: A legontosabb – minden vallás az egy Istent és teremtményét
 imádja. Nézzük csak meg amit fentebb az univerzumról mondtunk!
