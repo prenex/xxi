@@ -1076,7 +1076,111 @@ tégy és ahelyett, hogy hamis történelmet írnak, a sajátjukat, az
 igazságot naggyá tehessék, amire büszkék lehetnek! Ne nézd le a
 körülötted élőket, hanem próbáld megtanítani arra, hogy
 
-TODO: A magyar nyelv csodája
+<span id="anchor-425"></span>A magyar nyelv csodája
+
+A Magyar nyelv az egyik legfontosabb eszközünk a világosság és a világ, 
+illetve a mindenség megértéséhez. Nem csak nagyon régi és ragozó nyelv, 
+de minden szinten értelem szövi át, ezáltal pedig a szavak nem csak 
+megtanulandó hangsorok, hanem olyan módon rendezett hangsorok, mely 
+szervezésével egymáshoz hasonlóvá, rokon hangzásúvá és szerkezetűvé 
+teszi azon szavakat, amelyek egymáshoz közel álló jelentésűek.
+
+A nyelvben ez az értelem több szinten keresztül is át van szőve, ami 
+szinte egyetlen más élő nyelvre sem jellemző sajnos ma már!
+
+1. Ragozva alkothatunk meglévő szavakból újakat "szókeveréssel".
+
+2. A szóbeli sorrend, a szórend kötetlen, de a hangsúly az elől van!
+
+3. A többjelentésű szavak/gyökök jelentései összefüggenek (pl. vár szó)
+
+4. A legtöbb esetben a mássalhangzók hordoznak jelentést (kivéve: fiai)
+
+5. Ami hasonlónak hangzik, hasonló alakú, szinte mindig hasonló is!
+
+6. Tol-da-lé-kol-va a legkisebb alkotók (gyökök) is jelentéssel bírnak!
+
+7. A szógyökök, szótövek és szavak is sokszor hangutánzó jellegűek!
+
+A fenti hét pont közül az első hármat még manapság is tömegesen ismerik 
+az emberek, de sokan azt sem ismerik fel, hogy a "vár" ige (várakozás) 
+és a "vár" (mint várkastély) is rokonok az értelmükben, így a teljesen 
+közismertnek csak az első két szintet nevezhetjük a fentiekből. Az első 
+pont alapján mondhatjuk: megszentségteleníthetetlenségeskedéseitekért, 
+a második alapján pedig mindkét következő mondat egyaránt értelmes: 
+odakint megetetem a macskát - megetetem a macskát odakint. Természetesen 
+más és más hangsúllyal érezzük a két azonos jelentést ez utóbbinál és 
+természetesen senki nem "tanulja" meg a hosszú és külföldieknek igen 
+elrenttentőnek tűnő itt említett szót sem.
+
+Azt, hogy főként a mássalhangzók hordozzák a jelentést abból is könnyen 
+kigondolhatjuk, hogy a Székely-Magyar rovásírásban is bevett szokás, hogy 
+csak ezeket rója le az ember, míg ez más szintén nagyon vén nyelvekre is 
+jellemző (pl. sumér és más korai betűírások esetén). He ez nem gyez meg 
+menket, ekker heszneljek a jezen pereszt eszt e gendelkezes tenyenek 
+megesmeresehez es bezenyetesehez.
+
+Látszólag kivételeket találunk már eme szabály alól, például a "fiai" 
+szó vizsgálatával, azonban nem csak az igaz, hogy a "kivétel erősíti a 
+szabályt", de jobban megvizsgálva könnyen lehet, hogy itt le nem írott 
+mássalhangzók szerepelnek a kimondott szavakban! A "fi" ugyanis itt a 
+fiatalságot, fiúságot, (élet-)fa jelentést adja meg (lásd "királyfi"). 
+Amikor azt írjuk "fia", akkor sokszor úgy ejtjük "fija" (lásd: erdeje). 
+Ez arra utal, hogy igazából itt az "a", "i" és "j" hangok egymáshoz 
+olvadásának egy fajtáját láthatjuk. Több ilyen kivétel található a 
+nyelvben, de meglehet, hogy a legtöbb esetben hasonló, vagy más jellegű 
+egyszerűsödés miatt kerülnek a magánhangzók a fontosabb szerepekbe. 
+Még ezzel együtt is érdemes kiemelnünk, hogy ilyen szerep a szótövekben 
+és így a szavak korai jelentéstani rétegeiben szinte egyáltalán nem 
+jut a magánhangzóknak és csupán a ragozás során találunk így jelentést. 
+A szótőben lévő magánhangzó-különbségek általában inkább hangulati 
+módon változtatják meg a szó értelmét - de az alapjelentést már nem.
+
+Amennyiben az előző két bekezdésben írtakat kiegészítjük, már az ún. 
+"nyelvpörgetés"-nek a talajára kerülünk, amit mesemondók, történészek 
+és nyelvészek ma is szívesen használnak, de a köznép már kevésbé. A 
+legfontosabb kiegészítés, hogy Magyarul "ami hasonló a nyelvben az a 
+jelentésében is hasonló". Ez legfőként a mássalhangzó-csoportok és az
+egyes csoportok közötti átírási szabályok és a szógyökök kapcsolatában 
+jelenik meg a mélyebb szinten. Alapvető biológiai és nyelvi kérdés, 
+hogy bizonyos hangok más hangok rokonaiként jelennek meg és a nyelv 
+bizonyíthatóan alkalmazza az egyes hangváltozatok közötti átjárást.
+Azt mondhatjuk, hogy leegyszerűsítve: a magánhangzók elhagyhatók, 
+berakhatók (ha nincs) és cserélhetők tetszőlegesen, de a mássalhangzók 
+berakása és elhagyása általában nem lehetséges, illetve cseréjük is 
+legtöbbször csupán a velük egy csoportba sorolt mássalhangzókkal
+történhet. A csoportokat később külön fejezetben ismertetjük pontosan, 
+de itt most az egyszerűség kedvéért jelezzük: ezért Valentin = Bálint.
+
+Nem csak a teljesen egyező jelentésű nevek, vagy szavak, hanem az 
+eltérő jelentésű szavak, szótők és szógyökök mögé látás is előnyös. 
+Így látható például a "HiT" és "HiD" jelentéstani kapcsolata, vagy 
+az "ital", "etel", "atilla", "Etele", "Étel" szavak jelentéstani 
+kapcsolódása is. Ez nem csak teljes szavakra, hanem a szótagokat 
+alkotó szógyökökre is vonatkoztatható - pl. a Boszorka szóban így 
+emiatt a BoS szótőhöz kapcsolt "-oR-ka" azaz "Úr-ka" is megjelenik, 
+amiben a "-ka" kicsinyítő az a nőiségre vezet már el a szótő felől.
+Ennek alapján tehát igen javasolt a szótagolás az elemzés esetén, de 
+figyeljünk fel arra, hogy nem mindig úgy kerültek a szógyökök egymásra 
+ahogyan magánhangzóként szoktunk szótagolni! Inkább a mássalhangzót 
+kell némely esetben a tagolási határnak vennünk!
+
+TODO: Például az "R" hang megjelenése a szógyökben kerringést, 
+forrongást, tehát ciklikusságot jelent, akárcsak kimondása közben a
+pergés, amit érzékelünk.
+
+<span id="anchor-428"></span>Nyelvpörgetési példák
+
+<span id="anchor-429"></span>Mássalhangzó-csoportok és átjárások
+
+TODO:
+
+B - V - P - stb.
+D - T - stb.
+N - M - Ny - stb.
+S - Sz - Z - Zs - stb. ("magánhangzó" bizonyos értelemben!)
+Cs - C - stb. (és Cs átjárási pont előző alcsoporttal)
+stb.
 
 <span id="anchor-430"></span>Vallásokról és hitről
 -------------------------------------------------
