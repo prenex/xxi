@@ -1076,7 +1076,10 @@ tégy és ahelyett, hogy hamis történelmet írnak, a sajátjukat, az
 igazságot naggyá tehessék, amire büszkék lehetnek! Ne nézd le a
 körülötted élőket, hanem próbáld megtanítani arra, hogy
 
-<span id="anchor-425"></span>A magyar nyelv csodája
+<span id="anchor-425"></span>A Magyar nyelv csodája
+--------------------------------------------------
+
+### <span id="anchor-426"></span>Alapjellemzők
 
 A Magyar nyelv az egyik legfontosabb eszközünk a világosság és a világ, 
 illetve a mindenség megértéséhez. Nem csak nagyon régi és ragozó nyelv, 
@@ -1101,6 +1104,8 @@ szinte egyetlen más élő nyelvre sem jellemző sajnos ma már!
 6. Tol-da-lé-kol-va a legkisebb alkotók (gyökök) is jelentéssel bírnak!
 
 7. A szógyökök, szótövek és szavak is sokszor hangutánzó jellegűek!
+
+### <span id="anchor-426"></span>Áttekintés
 
 A fenti hét pont közül az első hármat még manapság is tömegesen ismerik 
 az emberek, de sokan azt sem ismerik fel, hogy a "vár" ige (várakozás) 
@@ -1163,15 +1168,22 @@ amiben a "-ka" kicsinyítő az a nőiségre vezet már el a szótő felől.
 Ennek alapján tehát igen javasolt a szótagolás az elemzés esetén, de 
 figyeljünk fel arra, hogy nem mindig úgy kerültek a szógyökök egymásra 
 ahogyan magánhangzóként szoktunk szótagolni! Inkább a mássalhangzót 
-kell némely esetben a tagolási határnak vennünk!
+kell némely esetben a tagolási határszélnek vennünk!
 
-TODO: Például az "R" hang megjelenése a szógyökben kerringést, 
-forrongást, tehát ciklikusságot jelent, akárcsak kimondása közben a
-pergés, amit érzékelünk.
+Amikor még egy szinttel mélyebbre merészkedünk, akkor sok helyütt 
+egyenesen hangutánzó, vagy fizikai érzettel kapcsolódó kapcsolatokat 
+találunk a nyelvben. Például az "R" hang megjelenése a szógyökben, mint
+keRingés, foRRongás, esetén is egyfajta körkörös ciklikusságot jelent,
+akárcsak kimondása közben az a pergés, amit érzékelünk, hallatunk. 
+Ehhez hasonló a "pillangó", vagy "lepke" szavakban érzékelhető "lebegés", 
+vagy "pillanás" is, ami mind a légiességre vezet úgy is, hogy csak 
+a kiejtést "érezzük", de a nyelvről semmit sem tudunk. Ilyen például az 
+igen ritkán használt "drapatás út" kifejezés is, amely mégis mindenki 
+számára érezhetően és láthatóan töredezett, köves, vagy más olyan utat 
+jelent, amely egy szekéren közlekedve "drapatás" szónak megfelelő érzetet 
+kelt bennünk áthaladáskor - legyen az hang, vagy más hatás miatt.
 
-<span id="anchor-428"></span>Nyelvpörgetési példák
-
-<span id="anchor-429"></span>Mássalhangzó-csoportok és átjárások
+### <span id="anchor-428"></span>Mássalhangzó-csoportok és átjárások
 
 TODO:
 
@@ -1181,6 +1193,12 @@ N - M - Ny - stb.
 S - Sz - Z - Zs - stb. ("magánhangzó" bizonyos értelemben!)
 Cs - C - stb. (és Cs átjárási pont előző alcsoporttal)
 stb.
+
+### <span id="anchor-429"></span>Nyelvpörgetési példák
+
+TODO: MaGyaR, MaG, stb.
+TODO: BoSzoRKáNy
+TODO: VaLLáS
 
 <span id="anchor-430"></span>Vallásokról és hitről
 -------------------------------------------------
