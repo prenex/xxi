@@ -980,13 +980,108 @@ törvényt szeg?
 <span id="anchor-240"></span>Népek, nemzetek és történelmük
 ----------------------------------------------------------
 
+A népek - sőt fontosabb és értékesebb formájukban: nemzetek - fennmaradása 
+mint már említettük kulcsfontosságú az emberiség önvédelmi rendszerében. 
+Ha az egyféleség uralkodik el, akkor sokkal nehezebb a pénz alapú hatalomnak 
+valamilyen ellenpárját, vagy gátját előállítani és más okból is gyengébb 
+szerkezetet kapunk. Egy kertben is előnyös többféle növényt termeszteni, 
+hogy ha valamit el is visz a betegség, a másik megmaradjon.
+
+Jelenleg az a folyamat zajlik a világban, hogy a lényegi sokszínűséget, 
+egy lényegtelenített sokszínűségre, a közösségi sokszínűséget (nemzet), 
+pedig egyéni sokszínűségre cserélik. Ez a folyamat oda vezet, hogy az 
+egyes emberek magukra maradnak, vagy gyenge és szervezetlen erőként 
+tudnak csak csoportosan megjellenni, illetve ezen csoportok helyhez, 
+közös mélységi tartalomhoz és sok szálon kapcsolt kultúrákhoz nem 
+köthetők. A nemzet gondolatképét tehát így országokkal váltják fel, 
+ahol egyfajta mézes-mázos gondolat szerint nem számít ki honnan jött, 
+csak az számít, hogy kik laknak egy közös helyen.
+
+A probléma igen mélységessé válik azonban akkor, ha felfigyelünk arra, 
+hogy itt egyáltalán nem a különbözőségek elfogadásáról, hanem azok 
+kiegyenlítéséről és megszűntetéséről van szó! Ha valaki át szeretne 
+költözni a világ egyik feléből a másikba, akkor ezen menetrendnek és 
+sémának megfelelően sajnos nem arról beszélhetünk, hogy ő "Német", 
+"Magyar", vagy "Angol" azért akar lenni, mert az adott nemzet része 
+szeretne lenni, annak kultúrája megfogta az embert, annak küldetése 
+az ő küldetésének érződik - hanem emögött csak önző és egyéni érdek 
+áll. De még akkor is ettől független érdeket láthatunk csak a dolog 
+mögött, ha valaki szerelemből költözik valahova (akár afrikába is).
+
+Ne értsük félre: ebből még kialakulhat az adott nemzetet erősítő, 
+odaillő személy, de ez utólag dől el - ahogy esik úgy puffan módon.
+
+A folyamat látszólag az egyik félnek kedvez, de hosszú távon mind a 
+két nemzetet gyengíti akkor, ha nem sikerül komolyabb (lelki) 
+kapcsolatot alakítani ki a nemzetünkkel. Erkölcsi kérdés továbbá az 
+is, hogy vajon nem-e szükséges tényleg megtartani az eredeti saját 
+hovatartozásunkat inkább? A válasz természetesen az, hogy egyénileg 
+soha nem szabad elfelednünk honnan jöttünk és ez a jelenség csak egy 
+bizonyos gyakoriság felett okoz komoly problémát mindkét félnek.
+
+Külön kell tehát választani az egyéni és a nemzeti életútra gyakorolt 
+hatásokat egymástól, de mind a kettőt értenünk kell, a saját döntéseink 
+meghozatalakor.
+
+Fontos érv a "kiegyenlítődés" mellett, hogy a konfliktusok a különbségek 
+és egyedi jellemzők mentén - kiemelkedően pedig a releváns eltérések 
+mentén - alakulnak ki és ezért békésebb, jobb világot eredményez, ha 
+megszűntetjük a különbségeinket. Érdekes hogy ez az érv pont azoktól 
+hangzik el elsősorban, akik egyébként a "sokféleséget" hírdetik éjjel 
+és nappal egyfolytában. Ez azonban nem csak az önellentmondás miatt 
+igen veszélyes gondolkozásmód, hanem gyakorlatilag az emberiség rossz 
+tulajdonságainak az elfogadását és mindenhatóságát erősíti. Ugyanis 
+nem a különbségekkel van a baj, hanem mindenkor azzal volt a baj, 
+aki a különbséget látva meg szeretné szűntetni azt a másik kárára.
+A kultúrák egymásra hatása azonban nem csak negatív, hanem pozitív 
+és nem csak háborgáson, hanem testvériségen is alapulhat, amire 
+vannak régi és modern történelmi példák is. Ezek tűnnek előre mutató 
+eredményeknek, mert ez fejleszti lassan és hosszútávon az emberiség 
+morális és erkölcsi érzékét egy magasabb szintre. Sajnos amikor 
+mindent össze akarunk mosni, nem teszünk egyebet, mint egyszerre 
+minden néppel és nemzettel viselünk hadat - abban reménykedvén, hogy
+ők ezt valamiért nem veszik észre. Észreveszik. Az ilyesmi erőszakra 
+vezethet ugyanúgy, mint a kevésbé rejtett hódítási módszerek. Az is 
+naív elképzelés továbbá, hogy a problémák a különbségekből - és nem 
+magukból az emberek hibáiból fakadnak. Erre mondják azt, hogy nem 
+a lényegi problémát akarjuk megoldani, hanem azt szőnyeg alá söpörjük.
+
+A legnagyobb veszélyt az jelenti, hogy ha mindez mégis sikerülne, úgy 
+egy sokkal könnyebben manipulálható és gyengébb emberiséget kapnánk, 
+ahol a pénzen alapuló hatalmat nem képesek a különféle nemzetek 
+ellensúlyozni. Ez gyakorlatilag azért van, mert a demokrácia nem tud 
+megfelelően skálázódni egy bolygó nagyságú rendszerre anélkül, hogy 
+a hatalom ne érhesse el, hogy megszűnjék a szabályozása. Nincs nyelvi, 
+sem helyből fakadó korlát, nincsenek egyedi szabályozások amik lassítani 
+tudnák egy-egy globális pénzügyi tőke térnyerését - csakis egy másik 
+pénzügyi erő. Ehhez hasonlóan a közös érdekérvényesítés is sokkal 
+gyengébbé válik sajnos, mert az emberek nem alkotnak közösséget, csupán 
+egy helyen élnek (ha egyáltalán lesz helyi parlamentjük még).
+
+Mindeközben az emberiség a valós sokszínűségét veszíti el, amelyet egy 
+tervezett és alacsonyabb rendű egyedi színesség próbálja felváltani, 
+ami viszont nem lényegi, hanem csomagolás-szintű, felületes eltérések 
+alapján különül csak el mindenki mástól és a társakra találás se úgy 
+megy az ilyen közösségekben majd, hogy földrajzilag bármi közük lenne 
+egymáshoz. A kultúra több-ezer évig való fejlődését nem lehet veszteség 
+nélkül eltörölni - márpedig a homogenizáció csak az eltörlés árán tud 
+valóságosan végbemenni.
+
+Itt találkozik a "múltat végképp eltörölni" szlogen, a fogyasztói és 
+"modern" társadalom gyökértelenségével - csak a módszer hatékonyabb!
+
+A továbbiakban összegyűjtünk néhány nemzetet és családot - a teljesség 
+igénye nélkül - illetve összegezzük nem csak a történelmi sajátosságokat, 
+az önmeghatározást, de ami fontosabb: egy-egy elérendő küldetést is!
+
 ### <span id="anchor-250"></span>Birodalmak és háttér-hatalmak
 
-TODO: Perzsa, Róma, stb. bábel tornyának újjáépítése – nem tanultunk a
+TODO: Sajátosságok: Perzsa, Róma, stb. bábel tornyának újjáépítése – nem tanultunk a
 hibáinkból.
 
-TODO: milyen egy „jobb birodalom”? Atilla, Pártus birodalom – nemzetek,
+TODO: Küldetés: milyen egy „jobb birodalom”? Atilla, Pártus birodalom – nemzetek,
 önazonosságuk megtartásával...
+
 
 ### <span id="anchor-260"></span>Kína
 
@@ -1019,7 +1114,9 @@ TODO: negatív lehetőségek
 
 ### <span id="anchor-320"></span>Afrikai országok
 
-### <span id="anchor-330"></span>Kihaláshoz közel álló apró népek
+### <span id="anchor-325"></span>Természetközeli törzsek
+
+### <span id="anchor-330"></span>Kihaláshoz közel álló népek
 
 ### <span id="anchor-340"></span>Angol-szász kultúra
 
@@ -1054,6 +1151,8 @@ TODO: Múlt nélküliség, gyökértelenség
 
 TODO: Baj? Nem baj?
 
+TODO: "Szlovákia" / "Románia"
+
 ### <span id="anchor-400"></span>Szláv népek
 
 TODO: Sose nézd le a szlávokat – lehet hogy a mindig aktuális birodalmak
@@ -1067,14 +1166,24 @@ TODO: hasonlóságok
 
 TODO: különbségek
 
-### <span id="anchor-420"></span>Magyarság – a mag népe
+### <span id="anchor-420"></span>Magyarság – a mag nemzete
 
 TODO: pontosan mit jelent, milyen feladat.
 
 TODO: ne igázz le másokat, a feladatod az, hogy mindenkit kiválasztottá
 tégy és ahelyett, hogy hamis történelmet írnak, a sajátjukat, az
 igazságot naggyá tehessék, amire büszkék lehetnek! Ne nézd le a
-körülötted élőket, hanem próbáld megtanítani arra, hogy
+körülötted élőket, hanem próbáld megtanítani arra, hogy van értelme 
+kibontakozniuk!
+
+Küldetések:
+
+1. A nemzetek nemzete: a nemzetek értéket képviselnek, nem veszhetnek el!
+2. Hősiesség nemzete: A világon élni csak hősként érdemes! A tipikusan Magyar széllel szembe vizel ha a szél nem jó!
+3. Mágusok, tudósok, táltosok nemzete: A Mag népe, ami úgy fejti ki hatását, akár a mustármag!
+4. Megmaradás nemzete: ha mindenki elveszne, legyen aki Magyar kíván lenni és újraindítja a sokszínűséget!
+5. A mélyen értelemmel átszőtt nyelvet átörökíteni hivatott nemzet.
+...
 
 <span id="anchor-425"></span>A Magyar nyelv csodája
 --------------------------------------------------
