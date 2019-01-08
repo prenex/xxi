@@ -435,7 +435,7 @@ száma? Erre itt most két variációt is adunk:
 
 Érdemes elgondolkozni ezen, persze aki empirikusan kipróbálja, az majd
 rájön akkor is, hogy melyiket kell használni, ha esetleg nem tudná már
-most a választ, hogy ¼, vagy 1/3 a valószínűség. Az elgondolkodtató
+most a választ, hogy 1/4, vagy 1/3 a valószínűség. Az elgondolkodtató
 dolog az egészben csupán annyi, hogy mind a kettő modellnek van
 látszólag létjogosultsága, mind a kettő lehetne az, amely a valóságot
 leírja. Ha majd mélyebben belegondol az olvasó, akkor esetleg eljöhet
