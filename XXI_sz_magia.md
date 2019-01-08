@@ -1183,6 +1183,28 @@ számára érezhetően és láthatóan töredezett, köves, vagy más olyan utat
 jelent, amely egy szekéren közlekedve "drapatás" szónak megfelelő érzetet 
 kelt bennünk áthaladáskor - legyen az hang, vagy más hatás miatt.
 
+Fontos megjegyezni, hogy az egy mássalhangzó-kategóriába, vagy csoportba 
+tartozó hangokat nem csak megkettőzhetjük, vagy elhagyhatjuk (egyszeresít), 
+hanem olyan kettőzés is lehetséges, amely során a másik tag nem pont 
+ugyanaz a hang, hanem egy azonos hangkategóriájú, másik hang is lehet!
+Ez addig folytatható, amíg a nyelv engedi: SzáRNy -> SzeReLem így alakul 
+például amiatt, hogy az "R" hangot, egy azonos kategóriába tartozó "L" 
+hang "kettőzi" meg, illetve kiegészül egy kiejtést segítő magánhangzóval!
+
+Azt is fontos látnunk, hogy a szógyökökben általában nem csak a pozitív, 
+vagy a negatív - hanem egyszerre a teljes jelentéskör megfogalmazódik! 
+Ezért van, hogy például a Boszorka szóból a "Bosz" szógyök egyaránt 
+rokonítható a "Bősz" és a Bő, BőS(-éges) szavakkal, de a Bosszú-val 
+közös szógyökkel is! A szó etekintetben nem annyira gonosz személyt, 
+hanem inkább viharos, bősz és bőséget is jelent, ami óvatosságra int, 
+veszélyt jelez - de nem feltétlen eredendő gonoszság miatt, hanem 
+azért, mert esetleg könnyen abba fordulhat a jelentés. Hasonló példa 
+lehet még az "öl", illetve "él" szavak is, melyek egymás ellenpárjának 
+tűnnek - sőt kétszeresen is ellenpárnak tűnnek, mert az egyik esetben 
+az igei, a másik esetben pont a névszói (anyai öl) jelentés a pozitív.
+Itt azzal állunk szemben, hogy az egész életet, kezdettől a végig egy 
+értelmezési keretben képes a nyelv megjeleníteni és használni.
+
 ### <span id="anchor-428"></span>Mássalhangzó csoportok "hangkategóriák" és átjárások szerint
 
 Mint azt említettük, a magánhangzókat lényegében elvethetjük, hozzáadhatjuk, 
