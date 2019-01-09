@@ -1344,7 +1344,7 @@ Megjegyzések / átjárások:
  
 * (B) Látható, hogy a "Ty" hang, a "Gy" segítségével át tud vezetni a kategóriákon!
 
-* (C) A Dzs-n keresztül ritkán az 3. és 4. kategóriák felé is lehet átjárás itt!
+* (C) A Dzs-n keresztül a D és és Zs hangkategóriák felé lehet átjárás!
 
 * (D) Itt a "Gy"-hez el lehet jutni a G, Dzs, de a "Dj" felől is - átjárási pontként!
 
