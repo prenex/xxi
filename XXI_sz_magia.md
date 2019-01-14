@@ -1354,13 +1354,190 @@ Megjegyzések / átjárások:
 
 * (G) Ezek külföldi forrásból érkezettek, ezért az adott szó kiejtése szerinti egyéb kategóriába esővel kell hasonlítani!
 
-### <span id="anchor-429"></span>Nyelvpörgetési példák
+<span id="anchor-429"></span>"Nyelvpörgetési" példák
+--------------------------------------------------
+
+Az eddig leírt elméleti ismeretek akkor válnak élő tudássá, ha mindezen 
+ismereteket alkalmazzuk is. Ez azért is fontos, mert a szabályok és 
+jellegzetességek csak így épülnek be a tudatunkba és akkor vagyunk csak 
+képesek élni a nyelvünk lehetőségeivel, ha szokásunkká válik egy-egy szó 
+kimondásakor a nyelv mélyebb tartalmára való "ráébredés".
+
+Amikor jól alkalmazzuk a fentieket, akkor folyamatos "megvilágosodás" 
+jellegű érzésben lesz részünk, miközben a nyelvet használjuk és akkor 
+járunk el helyesen, ha ez automatikusan történik, nem pedig erőltetve. 
+
+A gyakorlatozás a fentiek mellett azért is fontos, mert bár a leginkább 
+célravezető jelenségeket itt ismertettük, de vannak más szabályosságok, 
+illetve jelenségek. Az itt leírtak sem feltétlenül kőbe vésett törvények, 
+hanem sokkal inkább a gondolkozásunk vezérfonalát mutató példák.
+
+Ez a fejezet azért áll itt, hogy lássuk: A Magyar nyelven erőlködéstől 
+mentesen és élő módon érdemes rácsodálkoznunk a mélyebb jelentésekre és 
+a szavaink közötti jelentési kapcsolatok hálóira - így a világot és a 
+mindenséget is jobban megismerve. Ne akarjunk minden egyes kimondott 
+szót szétszedni, hanem hagyjuk hogy magunktól eszméljünk rá ezen 
+felismerésekre miközben beszélünk.
+
+Amikor írásban és nem a kimondott beszédben akarjuk elemezni a szavakat 
+(már célzott módon), akkor ellenben jól járunk el akkor, ha eleve azt 
+az írásmódot használjuk, amelyben minden magánhangzót kicsi és minden 
+mássalhangzót nagybetűvel írunk ki! A dupla betűket akár ligatúra-szerű 
+módon, egymásra írva is jelölhetjük, hogy tudjuk: egyetlen egységet 
+képeznek ilyen esetekben. Ezt gépírás esetén egyszerűen úgy lehet 
+helyettesítenünk, hogy csak egy betűt írunk le.
+
+Összefoglalva: beszéd közben hagyjuk magunkat rácsodálkozni a nyelvre!
+
+### <span id="anchor-430"></span>Felhő, eső, csepp
+
+Először egyszerűbb szavakkal kezdünk, bemelegítésként tehát vegyünk 
+néhány időjárással kapcsolatos példát. A felhő szavunk hallatára a 
+legtöbben csak legyintünk és "értjük", hogy miről van szó, ám tényleg 
+értjük-e, hogy ez maga a FEL-HŐ? Tudatosul-e amikor kimondjuk?
+
+Korábban ez a falusi kultúra ismert részét képezte, de oly sok viszály 
+és a modern történelem hatására a legtöbben elszoktunk attól, hogy a 
+szó kimondása közben rácsodálkozzunk a nyelv mély valóságismeretére, 
+pedig a legtöbb más nyelv nem tud ilyet, ott ez csupán egy szó és már 
+régen elveszett a hasonló jellegű eredeti jelentés-forrás.
+
+Szokjunk hozzá, hogy a Magyar nyelven ez a jelentés-forrás nem veszett 
+el és nem is kell olyan sokáig keresgélnünk!
+
+Fontos látnunk, hogy nem csak eleve összetett és fél-összetett szavak 
+esetén működik a nyelv logikája, de olyan esetekben is, amit egyben 
+olvashatunk sajnos, oszthatatlan egységként a szó-tárakban.
+
+Ebben az esetben nem csak az a csoda, hogy a szó-tár szónak is van még 
+jelentése, mert a dictionary szó esetén az angolok is el tudnak jutni 
+egy latin jelentés-forráshoz ahol a szavuk kialakult erre a jelentésre, 
+de a legnagyobb csoda, hogy Magyarul általában minden különálló rész 
+érthető szinte a legtöbb esetben a napi Magyar nyelvhasználat szerint 
+nézve is! Mindenki érti mit jelent a "szó" és mit jelent a "tár", ez 
+végett pedig, hogy a jelentéseket megértsük akár itt, akár a fel-hő szó 
+esetén, nem kell több, mint egy juhász nyelvismerete!
+
+Az esŐ szavunk esetén is eljuthatunk addig a jelentéstartalomig, mely 
+szerint "Ő az aki esik", "ő es". Ezen a ponton azonban már kezdjük 
+elhagyni az összetett szavak világát és azt is észrevehetjük, hogy 
+mit is jelent tulajdonképp ez az eSő? Az "s" hangot hosszan mondva 
+ugyanis ahhoz az érzethez jutunk, amit a "Sebesen Suhan a Szél s eSik" 
+szójátékkal is érzékeltetni tudunk: a Süvítő jellegű mozgásra lelünk!
+
+Ebből láthatjuk, hogy az "S" hangnak tehát van egy ilyen süvítő mozgás, 
+esés jelentése amit szinte a hang kimondásával egy időben azonnali 
+képként jelenítünk meg a fejünkben.
+
+Ha felfigyelünk rá, akkor látható, hogy a Szél is egy ilyen Szúrós 
+mozgása magának a levegőnek bár itt már nem egyazon hangot, hanem 
+már egész hangkategóriát kell látnunk a jelentéstartalom mögött!
+
+Keressünk csak hasonlóan kezdődő szavakat az egyszerűség kedvéért: 
+Zuhan, eSő, Csepp, Szúr, Só, csúcs, Szemcse, Semmi, Se, Suhan, Zuhog, stb.
+
+Aki esetleg nem tudja megfogalmazni, az is érzi, hogy van egyfajta 
+kapcsolat a szavak közt: érzi, mert amikor kimondja a hangzás segít! 
+A nyelvünk nem véletlen megegyezéseken, hanem úgy építkezik, hogy a 
+szó kimondása során, a hangképzés természeti törvényei miatt szinte 
+képes-beszéd szerű tudat-kép jelenjen meg, ami hordozza a jelentést!
+
+Láthatjuk azt is, hogy nem csak egyetlen jelentést, hanem néha egy 
+jelentés-csoportot is tetten érhetünk: Az 'S' hang egyaránt képes a 
+suhanó, leeső mozgásra és a szúrós csúcsos tárgyra, vagy savas, sós 
+(szintén szúrósnak is mondható) érzést is megjeleníteni ezen képes 
+beszéddel a fejünkben.
+
+Amikor az eső leCsap és az eső-Cseppek, szinte Csobogva szétkenődnek 
+akkor is látjuk a nyelv erejének ezt a fajta megnyilvánulását.
+
+A csepp szó vizsgálatával továbbá megkezdhetjük a korábban említett 
+egyéb szabályosságok és jelenségek mentén történő szó-keresést is:
+
+	CsePp / CsöPp
+	CsaP
+	SeB
+	csip-csup
+	SzéP
+
+	stb.
+
+Itt rögtön azt is tetten érhetjük, hogy az egyes szavak ilyetén 
+csoportosításával lesznek olyan párok, amelyek jelentéstartalma 
+egy bizonyos fogalom mentén közvetlenül, mások viszont nem rögtön 
+közvetlenül, hanem egy más rokon szó egy másik továbbvitt jelentése 
+által kapcsolódnak hangalakilag és írásmódban egymáshoz.
+
+A csepp és a csap szavak a "becsapódás" jelentéstani jelleg miatt 
+találnak egymásra és azzal jutunk el a könnyen látható kapcsolathoz, 
+miszerint a magánhangzókat lényegében tetszésünk szerint csereberélni 
+tudjuk. Ez vezet egyébként a csak magánhangzóban eltérő, de azonos 
+jelentésű alakok megjelenéséhez is, de a jelentési hasonlósághoz is.
+
+A CsaP szót tovább vizsgálva viszont máris a "SeB" kerül elő, ami itt 
+egy ok-okozati láncolat miatt és az "S" alaphang jellege miatt is 
+igen könnyen előkerül többek között. Arról nem is beszélve, hogy aki 
+"sebes" az ebből kifolyólag "csöpögteti" a vérét is, kivéve akkor, ha 
+egy sebes vágtáról van szó, amikor a sebesség azért jelenik meg, mert 
+semmire sem ügyelve, akár sebbel-lobbal és tüzön-vízen keresztül 
+kell gyorsan célba érni akár a sérülések megszerzésén át is!
+
+A csepp szó azonban egyben kicsiséget is kifejez úgy mint csepp a
+tengerben. Ugyan ezt láthatjuk akkor is, amikor valaki csip-csup, 
+azaz aprócska ügyekkel foglalkozik.
+
+A csepp mindezeken felül egy kecses és szép alakot is kifejez. Az 
+alakiság jelentésének ez a formavilága rokonítható talán még a 
+SzéP szóval is, amelyhez a Cs-Sz hangkategória-váltással jutunk.
+
+Amit kapunk az egy szó-háló amely a szabályok mentén bontakozik ki. 
+Ez a szó-háló azonban akkor érthető és érezhető át, ha nem csak 
+vakon alkalmazzuk a szabályosságokat és a hangváltásokat, hanem 
+ha a szabályokkal és az értelmünkkel egyszerre dolgozunk. Ne úgy 
+tekintsünk a nyelvre, hogy a "SeB" és a "SzéP" ugyan annyira lenne 
+rokon, mint a "Seb" és a "Csap", mert a jelentések ismerőiként és 
+Magyarként az ilyen elemzésben egyértelmű kell legyen, hogy mely 
+szavak kapcsolódnak közvetlenül és melyek egy másik kapcsolaton 
+keresztül - illetve mely kapcsolat mennyire erős, mi okból áll meg. 
+
+Fontos továbbá, hogy ahol lehet elsősorban ne a ragozott alakot 
+próbáljuk hasonlítani a mássalhangzók és magánhangzók váltásával. 
+Nem ildomos tehát a "szebb" szóhoz jutni a "szép" helyett, mert 
+a ragozás és a szótövek, szógyökök elemzése között szintbeli 
+eltérések lehetnek annak ellenére is, hogy vannak esetek, amikor 
+az ilyen vizsgálat is célravezető lehet - például akkor, ha azt 
+akarjuk megérteni, hogy egy bizonyos ragozási szabály miért is 
+alakult ki a nyelvben és ez miként rokonítható a szótő-kapcsolati 
+szabályosságok, vagy mélyebb szabályok rendszeréhez.
+
+Az utolsó komolyabb hivatalos Magyar szó-tár, szógyűjtemény, amely 
+tartalmazza az ilyen irányú jelentéstani boncolgatásokat is, a 
+Fogarasi-Czuczor féle Magyar szótár volt egyébként. Ezt sajnos már 
+a legtöbb esetben az ilyen nyelvi mélységek elhagyása követte csak.
+
+Amikor a szavakat a kezdő mássalhangzó szerint rokonítottuk fentebb, 
+akkor egyébként ugyan ezen rendszert használtuk, mint a csepp szó 
+elemzésénél, azonban sokszor nehézséget jelenthet megtalálni az 
+egyes "szógyököket" a szavak szintjén. Amikor nem sikerül ezeket a 
+kisebb képleteket jól elhatárolni, segítségünkre lehet ha csak a 
+szavak legelejére koncentrálunk, mert a leghangsúlyosabb jelentés 
+általában pont itt található meg! Azt is láttuk, hogy ezt nem 
+igazán befolyásolják az első szógyököt formáló mássalhangzó előtt 
+álló esetleges magánhangzók sem.
+
+### <span id="anchor-431"></span>Lop, meglovasít, vágta, sebes
+
+TODO: ....
+
+### <span id="anchor-433"></span>Élet, világ, mindenség
+
+TODO: ....
 
 TODO: MaGyaR, MaG, stb.
 TODO: BoSzoRKáNy
 TODO: VaLLáS
 
-<span id="anchor-430"></span>Vallásokról és hitről
+<span id="anchor-439"></span>Vallásokról és hitről
 -------------------------------------------------
 
 ### <span id="anchor-440"></span>A szent könyvek helyes olvasata
