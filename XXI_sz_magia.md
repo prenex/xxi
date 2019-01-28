@@ -1939,30 +1939,281 @@ mindenhatóságát azáltal, hogy végtelen bölcsességében talán olyan
 módokat választ az emberekkel való érintkezésre, mely sokkal jobb annál,
 amint amit mi esetleg magunk a legerőteljesebbnek elképzelnénk!
 
-<span id="anchor-560"></span>Populáris kultúra és média
-------------------------------------------------------
-
-<span id="anchor-570"></span>A lokalitás törvénye
+<span id="anchor-560"></span>A lokalitás törvénye
 ------------------------------------------------
 
-<span id="anchor-580"></span>Tudomány
+TODO: Ez nem véletlen van az államormák előtt
+
+<span id="anchor-567"></span>Államformák és nemzetszervezési elemek
+------------------------------------------------------------------
+
+A történelem során több (itt nem is említett) államforma illetve 
+ezen belül is többféle nemzetszervezési elem alakult ki. Ebben a 
+fejezetben útmutatásként áttekintjük mind a jól ismert, a kevéssé 
+ismert, sőt akár teljesen új berendezkedéseket.
+
+
+
+TODO: Mindegyikhez - Leírás, Példák, Pro-Kontra-semleges jelenségek, hosszabb leírások
+
+### <span id="anchor-568"></span>Anarchia
+
+TODO:
+
+### <span id="anchor-569"></span>Királyság
+
+TODO: Az öröklött hatalom "tulajdonlás" jellegű pozitív hatása az uralkodó viselkedésére
+
+### <span id="anchor-570"></span>Császárság, Cárság
+
+TODO: Ezt amentén választottuk el önkényesen, hogy egy császár több 
+eredetileg különálló nemzet felett uralkodik,jellemzően egy birodalmi 
+kialakításban.
+
+### <span id="anchor-571"></span>Köztársaság
+
+TODO: "sima" köztársaság
+
+TODO: "nemesi" köztársaság és egyéb változatok, szavazás módjának változatai stb.
+
+### <span id="anchor-572"></span>Diktatúra
+
+TODO: Összehasonlítás és különbözőség a királysághoz képest
+
+### <span id="anchor-573"></span>Únió, globális demokrácia
+
+TODO: A demokrácia "rossz skálázódása"
+
+### <span id="anchor-574"></span>Érdemalapú rendszer (meritokrácia)
+
+TODO: A "mérhetőség" problémája
+
+TODO: Az érdemes vagy okos ember, nem feltétlen bölcs vezető
+
+### <span id="anchor-575"></span>Szakrális-irányítás
+
+TODO:
+
+### <span id="anchor-576"></span>Nemes-királyság
+
+TODO: A hatalomnak és a hatalom élvezetének a szétválasztása "kötelező életmóddal", mely leváltás esetén is megmarad!
+
+<span id="anchor-580"></span>Gazdasági berendezkedések
+-----------------------------------------------------
+
+TODO: rövid bevezető
+
+TODO: nem feltétlen érdemes egy bizonyos rendszert választani, ezek ugyanis egymással csereberélhető elemekkel rendelkeznek, így inkább az átfogó ismeret javasolt!
+
+### <span id="anchor-581"></span>Csere-kereskedelem
+
+TODO: Kezdetekben...
+TODO: "Modern" és új lehetőségek!
+
+### <span id="anchor-582"></span>Lovasnomád gazdaság
+
+TODO: Szkíta gondolat - Ne legyen semmid, aminek az elvesztésétől tarthatnál!
+TODO: Folyamatosan mozgó életmód (lovasnomád)
+TODO: Kizsákmányolás nehezen képes létrejönni (mert ellovagol máshoz)
+TODO: Csökkenti a szociális különbségek nagyságát
+
+### <span id="anchor-583"></span>Királyi gazdaság
+
+TODO: Általánosságban miként működik a gazdasg egy királyság esetén
+TODO: Miben térnek el pl. ezek a lehetőségek a klasszikus feudalizmustól?
+
+### <span id="anchor-584"></span>Klasszikus feudalizmus
+
+TODO: Földtulajdon alapú királyi gazdasági forma
+
+### <span id="anchor-585"></span>Kapitalizmus
+
+TODO: Legfőbb hátránya a visszacsatolás:
+
+* Pénz -> hatalom
+* Hatalom -> befolyás
+* Befolyás -> Pénz
+
+TODO: szabályozás nélkül felemészti az egyéb hatalmi formákat!
+
+TODO: "Látványra" irányuló fejlődés, rejtett hibákat támogat a rendszer (ha csak 20 év múlva halsz meg rákban akkor jó a termék...)
+
+TODO: hulladéktermelés, felesleges munkavégzés, fogyasztói társadalom...
+
+TODO: Ha más rendszerrel kell versenyeznie, a jobbik arcát mutatja, ha nincs ellenfele, akkor a legrosszabbikat!
+
+TODO: 80/20 arányban megoszló javak: a 20%-nyi tömeg a javak 80%-át is bitorolhatja akár...
+
+TODO: Érték helyett csak "népszerűség" és "eladhatóság" szerepel, ami sajnos nem azonos!
+
+### <span id="anchor-586"></span>Kommunizmus
+
+TODO: Hiánygazdaság
+
+TODO: Tőkével rendelkező erők ellenhatása és ellenérdekei
+
+TODO: Esetlegesen lassabb fejlődés
+
+TODO: Nem mindegy, hogy politikai célból kerül-e bevezetésre (pl. elnyomás alatt)
+
+TODO: Nem mindegy, hogy félig vagy teljesen diktatórkikus államformaként valósul-e meg.
+
+TODO: A közös tulajdonból fakadó problémák...
+
+TODO: pénzmentesség nehézségei, teljes állami kontroll problémái
+
+TODO: Érték helyett csak hasznosság szerepel
+
+### <span id="anchor-587"></span>Öngazdaság
+
+TODO: Önellátó rendszerek együttműködése
+
+TODO: önellátó falvak, önellátó házak stb.
+
+TODO: döntéshozatal minden esetben a lehető legközelebb az érintettekhez
+
+TODO: Környezetvédelmi adó a távolról szállított termékek esetén (vagy adómentesség a közelről szállítottakra / termeltre)
+
+TODO: Lásd még: lokalitás törvénye...
+
+### <span id="anchor-588"></span>Nemzeti gazdasági formák
+
+TODO: nemzeti szocializmus és nemzeti kapitalizmus, nemzeti öngazdaságok illetve ezek (és mások) keveredése.
+
+TODO: nem szabad összekeverni az államszervezettel, illetve itt sem mindegy, hogy miként valósul meg!
+
+TODO: Problémát és erőt is jelenthet az oligarchák megjelenése
+
+TODO: Gazdasági formák közötti átalakuláshoz mindenképpen előnyös
+
+TODO: "Bújtatott" berendezkedések (pl. ha két eltérő gondolkozású, de ezen dolgokban megegyező párt van csak)
+
+### <span id="anchor-589"></span>Kettősgazdaság
+
+TODO: Erős, de pénzt egyáltalán nem használó és csak kezdetleges igényeket kielégítő államilag irányított "beton-alap" (kommunizmus? öngazdaság?)
+TODO: Efelett viszont hagyományos piacgazdaság
+
+TODO: előny, hogy a piacgazdaság ellenpontját nem külső ellenpontként, hanem a belső háló kényszeríti ki, ezért megfelelőbben kell viselkednie. Nehézség a testre-szabás és az átállás (főleg, ha viszonylag normális piacgazdaságból kellene átállni, ott ez igen nehézkes)
+
+<span id="anchor-585"></span>Tudomány
 ------------------------------------
 
-A tudomány ne legyen ellenséged! Légy tudóssá, ismerd a világot, ismerd
-meg a fizikát, matematikát, biológiát csak ne ess ábrándok fogságába. Ne
-hagyd hogy az, ahogyan hitetlen emberek a saját igazolásukra próbálnak
-menedéket keresni a részletekben való elveszésben, téged megakadályozzon
-a tudományok művelésében!
+A tudomány ne legyen ellenséged! Légy tudóssá, ismerd a világot, ismerd 
+meg a fizikát, matematikát, biológiát csak ne ess ábrándok fogságába. Ne 
+hagyd hogy az, ahogyan hitetlen emberek a saját igazolásukra próbálnak 
+menedéket keresni a részletekben való elveszésben, téged megakadályozzon 
+a tudományok művelésében.
 
-A tudományok világában találkozhatunk sok önzéssel, önteltséggel és
-Isten iránti, vagy akár a nemzetek és értékek iránti haraggal is, de nem
-a tudás, hanem az emberek által találkozhatunk csak ezekkel. Nincs
-félnivalónk: Istent nem fogjuk elveszíteni azáltal, hogy többet tudunk
-meg a körülöttünk lévő világról. Ha a lelkünk nem zárkózik el Istentől,
-akkor az is világossá lesz, hogy az olyan nézetek miszerint tudós ember
-nem lehetne hívő csak néhány szűk ateista kör által terjesztett
-hazugság, amivel saját felsőbbrendűségüket igyekeznek igazolni. Amikor a
-tudományokkal foglalkozunk, akkor tényleg meg
+A tudományok világában találkozhatunk sok önzéssel, önteltséggel és 
+Isten iránti, vagy akár a nemzetek és értékek iránti haraggal is, de nem 
+a tudás, hanem az emberek által találkozhatunk csak ezekkel. Nincs 
+félnivalónk: Istent nem fogjuk elveszíteni azáltal, hogy többet tudunk 
+meg a körülöttünk lévő világról. Ha a lelkünk nem zárkózik el Istentől, 
+akkor az is világossá lesz, hogy az olyan nézetek miszerint tudós ember 
+nem lehetne hívő csak néhány szűk ateista kör tagjai által terjesztett 
+hazugság, amivel saját felsőbbrendűségüket igyekeznek igazolni. Amikor 
+a tudományokkal foglalkozunk, akkor általában gyakorlati és közvetlen 
+céllal, a világ megismerésére és a megismerésből fakadó ismeretek 
+alkalmazására törekszünk. Tudományos igényességgel vizsgálható persze 
+akár a metafizika, vagy filozóia is némely esetekben, azonban jobban 
+tesszük, ha általában inkább "csak" a világ és nem a teljes mindenség 
+vizsgálatára használjuk a tudományt.
+
+### <span id="anchor-586"></span>Problémák és korlátok
+
+A mélyebb rétegekben vizsgálva a fizikai és biológiai eredményeinket 
+természetesen már olyan hatásokra és jelenségekre is bukkanhatunk, 
+amelyek nem csak az érzékelt "világ", hanem a teljes mindenség pontos 
+megértéséhez is közelebb visznek. Nagyon fontos azonban látni, hogy 
+hol vannak lyukak, feltételezések, vagy önkényesen megválasztott 
+bizonyíthatatlan elemek. Amint praktikusan fogjuk fel a tudományokat 
+ezek a kisebb "problémák" nem fognak minket visszatartani attól, hogy 
+az új eredményeket, vagy az alkalmazásaikat feltárjuk.
+
+A "múlt bizonytalansága", vagy a "kilőtt nyíl problémája" tárgykörök 
+esetén boncolgatott kérdésekkel kapcsolatban vegyük észre, hogy az 
+a tudományos igényű és tudományos jellegű vizsgálódásokat nem kell, 
+hogy bármilyen okból "szükségtelenné" tegye! Annak felismerése, hogy
+egyfajta hit szükséges még a tudományos gondolkozás lefolytatásához 
+is, nem szabad, hogy bárkiben is komoly lelki fájdalmat okozzon. 
+Valószínűleg aki úgy érzi, hogy az ilyen és hasonló gondolatmenetek 
+olvasása közben agresszív érzelmeket tapasztal, vagy úgy érzi, hogy 
+összedől benne egy bizonyos világkép, könnyen áteshet a ló túlsó 
+oldalára: nem szabad a tudományos gondolkozás valódi és gyakorlati 
+hasznosságát kihajítanunk az ablakon.
+
+Mégis inkább jelent problémát a dogmatikus gondolkozás jelenleg a 
+gyakorlatban, amikor pl. valaki egy-egy tudományosan, kísérletileg 
+vagy vizsgálatokkal ellenőrízhető és leírható jelenséget a saját 
+ideológiájának igazolására használ fel.
+
+Szinte mindenki számára nyilvánvaló sokszor, amikor valaki azért 
+"menekül" a tudományokba, mert személyes, vallási problémákat akar 
+így feloldani - a gyakorlatban tehát az ateizmusba vetett hitét 
+szeretné erős(-nek tűnő) érvekkel alátámasztani. Ez a jelenség 
+akár neveltetés, akár egyéni "sérelem", akár más okból is meg 
+képes jelenni sajnos és rejtett dogmatikus elfogultsággal jár.
+
+Fontos kiemelni, hogy nem elsősorban a megtévesztő szándék az, 
+ami az ilyen embert vezeti: hacsak nem soroljuk ide azt a furcsa 
+szándékot, ami önmagunk megtévesztésére irányul. Ugyanis az ilyen 
+ember nem is elsősorban másokat akar meggyőzni a saját ideológiai 
+helyességéről, hanem önmagának akarja - szinte dacosan - valami 
+okból bizonyítani a saját ideológiáját. Ezért alakul ki harag az 
+ilyen emberben, amint bármi, vagy bárki rámutat egy **lehetséges** 
+problémára, vagy arra, hogy a dolgok mélyén elrejtve továbbra is 
+egy kifelé gyűrűző teljes bizonytalanság bújik meg. A probléma az 
+ilyen emberrel elsődlegesen az, hogy a tudományt nem a világ 
+gondjainak megoldására, nem is a világ megismerésére használa fel, 
+hanem ha látszólag ezekkel is foglalkozik, igazából legbelül egy 
+ideológiai érvelési eszközként tekint a felépített rendszerre!
+
+Ez az önmegtévesztés a következő módon működik: alkoss magadnak 
+egy önmagában ellentmondásmentes rendszert, ásd el a lehető leges 
+legmélyebbre a hiten alapuló axiómáit és körkörös érveléssel, 
+illetve arra hivatkozva, hogy "működik" használd ideológiai érvnek.
+
+A "kilőtt nyíl" problémájának valamikor lezajló vitája jól tudja 
+szemléltetni, hogy ez milyen barbár módon is meg képes jelenni. 
+Sok-sok értetlenkedő ugyanis arra hivatkozott, hogy a probléma, 
+nem is létezik, hiszen "a képletekből kiszámolható, hogy ennek 
+kell történnie". Ez igaz, csupán a hatásmechanizmus volt maga a 
+kérdés és ezt egy józan paraszti ésszel is be lehet látni, így 
+tetten érhető az egyfajta dogmatikus ragaszkodás ebben az esetben 
+is. Szintén hasonló jelenség az, amikor egy-egy egzotikus vallás 
+misztériumát nem tudja egy illető elképzelni, de azonnal egy 
+lehetséges alternatívát lát, ha ugyan azt egy félig sci-fi köntöst 
+viselve adják át neki egy szimuláció segítségével. Ez azért érdekes 
+mert gyakorlatilag csak szóhasználatról és átfogalmazásról van szó!
+
+Egyébként ne higgyük, hogy ez a probléma csak az ateista ideológia 
+mentén jelentkezik, mert más is képes ideológiai céllal végezni a 
+kutatásait. Ez az emberi természet részeként tekinthető, de pont 
+ezért jó tisztában lenni magával az elogultság jelenségével. Az 
+mondható el általában, hogy a tudományt ateista ideológiai érvként 
+használó ember inkább a rendszer mélyére "rejti" az erre nézve 
+problémaként megjelenő elemeket (ezt egy laikus nem látja!), míg 
+az ellenkező irányú elfogult érvelés esetén bizonyos kiválasztott 
+dolgok túlzott erősítése és nyomatékosítása szokott bajt okozni.
+
+Ezeket a problémákat nagyrészt elkerülhetjük akkor, ha gondolatban 
+mindig arra törekszünk, hogy jól lássuk: egy adott kérdéskör vajon 
+a világot, vagy a mindenséget leíró szabályszerűség? Vajon egy 
+adott jelenség elemei mit jelentenek a világra és a mindenségre 
+nézve? Mennyire jól különül el ez a két elem az adott jelenségben?
+
+### <span id="anchor-587"></span>Lehetőségek helyes alkalmazás
+
+A tudományt használjuk fejlesztésre:
+
+* A praktikus eredményekhez nem elég, ha csak a mindenséget ismerjük, mert mint korábban bemutattuk, a világ, mint egy közös nyelv egyedi szabályokkal rendelkezik. Ezek a szabályok igen hosszú idő alatt alakult közmegegyezésként jelentek meg az élőlények és alap építőelemek között azért, hogy egymással kommunikálni tudjunk, tehát bár nincsenek kőbe vésve, nagyon nem praktikus megpróbálni ellenemondani az így kialakult rendszernek, amikor ezen a rendszeren belül is találhatunk gyors és gyakorlati megoldásokat. **Nem érdemes eltölteni öt ezer évet azzal, hogy egy ablakokkal teli vasdobozt akarattal próbáljunk mozgatni, ha négy kereket rátéve ez könnyen elérhető!**
+
+* A tudományt használhatjuk a mindenség megértésének fejlesztésére is, azonban folyamatosan járjunk nyitott szemmel és előítéletektől mentesen, főként a dogmatikus elemeket kerülve.
+
+* Ahogy az előző fejezet végén leírtuk, a mindenség (univerzum) és a világ (láthatóság) érintettségének folyamatos fejben tartásával általában a tudományos gondolkozás kevésbé fog minket a dogmatikus irányba elvinni.
+
+<span id="anchor-588"></span>Populáris kultúra és média
+------------------------------------------------------
 
 <span id="anchor-590"></span>Emberi- és párkapcsolatok
 -----------------------------------------------------
