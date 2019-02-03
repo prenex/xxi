@@ -1155,7 +1155,7 @@ TODO: "Szlovákia" / "Románia"
 
 ### <span id="anchor-400"></span>Szláv népek
 
-TODO: Sose nézd le a szlávokat – lehet hogy a mindig aktuális birodalmak
+TODO: Sose nézd le a Szlávokat – lehet hogy a mindig aktuális birodalmak
 szolgaként számolnak velük, de te ne nézd le őket sosem. Ha segítesz
 nekik feljebb lépni, olyan nem várt szövetségeseid lesznek, melyekre a
 háttérhatalmak soha nem számítanának.
@@ -1346,15 +1346,198 @@ Megjegyzések / átjárások:
 
 * (C) A Dzs-n keresztül a D és és Zs hangkategóriák felé lehet átjárás!
 
-* (D) Itt a "Gy"-hez el lehet jutni a G, Dzs, de a "Dj" felől is - átjárási pontként!
+* (D) Itt a "Gy"-hez el lehet jutni a G felől, de a Dzs miatt a Zs-S-Cs felől és a "D+j" miatt még J felől is - átjárási pontként!
 
 * (E) Itt kategória-átjárást lehetséges: N-D, M-B (orrbefogva)
 
-* (F) Itt az első és második alkategóriát megint az választja szét, hogy "magánhangzóként" hallathtó-e folytatólagosan!
+* (F) Itt az első és második alkategóriát megint az választja szét, hogy "magánhangzóként" hallatható-e folytatólagosan!
 
 * (G) Ezek külföldi forrásból érkezettek, ezért az adott szó kiejtése szerinti egyéb kategóriába esővel kell hasonlítani!
 
-<span id="anchor-429"></span>"Nyelvpörgetési" példák
+### <span id="anchor-429"></span>Hangzási harmónia és egyéb érdekes nyelvi jelenségek
+
+A Magyar nyelv természetesen nagyon sok egyéb jól és kevéssé ismert 
+érdekes tulajdonsággal rendelkezik. Ezek teljes számbavétele erősen 
+meghaladná könyvünk terjedelmét, azonban mindenkit arra bíztatunk, 
+hogy a leírt kiindulási alapok mentén, józan és önmérséklettel is 
+átitatott gondolkozással csodálkozzon rá ezen jelenségekre.
+
+Az is megjegyzendő, hogy a könyv jellegéből adódóan eddig főként a 
+nyelv archaikus rétegeit vettük górcső alá. A fent leírt tartalmak 
+kiegészítéseként itt most néhány további jelenséget ismertetünk.
+
+Az első ilyen jelenség, a nyelvbe kódolt **hangzási harmónia**, ami 
+elsősorban a magánhangzók megválasztásakor látható, de más módon is 
+megjelenik. Nyelvünk oly okosan van megalkotva, hogy az egyes szavak 
+kiejtése a lehető legkönnyebben történjék, eleve megfelelő ritmika 
+és hangzás mellett.
+
+Pontosan ezen okból jellemző, hogy egy-egy szó végződése a magas és 
+mély hangrend szerint illeszkedik a szó végéhez (erővEl, kapávAl), 
+de ugyan ezen kiváltó okból kerüli a nyelv a Szlávos mássalhangzó 
+torlódás jelenségét is.
+
+Ne felejtsük el, hogy az igen érdekes mély jelentéstartalom mellett 
+a szavaink és nyelvünk az érzelem, hangulat és ritmika kifejezésére 
+is igen alkalmasak, illetve ezen elemek a nyelv megmaradásában is 
+sokat segíthetnek azáltal, hogy nehezítik a rossz ejtésmódokat!
+
+A magánhangzók kategóriái tehát:
+
+* **Mély (MÉ)**: a, á, o, ó, u, ú
+
+* **Magas (MA)**: i, í, e, é, ö, ő, ü, ű
+
+Ahol természetesen a nyelv megkülönbözteti a **hosszú(H) és rövid(R) 
+magánhangzó** jelleget is.
+
+Az, hogy a magánhangzó főként a **hangulat, az érzés lefestésére**, 
+a jelentés ilyen értelmű finomítására szolgál a szavainkban, tehát 
+jól látható okból ésszerű választás! Azt is  láttuk, hogy a szavaink 
+fő jelentéstani vázát a mássalhangzók adják meg, de a magánhangzók 
+töltik meg érzelemmel és gazdagítják hangulat szerint - például így 
+a nyelv képes hosszú-ságot (lásd itt az Ú végződés) képezni a hossz 
+szóból és magas-mély hangfestéssel, illetve az egyes hangok szerinti, 
+további szép, cirkományos és szinte festmény jellegű érzékletességgel!
+
+A mássalhangzók jelentésformáló alapszerepének ellenére azonban vannak  
+olyan helyzetek, amikor **magánhangzónak is jelentéstani főszerep jut.** 
+Ezért a magánhangzók önálló értelmezéséhez segítséget ád nekünk pl. a
+**csak-magánhangzó toldalékok és csak-magánhangzó szavak** vizsgálata.
+
+**Csak-magánhangzó szavak pl.:**
+
+* Ő: Helytől független utalás **valakire** (MA) (H)
+
+* A: Helytől független utalás **valamire** (MÉ) (R)
+
+* Ó: **Régi**, távoli, **szakrális** (sokszor a szóval összeolvadva, pl.: ókeresztény, ókor) (MÉ) (H)
+
+* E: **Megmutathatóan közeli**, kézzelfogható (lásd pl.: "e kard", "e korok" vagy "eme íj") (MA) (R)
+
+Arra is érdemes figyelmesnek lennünk, hogy a magas és a mély, illetve a 
+hosszú és rövid **mind a négy lehetséges kombinációja** megjelent. Tehát 
+képes volt a nyelv a jól érzékelhető és elkülöníthető hangzati érzeteket 
+felhasználni az egyszótagú, csak-magánhangzó szavak megalkotásákor, amely 
+szavak így tehát magukban, mássalhangzói váz nélkül is jól érzékelhetők!
+
+Az is látszik, hogy a **mély (MÉ)** itt tényleg egyfajta mélységet jelent! 
+Például ezért az "ó" esetén a régi, szakrális jelentéstartalom tényleg 
+jelent egyfajta szinte szellemi mélységet, melyet szinte hallani lehet, ha 
+valaki ezt a szót hallatja és az "a-az" esetén is megjelenik a mélység a 
+**magas (MA)** "e-ez, ő" ellenében, mert határozatlanságot fejezünk ki, Ami 
+és Amely így tehát az absztrakció, a nem-kézzelfogható felé visz minket.
+
+A hosszú-rövid (H)(R) érzettel is ugyanígy játszhatunk.
+
+**Csak-magánhangzó toldalékok pl.:**
+
+* -ó, -ő, (-ű): "ő, akiről a szó szól". (lásd pl.: megalkuvÓ, alakoskodÓ, seperŐ, seprŰ, esŐ, kezdŐ). Úgy kell érteni: "ő aki megalkuvik", "ő aki es-ik", stb!
+
+* -u, (-ű): Tulajdonlás, tulajdonság. (lásd pl. árU, fehérvárU, jelzésŰ)
+
+* -i: innen jövő, idevaló, ehhez tartozó (lásd pl. fehérvárI, CsokonaI, NagyszombatI, HúsvétI, többI)
+
+* stb.
+
+Itt nyilván figyelembe kell vennünk viszont, hogy a toldalék képzésekor 
+már egy teljes, megadott hangrendben álló szó mögé kellett azt tennünk, 
+így a mély-magas megfelelés miatt kevesebb szabadság áll rendelkezésre 
+a hang felhasználásakor ezért például az "-ó" és "-ő" rokoníthatóvá 
+lesz az "Ő" egy-magánhangzós szónak megfelelő jelentéssel annak ellenére, 
+hogy az egyik magas, a másik mély hangnemű.
+
+Talán ezen a ponton érdemes említeni, hogy a **"-u" végződés hajlamos 
+az "elhagyódásra"**, tehát mint érdekesség említhető, hogy a régebbi 
+Magyar beszéd kimutathatóan sokkal többször élt az ilyen végződéssel.
+Emellett némely **magánhangzó és mássalhangzó között is fennáll egy 
+rokonsági** viszony!
+
+Az **"i" és a "j"** hangok között csak a vak nem vesz észre egy bizonyos
+fokú testvériséget, de hasonlóan mondható az is, hogy az **"u" és a "v"** 
+hangok között is van egy (másféle) közösség. Például az "alVás" szavunk 
+-V módon történő toldalékolása a régebbi, ősibb "alUVás" alakot őrzik, 
+amelynél a ma rejtett, korábbi "-u" végződés más "V" hanggal toldalékolt 
+esetekben is sokszor kimutatható.
+
+Ezen a ponton már óvatosan szabad csak a nyelvhez nyúlni, mert több 
+késői jelenség is beférkőzhet az elemzésünk közé, ezért sokan inkább 
+csak a korok és az idő formáló hatásának jobban ellenálló mássalhangzós 
+szerkezetet és alap jelentéstant hasonlítják csupán. Ez persze érthető 
+is - főként ha egy ókori szóhasonlítást végzünk - de fontos említeni, 
+hogy a nyelv kifejező ereje nem áll meg ezen a ponton, többet is tud!
+
+A szavaink értelmezéséhez, illetve ókori, ősi más nyelvek szavainak 
+eredeti jelentéstartalmi hasonításához általában véve sokkal jobban 
+és sokkal többször juthatunk el a mássalhangzó kategóriák mentén 
+történő "nyelvpörgetéssel", de úgy véljük ez a kitérő is elég fontos 
+ahhoz, hogy szinte egy külön fejezetet szánjunk reá.
+
+Bár látszólag részletekről, érzetekről és a jelentés finomításáról 
+van szó, ami nélkül is érthető a legtöbb szavunk - főleg ha a szöveg 
+környezetében nézzük - az itt leírtak alapján könnyebben érthető 
+például az **Itt-Ott**, vagy az **Ide-Oda** pontos jelentése és más
+szavak egyes jelentéseinek a különbözősége!
+
+Most, hogy láttuk a mássalhangzó hangkategóriáknál, hogy a "d" és a 
+"t" egy hangkategóriában állnak, emellett pedig láttuk továbbá ezen 
+fejezetben, hogy a magas-mély magánhangzó hangzásilag jól elkülönülő 
+jellemzőit miként képes a nyelv használni rögtön meglátjuk azt is, 
+hogy az itt és az ide miként kapcsolódik össze a fő jelentését nézve 
+és miként képezheti az itt-ott a közeli és távoli jelentést a magas 
+és mély magánhangzó használatával.
+
+A nyelvünk további archaikus és a hangképzés rendjébe illeszkedő, máig
+megmaradt ritka eleme még az is, hogy szókezdetben a "h-" mássalhangzó 
+néha a jelentés megváltoztatása nélkül hozzátehető az alapszóhoz, mint 
+például az **"ajjaj-Hajjaj"** páros esetén. Ez ma már csak szórványos, 
+tényleg ritka esetekben használatos a mai nyelvünkben, de józan ésszel 
+látható, érezhető és érzékelhető, hogy ilyenkor szinte a "h" hangot ki 
+se mondjuk, alig ejtjük ki. Amikor erről a hangzati jelenségről szólunk, 
+megint csak távolodunk a nagy általánosságban és minden esetben szépen 
+használható "nyelvpörgetési" módszerektől, de néhány ilyen kivételes és 
+érdekes jelenséget is be kell mutatnunk, mert ezek mentén például olyan 
+rokonítások is egyértelművé válnak, mint a bizonyos Szláv nyelvekben az 
+eső szóra használt "kise". Ugyanis a h-k hangkategóriás egyezés mellett 
+a "H-" kezdet elhagyása, vagy hozzáadása már összekapcsolja a Magyar eső 
+szóval a megfelelő Szláv szót is, ezáltal megtalálva annak egy forrását.
+
+Az itt leírt további érdekességek bemutatása után a továbbiakban az egyes
+elméleti elemeknek, a gyakorlati példákon keresztül történő használatának 
+mutatjuk meg néhány lehetőségét - főként a mássalhangzó alapkategóriás és 
+alap-jelentéstani egyezési elemzés segítségével. Ez az elemzési mód azért 
+is kiemelt fontosságú, mert mind a Magyar-Magyar szóegyezések, mind pedig 
+a Magyar-más nyelvek szóegyezéseinek tartalmi megértésére is használható!
+Tehát nem csupán azt érthetjük meg az eddig leírtak segítségével, hogy a 
+szálló és a száll között miért és milyen a kapcsolat, de még olyan jellegű 
+"sejtésekbe" is bocsátkozhatunk, hogy a "Selo" elnevezés a falu esetén 
+bizonyos környező nyelvekben szintén a "szálló" egy formája, vagy akár a 
+"kulo/kula=vár" szó esetén az első szógyök a Magyarban is ugyan azt a 
+fogalmi egységet takaró "k-" kezdet, amely "kő" jelentésű. Érdemes továbbá 
+nyelvtani sajátosságokra figyelnünk az ismert nyelvi jelenségek körében is 
+mint például a ragozó szóalkotás, vagy az a jelenség, hogy a Magyar és a 
+rokon nyelvekben nincs nyelvi "nem", nem különböztetjük meg az igét az 
+alapján, hogy vajon ki végzi azt a bizonyos cselekedetet, hiszen a hatás 
+nem ennek a függvénye. Egy mozgásban lévő, lovas nemzetnél ez ésszerű is, 
+mert hiszen nem csak a női harcosok kirívóbb jelensége ismert az ókori 
+történetírók szerint, hanem a józan ész is mutatja, hogy egy mozgó nép 
+esetén mindenkor és mindenki ki kell vegye a részét a teendőkből. Szintén 
+ilyen nyelvi jelenség még többek között az a fajta pajkosság, ami olyan 
+szójátékokhoz, jelentéspárok egymás mellé írásához vezet, mint a "mennyég", 
+"csillogó fény", vagy a "tüzes láng". Némely esetben, archaikus szavaknál 
+(mint pl.: Mi atyánk, ki vagy a "mennyég"-ben - lásd korai leírások) ennek 
+talán a hangulati és művészi szerepen túl az is a célja lehetett, hogy a 
+jelentést kétszeresen is megőrízze, annak is érthetővé tegye, aki egy 
+tájszólásban csak az egyik oldalát ismeri a fogalomnak.
+
+Az egyes szójelentési egyezések pontossága általában magasabb ha azt korai 
+(pl. ókori) vagy a rokon nyelvek esetén vizsgáljuk, de a hangtani alapvető 
+szabályosságok valamilyen szinten a nem-rokon nyelvekben is megjelenhetnek, 
+szinte egyfajta emberiség szempontjából közös rendszerre is utalnak, amely 
+rendszer biológiai, hangképzési és fizikai sajátosságokon, illetve a nyelvi 
+ésszerűségen alapulva képezheti a kimondott szó jelentésének a megértését.
+
+<span id="anchor-430"></span>"Nyelvpörgetési" példák
 --------------------------------------------------
 
 Az eddig leírt elméleti ismeretek akkor válnak élő tudássá, ha mindezen 
@@ -1389,7 +1572,7 @@ helyettesítenünk, hogy csak egy betűt írunk le.
 
 Összefoglalva: beszéd közben hagyjuk magunkat rácsodálkozni a nyelvre!
 
-### <span id="anchor-430"></span>Felhő, eső, csepp
+### <span id="anchor-431"></span>Felhő, eső, csepp
 
 Először egyszerűbb szavakkal kezdünk, bemelegítésként tehát vegyünk 
 néhány időjárással kapcsolatos példát. A felhő szavunk hallatára a 
@@ -1525,17 +1708,126 @@ szavak legelejére koncentrálunk, mert a leghangsúlyosabb jelentés
 igazán befolyásolják az első szógyököt formáló mássalhangzó előtt 
 álló esetleges magánhangzók sem.
 
-### <span id="anchor-431"></span>Lop, meglovasít, vágta, sebes
+### <span id="anchor-432"></span>Lop, meglovasít, vágta, sebes
 
 TODO: ....
 
-### <span id="anchor-433"></span>Élet, világ, mindenség
+### <span id="anchor-433"></span>Ige, Akar, ak-, -ik,
 
-TODO: ....
+### <span id="anchor-434"></span>Élet, állat, állapot, alvás, világ, mindenség stb.
 
+TODO: Élet
+TODO: él-al. A mély hangrend szerepe itt is fontos!
+TODO: állat / állapot: nyelvújítási szó, korábban mindkettő "állat" volt
+TODO: aluvás: al-usz-ik: al (lent) + u (al-sággal rendelkező lásd magánhangzók) + ik (ige / tesz)
+TODO: világ: világ-os, azaz minden ami látható
+TODO: mindenség: szó szerint "minden" - vö.: univerzum eredeti jelentése, ami "egység", amiből "egy van"
 TODO: MaGyaR, MaG, stb.
 TODO: BoSzoRKáNy
 TODO: VaLLáS
+
+### <span id="anchor-435"></span>Szer, szeretet, szerelem, szolgálat, szorgalom, szolgalom, szertartás, szerkeszt, szerkezet, szerez
+
+TODO: SzeR alapgyök, SZ-R: szakrális szövetség, vérszerződés, ópusztaszer
+
+TODO: SzoL-gálni = SzeR-ben állni
+
+TODO: Etruszk SeRVius, latin-angol serve, népnév: Szerb, Szláv (lásd De Administrando Imperio - de ezek szerint ez Magyar szógyök!)
+TODO: Ehhez kapcslódóan - szolgálat = service (több nyelven átívelő kapcsolat)
+TODO: Szereda/Szerda/Szrijeda = a szer napja?
+
+TODO: Szerkeszt = erős szövetként egybe szerkeszt valamit mint egy szövetség. Szerkesztmény vö. alkotmány pl.
+
+TODO: Szorgalmas vagy szolgalmas?
+
+TODO: Szerezni ezáltal úgy is lehet, hogy szerbe van foglalva mit kapunk, tehát jogszerűen kapjuk. Zenét, vagy művet "szerezni" pedig talán egy szakrális szövetség a túlvilággal is eszerint!
+
+### <span id="anchor-436"></span>Nemzet, nép család, gyerek, felnőtt
+
+### <span id="anchor-437"></span>Néhány Bibliai-Magyar szóegyezés
+
+TODO: kicsit kevésbé mély elemzés szükséges, szinte azonnal látható egyezés!
+
+TODO - Bibliából: lángnyelvek ereszkedtek le rájuk és nyelveken kezdenek vala beszélni
+TODO - Bibliából: Ez az én testem...ez az én vérem... eközben testvéri fogadási szertartást végez, melyben ő testvérünk, az atya a mi atyánk is!
+TODO: Megemlíteni az első példához tartozóan kik és mely népek vannak felsorolva - ne csodálkozzunk.
+TODO: Az említett Éli-Éli idézet
+
+### <span id="anchor-438"></span>Néhány Külföldi-Magyar szóegyezés
+
+* SeLiTi ~ SzáLLíT (Szlávból: mozgatni, szállítani, migrálni)
+
+* Selo ~ SzáLLó (Szlávból: falu)
+
+* KuD ~ KúT (Sumerből: Kút)
+
+* KaD ~ Köt(és) (Sumerből: összeilleszt, egybeszerkeszt)
+
+* KåPi ~ KaP (Vogulból: fölkap)
+
+* KaaPaa ~ KaP (Finnből: megfog)
+
+* ReDiTi, ReDaTi ~ RenD-íT (Szlávból: rendbe tenni, sorba rendezni)
+
+* ReDa ~ RenDa (Szlávból: rendőr)
+
+* ReDaTeLJ ~ Rend-A-Telj (Szlávból: igazgató)
+
+* RaDi ~ RenDezni (Szlávból: dolgozni)
+
+* Sjeme ~ Szem (Szlávból: mag)
+
+* SaBiR ~ Szabír-Csapir-csopór (Szlávból: gyűjtő) - csop szógyökből lásd csoport!
+
+* SaBOR ~ CsoPoR(t) (Szlávból: parlament / gyűlés)
+
+* SaBoRoVaTi ~ CsoPoRo+vati végződés (Szlávból: ülésezés ~ gyűlésen részt venni?)
+
+* SaBRoN ~ CsoPRoN(-ított) (Szlávból: csoportosított)
+
+* iDe, iDemo ~ iDe (Szlávból: jön, utazik)
+
+* SiGuRNo ~ SziGoRú (Szlávból: biztos / úgy van)
+
+* Jahne (Jahnye) ~ JuHNye / JuhNyáj? (Szlávból: bárány)
+
+* Ištén ~ ISTen (Akkád: egy)
+
+* še ~ eSz(-ik) (Sumér: eszik)
+
+* štāru ~ SáToR (Akkád: sátor)
+
+* SuoMi, SzáMi ~ SuMe(r) (Soumi: a finn nyelv / nép magának adott neve; Számi: A mások által Lapp-nevezetű nép magának adott neve)
+
+* éLi ~ ÉL, éLő (Arámi: Isten) - lásd pl.: "Éli, éli", Jézus utolsó könyörgése!
+
+* Io ~ "Jó" (Görög: Istennői név) - valószínűleg a Boldogasszony, Szűz Mária rokonítás is helytálló (lásd holdsarló)
+
+* ORion ~ RjN ~ Úr-Jön ? (Görög: lásd orion-öv)
+
+* NiMRóD ~ NeMeRe(d), Nem-rótt, Nem-roth, Nem-mered (Történelmi személy)
+
+* Ninnurta ~ NiMurta- Nemerde~NiMrot~Nimrod? / esetleg: NiN-úr-da? (Sumér: Istenség)
+
+* NaMiR ~ NeMeRe (Bosnyák: név)
+
+A vélt-valós egyezéseket sorolhatnánk napestig, de ezeket csupán azért 
+szerepeltettük, hogy látszódjék: néha a szógyök egyezés még teljesen 
+más jellegű nyelveknél is megmaradt (pl. szláv, latin, stb), a szógyök 
+rendszerű, agglutináló és/vagy rokon nyelvek esetén pedig szinte azt 
+lehet mondani, hogy minimális változásokkal ma is érthető egy kis 
+gyakorlattal és elemző gondolkozással az "eredeti" jelentés. Itt nem 
+véletlenül mutattunk meg szláv szavakat is, mert ott jól érzékeltetni 
+lehet, hogy a Magyar nyelv rokoníthatósági terepétől tovább távolodva 
+egyre inkább törekednünk kell a szó elején lévő szógyök kapcsolatok 
+keresésére, hiszen ilyenkor már erős nyelvi torzulás érzékelhető!
+
+Azt a következtetést is levonhatjuk a fentiekből, hogy az indo-europid 
+nyelvekkel ellentétben tehát a gyökrendszerben és ragozással máködő, a 
+korábban itt leírt hangtani szabályoknak megfelelőbb szervezésű nyelvek 
+sokkal kevéssé változnak az idők folyamán - mondható: érzhetően kevésbé, 
+mert szóátvételek esetén is látható, követhető marad az eredeti jelentés 
+még az erős torzító hatások után is!
 
 <span id="anchor-439"></span>Vallásokról és hitről
 -------------------------------------------------
