@@ -1753,7 +1753,9 @@ TODO - Bibliából: Ez az én testem...ez az én vérem... eközben testvéri fo
 TODO: Megemlíteni az első példához tartozóan kik és mely népek vannak felsorolva - ne csodálkozzunk.
 TODO: Az említett Éli-Éli idézet
 
-### <span id="anchor-438"></span>Néhány Külföldi-Magyar szóegyezés
+### <span id="anchor-438"></span>Néhány Külföldi-Magyar szóegyezés, némely történeti és helynevek részleges elemzése
+
+TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné válni.
 
 * SeLiTi ~ SzáLLíT (Szlávból: mozgatni, szállítani, migrálni)
 
@@ -1811,6 +1813,14 @@ TODO: Az említett Éli-Éli idézet
 
 * NaMiR ~ NeMeRe (Bosnyák: név)
 
+* Itáliaiak ~ eToLiaiak ~ eTeLeiek (életadó viz, lásd: Atilla, Etelköz, Ital, Étel, stb.)
+
+* GanyMEDes (Trójai herceg) ~ LycoMEDes (A Görög Syros szigetéről) ~ DioMEDes (Görög ~ Trója ostrománál) ~ Médea (Női név) ~ MÉD (nép, nemzet), a névrész forrása.
+
+* Centaur ~ KNTR ~ KaNTáR, Kanta-úr (lásd: "kijegyeztette magát a Centaurusok; ezen bátor emberek ellen, kik legelőbb gyakorolván magokat a lóval való viadalban")
+
+* euFRáT(-esz) ~ BRT ~ BaRáT?
+
 A vélt-valós egyezéseket sorolhatnánk napestig, de ezeket csupán azért 
 szerepeltettük, hogy látszódjék: néha a szógyök egyezés még teljesen 
 más jellegű nyelveknél is megmaradt (pl. szláv, latin, stb), a szógyök 
@@ -1820,14 +1830,21 @@ gyakorlattal és elemző gondolkozással az "eredeti" jelentés. Itt nem
 véletlenül mutattunk meg szláv szavakat is, mert ott jól érzékeltetni 
 lehet, hogy a Magyar nyelv rokoníthatósági terepétől tovább távolodva 
 egyre inkább törekednünk kell a szó elején lévő szógyök kapcsolatok 
-keresésére, hiszen ilyenkor már erős nyelvi torzulás érzékelhető!
+keresésére, hiszen ilyenkor már erős nyelvi torzulás érzékelhető, sőt 
+sokszor olyat is tapasztalhatunk, hogy egy ragozott (pl. többes számú) 
+szót használnak átvétel esetén az alapvető szójelentésre. Fontos még 
+az elemzéseknél azt is figyelembe vennünk, hogy egy-egy elnevezés 
+mögött vagy előtt nem-e szerepel ragadvány, így például adott idegen 
+nyelvre vonatkozó (pl. görög, római, stb.) utólag hozzáadott végződés.
 
 Azt a következtetést is levonhatjuk a fentiekből, hogy az indo-europid 
-nyelvekkel ellentétben tehát a gyökrendszerben és ragozással máködő, a 
+nyelvekkel ellentétben tehát a gyökrendszerben és ragozással működő, a 
 korábban itt leírt hangtani szabályoknak megfelelőbb szervezésű nyelvek 
 sokkal kevéssé változnak az idők folyamán - mondható: érzhetően kevésbé, 
 mert szóátvételek esetén is látható, követhető marad az eredeti jelentés 
-még az erős torzító hatások után is!
+még az erős torzító hatások után is! A fentiek között azonban olyan 
+példák is szerepelnek, melyek során látható közvetlen utalás is az 
+elnevezések (pl. személy, nép- és helynevek) és származásuk között.
 
 <span id="anchor-439"></span>Vallásokról és hitről
 -------------------------------------------------
