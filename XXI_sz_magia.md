@@ -2858,6 +2858,209 @@ TODO: Főleg a lelkiekről – mert az sokkal fontosabb.
 
 ### <span id="anchor-740"></span>A világunk tagjainak felébresztése
 
-### 
+### <span id="anchor-750"></span>Kisbaranta
 
+Végezetül egy rövid és mindenki által könnyen elvégezhető önfejlesztési 
+stratégia bemutatása következik. Ez egy olyan új módszer, amely az egyén 
+képességeihez igazodó módon és az esetleges alkalmak kihagyásaival együtt 
+is használható önfejlesztésre. A kialakítás során a rugalmasság és az 
+került a középpontba, hogy valaki akkor is folytatni tudja az eljárást, 
+ha korábban elmulasztotta azt gyakorolni, így emiatt ne érezze a feladás 
+kényszerét.
 
+A módszer csak nevében alapul a híres Magyar harcművészeti ágazatra,
+a baranta harcművészetre, mert egy mindennapi és egyszerű eszközként 
+szolgál a "három izom" fejlesztésére amit a közember otthon is könnyen 
+elvégezhet önfejlesztési céllal. Ezért tehát "kis" baranta ez, habár 
+ha mindenki legalább az itt leírtaknak megfelelően kialakítaná a saját 
+kisbarantáját évente legalább egyszer, a nemzet tagjai máris sokkal 
+cselekvőképesebbek lennének.
+
+A leírt módszer bármikor alkalmazható, de a kialakítását a keresztény 
+böjt ihlette, azonban ebben az esetben nem a bizonyos ételek megvonása, 
+hanem a lelki, szellemi és testi erő edzése a cél. Ez egy 40 napos "kúra" 
+tehát amelyet szerdán kezdünk és 40 napon át végzünk.
+
+Minden napnak egy sor felel meg és céljainkat - tevékenységeket amiket 
+minden egyes nap el szeretnénk végezni - az oszlopokba írjuk, így egy 
+táblázatot kapván. Nincs az oszlopoknak semmiféle előre megadott rendje!
+Azt, hogy mit szeretnénk elérni teljesen ránk van bízva!
+
+<span id="anchor-760"></span>A kisbaranta-táblázat (példa)
+----------------------------------------------------------
+
+A módszert akkor a legkönnyebb megérteni, ha egy példával mutatjuk be:
+
+	 	Jóálom	Edzés	Futás	Tanulás	Háztart	Család	Cselló	Ima
+	Sze	X	X	X	X	.	X	.	X
+	Csü	.	.	.	.	.	.	.	X
+	Pén	.	.	.	.	X	.	X	X
+	Szo	.	.	.	.	.	.	.	X
+	Vas	.	.	X	.	.	.	.	X
+	
+	Hét	X	X	X	X	X	X	X	X
+	Ked	X	X	X	X	X	X	X	X
+	Sze	X	X	X	X	X	X	X	X
+	Csü	X	X	X	X	X	X	X	X
+	Pén	X	X	X	X	X	X	X	X
+	Szo	X	X	X	X	X	X	X	X
+	Vas	X	X	X	X	X	X	X	X
+	
+	Hét	X	.	.	.	.	.	.	X
+	Ked	.	.	.	.	.	.	.	.
+	Sze	.	X	.	.	.	.	.	.
+	Csü	X	.	.	.	.	.	.	.
+	Pén	.	.	.	.	.	.	.	.
+	Szo	.	.	.	X	.	.	.	.
+	Vas	.	.	.	.	.	X	.	X
+	
+	Hét	X	X	X	X	X	X	X	X
+	Ked	X	X	X	X	X	X	X	.
+	Sze	.	.	.	.	.	.	.	.
+	Csü	.	.	.	.	.	.	.	.
+	Pén	.	.	.	.	.	.	.	.
+	Szo	.	.	.	X	.	.	.	.
+	Vas	.	.	.	X	.	X	.	.
+	
+	Hét	.	.	.	.	.	.	.	.
+	Ked	.	.	.	.	.	.	.	.
+	Sze	.	.	.	.	.	.	.	.
+	Csü	.	.	.	.	.	.	.	.
+	Pén	.	.	.	.	.	.	.	.
+	Szo	.	.	.	.	.	.	.	.
+	Vas	.	.	.	.	.	X	.	.
+	
+	Hét	X	.	.	.	.	X	.	X
+	Ked	.	.	.	.	.	.	.	.
+	Sze	.	.	.	.	.	.	X	X
+	Csü	.	.	.	.	.	X	.	.
+	Pén	.	.	.	.	.	.	X	.
+	Szo	.	.	.	.	.	.	.	.
+	Vas	X	X	X	X	X	X	.	X
+	
+	Hét - Visszatekintés és ünneplés (akármi is történt)
+	
+	Jóálom: Aznap korán aludni tértem, tíz óra előtt a korai keléshez.
+	Edzés: A szintemnek megfelelő fekvőtámasz, felülés, hátizom, súlyzózás.
+	Futás: Legalább 2km, de jellemzően 4km futás, kocogás az erdő körül.
+	Tanulás: Tanulmányokkal való foglalatosság.
+	Háztartás: Valamilyen szépítése, vagy takarossá tétele otthonunknak.
+	Család: Párunknak való kedveskedés, gyermekeinkkel, szüleinkkel töltött idő.
+	Cselló: Legalább az alapvető gyakorlatok, vagy csak egyetlen kis játék!
+	Ima: Imádkozás nemzetünkért és a világ nemzeteinek megmaradásáért.
+
+Itt egy elképzelt táblázatot mutattunk be, a módszernek megfelelő táblázat 
+minden esetben hasonló szerkezetű, de az oszlopait mint mondtuk mi adjuk 
+meg, személyes céljainknak. A táblázat alatt leírjuk mit jelentenek az 
+egyes oszlopok és ha aznap sikerült a kitűzött céllal foglalkoznunk, akkor 
+a megfelelő rublikában egy X-el jelezhetjük ezt! A legszebben kivitelezett 
+kisbaranta olyan, amelyben minden egyes helyre sikerült X-et írnunk, az 
+eljárás követésének minden egyes napján! A példánkban ez nem sikerült és 
+valószínűleg a legtöbben meglepődnek majd, hogy ennél kevesebb oszlop 
+esetén is milyen nehezen sikerül majd elérni a céljainkat. Persze aki már 
+egyébként is minden nap fut egyet, annak ezt semmiképpen sem érdemes az ő 
+saját kisbaranta-táblájában felvennie, mert úgy nem beszélhetünk önmagunk 
+fejlesztéséről természetesen! Érdemes a fenti példával ellenkezve, inkább 
+csak 3-4, igen fontos oszlopot megjelölnünk, esetleg egyetlen egyet!
+
+<span id="anchor-770"></span>A kisbaranta táblázat kiértékelése (pontozás)
+--------------------------------------------------------------------------
+
+Természetesen a célunk nem a táblázat teljes kitöltése, hanem a valódi 
+önfejlesztés, így ezt mindig tartsuk észben! Ezt a gondolatot támogatja 
+az is, ahogy a táblázatunkat majd kiértékeljük:
+
+* Számoljuk össze az X-ek számát! Minden X egy pontot ér!
+* Számoljuk meg azokat a sorokat, ahol minden helyen X van! Ezeknél minden esetben még egyszer pontot adunk az ottani X-einkre!
+* Számoljuk meg azokat az oszlopokat, ahol minden helyen X van! Ezeknél minden esetben még egyszer pontot adunk az ottani X-einkre!
+* Számoljuk meg azokat a heteket, ahol minden napnál, minden helyen X szerepel. Ezeknél még **KÉTSZER** adjunk pontot az ottaniakra!
+* Ha minden helyen szerepel egy X, akkor szorozzuk annyival az összes eddig számolt pontunkat, ahány oszlop van.
+
+A fenti példában tehát:
+
+* 109 X-et írtunk be, ezért 109 esetenkénti pont jár
+* 8 darab olyan nap van, amikor mind a 8 oszlopba rublika volt, ezért ez 8x8 (ilyen nap x oszlopszám) tehát 64 pont.
+* 9 helyen ér végig az oszlop az egész héten! Az első héten csak az utolsó oszlop, a másodiknál az összes. Ezek 5 + 7x8=61 pontot adnak!
+* A második héten sikerült ilyet összehozni. Itt 7x8 darab X-et írtunk be a teljesítéshez, tehát ennek kétszeresét 56x2=112 pontot kapunk!
+* Sajnos a táblázatot nem sikerült teljesen kitöltenünk minden esetben (sőt!)
+
+Az összpontszámunk tehát 109 + 64 + 61 + 112 = 344 pont lett. Ezt hozzámérhetjük 
+az egy évvel korábbi eredményeinkhez.
+
+Amennyiben a kisbaranta során itt megfelelően választottunk és olyan teendőt 
+adtunk meg minden oszlopban, amit nem, vagy nem eleget csinálunk, akkor 
+mindenképpen javítottuk a "lélek izmát", amely ezen pontokkal mérhetően lett 
+erősebb a korábbinál. Természetesen nem csak a lelkünket, de akár testünket, 
+szellemünket is edzhettük a módszer követésekor. Jó esetben mindhárom izom 
+fejlesztését kitűztük a céljaink között, de természetesen aki egyébként is 
+hosszas fizikai munkát végez könnyen lehet hogy hamarabb választ szellemi, 
+vagy lelki edzést a munka mellett, aki pedig ülő, irodai munkát végez az 
+lehet hogy több fizikai célt fog kitűzni - de az is lehet hogy fordítva!
+
+Ha egyetlen oszlopot találunk csak ki, például azt, hogy minden egyes nap 
+nyomjunk legalább 10 fekvőtámaszt, akkor is igen nagy nehézséget fog az 
+jelenteni, hogy a teljes táblázatot maradék nélkül kitöltsük. Látni fogjuk, 
+hogy az évek előrehaladtával, vagy a lelki erőnk fejlődésével több és több 
+pontot sikerül majd elérnünk, amely nem csak ezen 40 nap során, hanem az 
+életmódunkban is meg fog látszani.
+
+A fenti önfejlesztő módszert egyaránt alkalmazhatják gyerekek és felnőttek, 
+alkalmazhatják élsportolók és komoly személyes gondokkal küzdő, vagy akár 
+természetüknél fogva hátrányos fogyatékkal élők is. Rugalmas, de arra nevel, 
+hogy folytassuk amibe belekezdtünk! Ne adjuk fel akkor se, ha valami nem 
+tökéletesen sikerül, sőt ha elmulasztottuk a kezdést (pl. nagyböjtkor), 
+úgy akár pár napokat kitevő hátrányból elindulva is érdemes legyen csinálni!
+
+<span id="anchor-730"></span>Didaktikai szempontok
+--------------------------------------------------
+
+Egy ilyen módszer követése egyfajta tanulásként is értendő, amelynek során 
+az egyén az önfejlesztési képességeit nem csak gyakorolni, de azt mérni is 
+képes lesz. Jobban megismerjük magunkat és határainkat, kihívásainkat.
+
+Emiatt fontos volt, hogy a módszert didaktikai elvek mentén alakítsuk, mert 
+ezzel biztosítható, hogy a célunk nem formai, vagy sekélyes, hanem valós 
+önfejlesztést adó lesz.
+
+Az ilyen és ehhez hasonló módszerek sokaságának komoly problémája az, hogy 
+nem tudnak mit tenni azzal a helyzettel, ha az illető gyengeségből kihagy 
+néhány lépést és emiatt már be se akarja fejezni amit elkezdett. Jól ismert, 
+hogy a különféle szenvedélybetegek gyors visszaszokásában is fontos, komoly 
+szerepet játszik ez az itt leírt jelenség! Ez azért kritikus, mert aki úgy 
+véli önfejlesztésre van szüksége az még elsősorban a lélek izmának erejét 
+kell hogy erősítse, ami viszont csak akkor fejlődik, ha azt használjuk.
+
+Nem véletlen tehát ahogyan a pontozást kialakítottuk! Az a cél lebegett a 
+szemünk előtt, hogy a pontszám ténylegesen tükrözze a fejlődésünk mértékét!
+Ha csak egyetlen egyszer, egyetlen napnak az egyetlen oszlopa mellé sikerült 
+egy X-et letenni, akkor is növeltük képességeinket, de nyilván ilyenkor ez 
+csak egy ponttal lett megnövelve. Ha sikerült sokszor gyakorolnunk, vagy 
+tennünk azt, amit korábban ritkán, vagy soha, akkor komoly fejlődést értünk 
+el ezen 40 nap alatt, de még ennél is többet, ha sikerült legalább egy rövid 
+ideig-óráig szokássá tennünk a céljainkat. Az ember sikerének nagy titka 
+ugyanis abban áll, hogy megfelelő jó szokásokat alakít ki és a testének a 
+három izmát folyamatosan edzi valamilyen formában - ha nem is egyenletesen.
+Ha tehát sikerült egy napon mindent elvégeznünk, akkor azért nyilván valami 
+bónusz kell járjon, a pontozás tekintetében, amennyiben ezt egy egész héten 
+át fennt tudtuk tartani, akkor pedig még több pontot érdemes magunknak adni!
+Ehhez hasonlatos az is, amikor egy adott oszlopot egy egész héten át végezni 
+tudtunk, hiszen akkor ha más nem is, de legalább az ott található tevékenység 
+vált egy időre ténylegesen jó szokásunkká! Ha mind az oszlopok, mind a sorok 
+szerint sikerült egy hetet teljesíteni minden tekintetben, az igazából egy 
+mini-baranta teljes kitöltésével is egyenértékű, ezért határozottan még több 
+pontot kaphatunk ezért az eredményért! Ha természetesen valaki sikeresen ki 
+tudja tölteni a teljes táblázatot, az igen nagy pontot ér személyes fejlődés 
+terén, de itt láthatjuk, hogy ha valakinek sikerül is ez, az is rá lesz még 
+vezetve a későbbi alkalmak esetén az oszlopok számának növelésével való 
+esetleges próbálkozásra.
+
+Az sem véletlen, hogy szerdától kezdődik a kisbaranta, tehát csonka héttel 
+indul el. Ugyanis a legkönnyebben ezen a héten érhető el a teljes hetet 
+eredményesen kitöltő részeredmény, illetve más részeredmények!
+
+A legtöbb módszernél nem ismertetik az eljárás rendszerét 
+kialakító didaktikai elveket, azonban itt most fontos tudni, 
+hogy a pont amit kapunk - bármennyi legyen is az - igen jól 
+képes leírni a személyes karakterfejlődésünk mértékét és jól 
+láthatóvá teszi azt, hogy bármikor érdemes folytatni, kezdeni 
+csinálni, tanulni az önfejlesztés művészetét.
