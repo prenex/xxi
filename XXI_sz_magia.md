@@ -623,34 +623,53 @@ dolog, ami megoszthatatlan másokkal.
 <span id="anchor-120"></span>Az élőlények felépítése
 ---------------------------------------------------
 
-TODO: Érzékelés = teremtés
+Először azt kell felismernünk, hogy az érzékelés az a lényegét tekintve 
+egy teremtő folyamat. Ugyanis a rózsa színének az érzete **létezik**, 
+ez teljesen bizonyos. Azt is láthatjuk, hogy ez egy nem átadható érzet, 
+ha úgy tetszik egy nem átadható tudás és élmény részünkről az, hogy mit 
+is érzünk pontosan. Láthattuk, hogy nem lehet elmondani, nincs mód rá,
+de ez az érzet létezik. Tovább gondolkozva azt a tanulságot tudjuk hát
+levonni, hogy ez **az érzet teljesen közvetlen kapcsolattal rendelkezik
+a saját létezésünkkel, önmagunkkal**. Ezen érzet tehát egy olyan létező, 
+ami szorosan kapcsolódik azzal a létezővel, ami mi magunk vagyunk, azaz 
+tehát az élőlények és az észleléseik egymáshoz kapcsolódó elemi létezők.
+Ezen gondolat vezet rá az élőlények valódi természetére.
 
-Az élőlény, de minden más létező is, egy atomi és pontszerű dolog.
-Minden dolog igazából élőlény is, mely azáltal él, hogy új életet ad -
-teremt. Az új élet két élőlény közötti kapcsolatból származik.
+Az élőlény, de minden más létező is, egy atomi és pontszerű dolog. Minden 
+dolog igazából egy élőlény is egyben, mely azáltal él, hogy új életet ad -
+teremt. Az új élet két élőlény közötti kapcsolatból származik, tehát az 
+összes élőlény két másik létezőt összekapcsoló alapelem.
 
-Minden élőlényre igaz, hogy az összes minden létezőt „látja” és
+Az érzékelés folyamata kettős természetű, csak azt látjuk, amit magunk
+teremtünk az érzékelés során, de ez a megteremtett érzet a mindenségből 
+fakad. Minden élőlényre igaz, hogy az összes többi élő létezőt „látja” és
 kapcsolatban áll a teljes mindenséggel, de ez a "látás" nem olyan látás,
 mint amit mi megszoktunk. Akkor ugyanis, amikor a rózsa piros színét
 megtapasztaljuk, akkor nem felismerjük a teremtett piros színt – hanem
 akkor teremtjük meg magát ezt az érzetet. Az érzékelés maga a teremtés
-pillanatában történik meg és ez ugyan úgy teremtés, mint amivel a
-mindenséget Isten első létezőként maga is megteremtette. Amikor
-kapcsolatot alakítunk ki két létező között (tehát esetünkben mi magunk
+pillanatában történik meg és ez ugyan úgy teremtés, mint amivel kezdetben 
+Isten első élőként a személyesen teremtette a mindenség első élőlényeit.
+Ha kapcsolatot alakítunk ki két létező között (tehát esetünkben mi magunk
 és a megfigyelt dolgok között), akkor ennek az eredménye az a teljesen
 egyedi és csak hozzánk, illetve a megfigyelés tárgyához kapcsolódó új
 létező, aminek mi az előállítását éljük át! A megtapasztalás tehát maga
-az élet – és a megtapasztalás egy teremtő folyamat!
+az élet – és a megtapasztalás egy teremtő folyamat! Ennek a teremtő 
+folyamatnak a legszentebb gyümölcse az, amikor párunkkal együtt embert 
+látunk meg. Ehhez természetesen az szükséges, hogy "megismerjük" egymást, 
+de most azt is láthatjuk, hogy a később a szemünkkel is látható gyermek 
+az egy valamikori személyes megismerés gyümölcse, már azon pillanatban 
+létezni kezdett és képes volt nem csak a mindenség zűrzavarában, de a 
+világunk csodálatos rendjében is megjelenni.
 
 <span id="anchor-130"></span>A változás illúziója
 ------------------------------------------------
 
-A legtöbb, a világmindenségről, vagy világról alkotott modellünk
-változással dolgozik. Elemek (pl. atomok, kvarkok, húrok, stb.) vannak a
-modellben és ezek komplex rendszereket alkotnak úgy, hogy az állapotaik
-„időben” változnak. Állapot lehet például helyzet, vagy viselkedés.
-Tehát a modelljeink általában állapotokkal dolgoznak, de ez vajon
-valóságos-e, vagy csupán illúzió? Szerencsésebb olyan modelleket
+A legtöbb, a világmindenségről, vagy világról alkotott modellünk valamely
+módon változással dolgozik. Elemek (pl. atomok, kvarkok, húrok, stb.) 
+vannak a modellben és ezek komplex rendszereket alkotnak úgy, hogy az 
+állapotaik „időben” változnak. Állapot lehet például a helyzet, vagy 
+viselkedés. Tehát a modelljeink általában állapotokkal dolgoznak, de ez 
+vajon valóságos-e, vagy csupán illúzió? Szerencsésebb olyan modelleket
 építeni, melyben ilyen boszorkányság nem létezik: ha valami egyszer a
 mindenség része lett, az nem változik meg – soha nem kerül egy létező
 egy új állapotba. A változás olyan problémákat vet fel, hogy például az
