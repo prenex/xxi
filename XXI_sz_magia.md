@@ -2990,9 +2990,9 @@ Természetesen a célunk nem a táblázat teljes kitöltése, hanem a valódi
 az is, ahogy a táblázatunkat majd kiértékeljük:
 
 * Számoljuk össze az X-ek számát! Minden X egy pontot ér!
-* Számoljuk meg azokat a sorokat, ahol minden helyen X van! Ezeknél minden esetben még egyszer pontot adunk az ottani X-einkre!
-* Számoljuk meg azokat az oszlopokat, ahol minden helyen X van! Ezeknél minden esetben még egyszer pontot adunk az ottani X-einkre!
-* Számoljuk meg azokat a heteket, ahol minden napnál, minden helyen X szerepel. Ezeknél még **KÉTSZER** adjunk pontot az ottaniakra!
+* Számoljuk meg azokat a sorokat, ahol minden helyen X van! Ezeket még egyszer számoljuk meg és addjuk hozzá pontunkhoz!
+* Számoljuk meg azokat az oszlopokat, ahol egy héten minden helyen X van! Ezeket is hozzáadjuk még egyszer a pontunkhoz!
+* Számoljuk meg azokat a heteket, ahol minden napnál, minden helyen X szerepel. Ezeknél minden 'X'-re még **KÉTSZER** adjunk pontot!
 * Ha minden helyen szerepel egy X, akkor szorozzuk annyival az összes eddig számolt pontunkat, ahány oszlop van.
 
 A fenti példában tehát:
@@ -3005,6 +3005,10 @@ A fenti példában tehát:
 
 Az összpontszámunk tehát 109 + 64 + 61 + 112 = 344 pont lett. Ezt hozzámérhetjük 
 az egy évvel korábbi eredményeinkhez.
+
+**Tehát az alap pontszám az X-ek száma a táblázatban, de a fenti szabályok 
+alapján a sorozatban álló X-eket még egyszer, vagy többször számolhatjuk!**
+Amennyiben több szabály is érvényes, mindegyik plussz pontot megkapjuk!
 
 Amennyiben a kisbaranta során itt megfelelően választottunk és olyan teendőt 
 adtunk meg minden oszlopban, amit nem, vagy nem eleget csinálunk, akkor 
