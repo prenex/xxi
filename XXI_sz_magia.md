@@ -1357,6 +1357,7 @@ Ezen hangkategóriák tehát:
 
 7. X - Y - Q - W: "Idegen" hangkategória (G)
 
+
 Megjegyzések / átjárások:
 
 * (A) Itt (és később) zárójellel  alcsoportokat jelzünk, mert láthatóan a hangképzés csak közeli rokon a két alcsoport között. A V-F alcsoport szinte magánhangzóként is viselkedni képes!
@@ -1731,7 +1732,33 @@ igazán befolyásolják az első szógyököt formáló mássalhangzó előtt
 
 TODO: ....
 
-### <span id="anchor-433"></span>Ige, Akar, ak-, -ik,
+### <span id="anchor-433"></span>Ige, Igen, Ég, Akar, ak-, -ik, Isten, Sátán, Igaz, Gaz
+
+TODO: kapcsolat az akar, ak-, -ik konstrukciókkal
+TODO: kapcsolat az éG szóval (lángolás, illetve égbolt/mennybolt)
+
+TODO: iSTeN - STN
+
+öSTen
+Ős-Ten(ger)
+Ős-Tan
+Ős-Dun(a)
+Es-Ten
+IsTyen
+iCsTeN
+ÖCsTeN
+STN
+SzDM (saddam???)
+őSTény
+
+TODO: érdekesség: megjelenik a SáTáN is - habár nem magánhangzóval kezdődik (mint Isten) és a hang is másként szerepel. Lásd Igaz és Gaz ellentéte is teljesen hasonló lehet. Persze az Igaz lebontható úgy, hogy "éG-aZ", "éG-eS", pontosabban "éGieS"! Érdemes továbbá felfigyelni a Gaz-dag szóra is, illetve a "Gazda" szóra is. Furcsa, hogy ide is eljuthatunk a logikai fonal mentén.
+
+TODO: Fontors ezeket a részeket linkelni valahova:
+
+* http://www.biblia.hu/biblia_k/k_43_1.htm
+* http://www.biblia.hu/biblia_k/k_1_1.htm
+
+^^ de talán inkább a kereszténységhez... csak ide is jó nyelvi jelentéstani dolgok miatt...
 
 ### <span id="anchor-434"></span>Élet, állat, állapot, alvás, világ, mindenség stb.
 
