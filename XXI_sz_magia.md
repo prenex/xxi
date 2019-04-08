@@ -884,8 +884,8 @@ ahogyan például a szobánkat látjuk. Amikor ugyanis azt látjuk, akkor
 mi úgy értjük a megbeszélt nyelv szerint, hogy egy szobában ülünk - 
 megteremtjük az ennek megfelelő érzetet és átélt pillanatokat.
 
-Szükség van ugyanis egyfajta "nyelvre" ahhoz, hogy az élőlények egy 
-világban, egymással és nem csak egymás mellett éljenek. Rendszert 
+Szükség van ugyanis egyfajta "nyelvre" (ige?) ahhoz, hogy az élőlények 
+egy világban, egymással és nem csak egymás mellett éljenek. Rendszert 
 alkottunk, amelynek során az egyes létezők a közösen elfogadott 
 szabályok szerint "teremtik" meg az érzeteiket, ezért idővel egy 
 nyelvet beszélve a jelen világot kialakítottak.
@@ -932,6 +932,14 @@ fa - ha kicsit másképp rajzoljuk meg (bár a virág közelebbi) ;-)
 TODO: kapcsolat a folyamatos teremtésről szóló résszel (élőlények rész)
 
 TODO: Kapcsolat a számok végtelenségének modelljével (köv fejezet pl.)
+
+TODO: Fontors ezeket a részeket linkelni valahova:
+
+* http://www.biblia.hu/biblia_k/k_43_1.htm
+* http://www.biblia.hu/biblia_k/k_1_1.htm
+
+^^ de talán inkább a kereszténységhez... csak ide is jó nyelvi jelentéstani dolgok miatt...
+
 
 <span id="anchor-200"></span>A végtelenség helyes fogalma
 --------------------------------------------------------
@@ -1728,14 +1736,94 @@ szavak legelejére koncentrálunk, mert a leghangsúlyosabb jelentés
 igazán befolyásolják az első szógyököt formáló mássalhangzó előtt 
 álló esetleges magánhangzók sem.
 
-### <span id="anchor-432"></span>Lop, meglovasít, vágta, sebes
+### <span id="anchor-432"></span>Lop, meglovasít, rabol, vágta, sebes, meglép
 
-TODO: ....
+A fentiek után nyergeljünk át (szó szerint) egy más téma elemzésére! 
+Tegyük fel a kérdést, hogy honnan ered a "lop" szavunk? Az L-P gyök 
+alapján máris eljuthatunk a "lép" (mint lépés) jelentéstartalmához 
+is, ami elsőre esetleg nem tűnik a lopással összekapcsolhatónak. 
+Azonban nem-e mondjuk azt is, hogy "meglép" vele amikor lopásról 
+esik igazából szó? Vizsgáljuk meg a hangkategóriákat, hogy miből is 
+tudunk gazdálkodni.
+
+	J - R - L - Ly - "Nyelvmozgós" hangkategória
+	(B - P) - (V - F): "Pöfögős" hangkategória (A)
+
+Itt elsőként fel is tűnhet nekünk egy másik szavunkkal való kapcsolat: 
+a "RaB" szótővel, ami a "RaB-lás" szóban is megjelenik. Ugyanis a B-P 
+egy hangkategórián belül még az alkategóriában is egyezik, az R-L 
+közelsége pedig szintén közismert dolog.
+
+Itt rögtön az is látható, hogy a magánhangzók lényegében tetszőleges, 
+a mássalhangzóknál pedig azok hangkategória-csoport szerinti cseréi 
+igen könnyen vezethetnek hasonló jelentéstartalmű szótövekhez, így 
+pedig az eredeti szavunkkal kapcsolatos jelentéseket is könyebben 
+meg tudjuk érteni ha a nyelvünket használjuk. Ezen módszer mentén 
+kapjuk az egyesek által "szóbokroknak" nevezett jelentéstanilag 
+közel egyező, vagy összefüggő ejtésű jelenségeket.
+
+Fontos, hogy itt (legalábbis az iskolában tanított) ragozott alakok 
+megjelenése általában mindig hibaként értendő! Ezt a technikát mint 
+azt majd többször is jelezzük, mindig igyekezzünk egy alapgyök és 
+egy másik szó, vagy alapgyök rokonítására és levezetésére használni!
+
+Mégis van további jelentésbeli kapcsolati szál az ilyen egyenes 
+nyelvpörgetési szóegyezéseken kívül is! Feltűnhet ugyanis, hogy 
+a "lop" szóban megjelenik a "ló". Ez elsőre meghökkentőnek és 
+egy hamis iránynak tűnhetne, ha nem ismernénk a lopás egy megint 
+másik rokon értelmű kifejezését: meglovasít. Ez a hosszabb alak 
+egy az egyben és igen egyértelműen tartalmazza a "ló" szavunkat 
+és ha belegondolunk: igen javasolt lehetett vagy eleve lovakkal 
+menni lopni, vagy eleve lovakat elhajtani - de ami talán a leges 
+legfontosabb: a lopás minden esetben az adott javak mozgatásával 
+jár együtt. Tehát a meglovasít azt is jelentheti, hogy akár a ló, 
+mostantól az adott meglovasított tárgynak is "lába kélt".
+
+Nem véletlen az sem ahogy ezt a kis hangulatfestő kifejezést itt 
+külön megjelenítettük, hiszen így válik egyre világosabbá a 
+lop-lép-meglovasít-"lába kél" szóhasználatok közötti kapcsolat!
+
+De nem-e "halljuk" ezt mindenféle elemzés nélkül is? Nem-e érezzük? 
+Amikor kimondjuk a szót, hogy "lop", szinte látjuk magunk előtt a 
+kart amely "besöpri" a "szajrét" és maga felé húzza. Ezt nem csak 
+azért érezzük így, mert megtanultuk mit jelent maga a szó, hanem 
+egyszerűen ilyen mentális érzetet kelt egy egészséges emberben 
+amikor magát a szót kiejti. A nyelvünk lényegében pontosan így, 
+ezen mozdulatsort hajtja végre, amit a kéznek képzeltünk most el!
+Ezen a ponton tudatosítanunk kell magunkban azt is, hogy szinte 
+az összes szavunk "hangulatfestő" és igen nagy mértékben érezteti
+a jelentését a hangzáson keresztül is. Akkor is, amely szavak esetén 
+ezt éppen kevésbé - vagy nem tanítják!
+
+Az egyes hangok ejtése mindig egy érzettel jár ugyanis együtt és ha 
+nem is minden példa tökéletes, de a nyelv erre akkor nagyon sokat 
+hagyatkozik. A rabol esetén ez talán még nyílvánvalóbb: ott ugyanis 
+az "r" hang eleve az "eRő" megjelenítése. Ezt a hangot ejtve is 
+könnyen érezheti bárki, hogy nem véletlenül jelenik meg az erő szóban!
+Azt is megtudhattuk tehát, hogy mi a különbség aközött aki "csak" 
+lopni jár és aki szó szerint már rabolni jár: erő alkalmazása nélkül, 
+vagy nagyon finom módon is lehet lopni, de a rablók igazi haramiák, 
+akik talán sokszor még gyilkosságra is vetemednek. Persze a nyelv is 
+jól mutatja, hogy a két fogalom között csak egy egészen kicsi, vékony 
+árnyalatnyi különbség áll fent, de eleve "RaB" csak akkor lehet valaki, 
+ha őt rablók rabolták el - ez erőszak nélkül nemigen lehetséges.
+
+Ha még mindig nem hinnék a "rabló" szavunk erőszakosabb hangzásában, 
+akkor érdemes felfigyelni hasonló szavainkra (pl. robbanás, roppanás).
+
+De megjelent tehát a ló, az erő is ezen szavainkban. A lovas kultúránk 
+hagyatéka azonban nem csak itt, hanem megszámlálhatatlan ponton érhető 
+tetten: ilyen például a "vágta" szó (nyilvánvalóan), de a "sebes" szó
+is (kevésbé nyilvánvalóan). A vágtázáskor szinte érezzük mi történik:
+olyan gyorsan vágtatunk a mezőn, hogy a ló patája szinte "vágtázza" 
+ki a földdarabokat abból. Ha sebesen vágtáztunk, akkor pedig könnyen 
+meglehet, hogy a végén szó szerint kezelhetjük a szegény ló sebeit.
 
 ### <span id="anchor-433"></span>Ige, Igen, Ég, Akar, ak-, -ik, Isten, Sátán, Igaz, Gaz
 
 TODO: kapcsolat az akar, ak-, -ik konstrukciókkal
 TODO: kapcsolat az éG szóval (lángolás, illetve égbolt/mennybolt)
+TODO: Az ige, vagy íge meg is képes igézni. Beszéddel való cselekvés, varázs-ige, örök élet igéi stb...
 
 TODO: iSTeN - STN
 
@@ -1752,13 +1840,6 @@ SzDM (saddam???)
 őSTény
 
 TODO: érdekesség: megjelenik a SáTáN is - habár nem magánhangzóval kezdődik (mint Isten) és a hang is másként szerepel. Lásd Igaz és Gaz ellentéte is teljesen hasonló lehet. Persze az Igaz lebontható úgy, hogy "éG-aZ", "éG-eS", pontosabban "éGieS"! Érdemes továbbá felfigyelni a Gaz-dag szóra is, illetve a "Gazda" szóra is. Furcsa, hogy ide is eljuthatunk a logikai fonal mentén.
-
-TODO: Fontors ezeket a részeket linkelni valahova:
-
-* http://www.biblia.hu/biblia_k/k_43_1.htm
-* http://www.biblia.hu/biblia_k/k_1_1.htm
-
-^^ de talán inkább a kereszténységhez... csak ide is jó nyelvi jelentéstani dolgok miatt...
 
 ### <span id="anchor-434"></span>Élet, állat, állapot, alvás, világ, mindenség stb.
 
@@ -2377,6 +2458,17 @@ TODO: Csökkenti a szociális különbségek nagyságát
 TODO: Általánosságban miként működik a gazdasg egy királyság esetén
 TODO: Miben térnek el pl. ezek a lehetőségek a klasszikus feudalizmustól?
 
+TODO: alapelvek rendes leírása kéne ide:
+
+* A királyra szavazni lehet
+* A király és családja életmódja törvénybe van iktatva
+* Az életmód nem hivalkodó, alsó-középosztálybeli élet
+* Választható városi, vagy falusi életmód
+* Ha lemondatják, lemond, más veszi át a királyságot, akkor is megmarad az életmód.
+* Magántulajdon nincs
+* Országot elhagyni tilos
+* A fentiek alól a népet szavaztatva esetleg felmentést lehet nyerni - ekkor újra magántulajdona lehet az embernek (nem javasolt!!!)
+
 ### <span id="anchor-584"></span>Klasszikus feudalizmus
 
 TODO: Földtulajdon alapú királyi gazdasági forma
@@ -2891,8 +2983,8 @@ Ha földbe vetetted, majd egyszer kikel,\
 Ilyen egy napba öltözött és igazi jel,\
 Ami örök, ha kell hát örökké telel!
 
-<span id="anchor-710"></span>Lelki és testi önvédelem
-----------------------------------------------------
+<span id="anchor-710"></span>Lelki szellemi és testi önvédelem
+-------------------------------------------------------------
 
 TODO: Főleg a lelkiekről – mert az sokkal fontosabb.
 
