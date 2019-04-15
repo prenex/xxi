@@ -399,15 +399,29 @@ megértjük majd, hogy a változás látszólagos.
 
 I, II, III, IV; 1, 2, 3, 4; a, b, c, d. Látjuk-e mindezekben ugyanazt az
 egyetlen létezőt több megjelenési formában, manifesztációban? Látjuk-e,
-hogy ilyen módon tud az Isten pl. emberként a világban Jézusként
+hogy ilyen módon tud az Isten pl. hús vér emberként a világban Jézusként
 megjelenni? Ez ilyen egyszerű. Nem a megjelenési mód, hanem az egymásnak
 egyértelműen megfeleltethető lényeg az ami számít. Ha egy ember –
 teljesen hús vér ember, aki pontosan ugyan olyan, mint te és én –
 pontosan úgy viselkedik és pontosan azokkal a jellemzőkkel bír, amivel
-Isten lényege, akkor ő maga tényleg a földre szállt Isten, benne
-megtaláljuk Isten lényegét. Ha a szent lélekről való tanításokat nézzük,
-ott azt látjuk, hogy Istennek egy más megjelenési módjáról beszélünk, de
+Isten lényege, akkor ő maga tényleg a földre szállt Isten, benne pontosan 
+megtaláljuk Isten lényegét. Ha a szent lélekről való tanításokat nézzük, 
+ott azt látjuk, hogy Istennek egy más megjelenési módjáról beszélünk, de 
 megint csak ugyan arról az egyetlen létezőről gondolkozunk.
+
+Fontos tudatosítanunk magunkban a lényegre törést - ezt több példa mutatja 
+A dolgok igazi belső "lényének" a megértéséhez ugyanis a lény-egre kell 
+törekednünk, ennek nincs más módja. Sokan például - teljesen feleslegesen 
+- elmerengenek azon, hogy vajon "hány dimenziós" világban élünk és egyesek 
+ezt komolyan képesek számolgatni, hosszú levezetésekben.
+
+Négyféle ember van etekintetben:
+
+* Aki nem tudja miről beszél és "ezoterikus" dolgokat rejt dimenziók mögé.
+* Aki bár tudja miről beszél, de csak a felszínt kapargatja. Hiába lehet akár szaktekintély is, de nem látja át miért furcsa megkötni a dimenziók számát.
+* Aki tényleg tudja miről beszél, de azért is így fogalmaz, mert nagyon is jól tudja, hogy felépítettünk egy szabályrendszert, egy modellt és akkor számolunk ennyi-annyi "dimenzióval", ha egy bizonyos nézőponthoz ragaszkodunk és nem lenne praktikus másik rendszert alkotni.
+* Van aki kimondja, hogy ilyen megkötésről beszélni teljesen téves, félrevezető megfogalmazás - a mindenségre nézve, de praktikusan ennek lehet történelmi okokból még létjogosultsága (bár ez is szerencsétlen dolog).
+
 
 TODO: Síkbeli világ és egydimenziós változat – minden valamire való és a
 magasabb matematikához értő ember képes adni leképezéseket több
@@ -418,6 +432,8 @@ emberien?
 TODO: Mi azonos és mi különböző, mi az hogy valamink a lényege?
 
 TODO: nem csak Istenes példák
+
+TODO: A hétköznapi példa "lóugrás stratégia" - köznyelv szerint "elterelés: Ha van egy fontos tengely két ellenpólussal, igen könnyen félre lehet vezetni az embert egy adott pólus felé úgy, hogy egy merőleges pólust állítunk, két olyan egymás ellen küzdő erővel, hogy mind a kettő az eredeti pólus kívánt oldalán állnak. Ilyenkor ugyanis álvita keletkezik - elvész a lényeg...
 
 <span id="anchor-90"></span>Valószínűség
 ---------------------------------------
