@@ -2394,7 +2394,7 @@ amint amit mi esetleg magunk a legerőteljesebbnek elképzelnénk!
 <span id="anchor-560"></span>A lokalitás törvénye
 ------------------------------------------------
 
-TODO: Ez nem véletlen van az államormák előtt
+TODO: Ez nem véletlen van az államormák előtt - miért légy lokálpatrióta?
 
 <span id="anchor-567"></span>Államformák és nemzetszervezési elemek
 ------------------------------------------------------------------
@@ -2403,7 +2403,6 @@ A történelem során több (itt nem is említett) államforma illetve
 ezen belül is többféle nemzetszervezési elem alakult ki. Ebben a 
 fejezetben útmutatásként áttekintjük mind a jól ismert, a kevéssé 
 ismert, sőt akár teljesen új berendezkedéseket.
-
 
 
 TODO: Mindegyikhez - Leírás, Példák, Pro-Kontra-semleges jelenségek, hosszabb leírások
@@ -2469,7 +2468,7 @@ TODO: Folyamatosan mozgó életmód (lovasnomád)
 TODO: Kizsákmányolás nehezen képes létrejönni (mert ellovagol máshoz)
 TODO: Csökkenti a szociális különbségek nagyságát
 
-### <span id="anchor-583"></span>Királyi gazdaság
+### <span id="anchor-583"></span>Nemeskirályi gazdaság
 
 TODO: Általánosságban miként működik a gazdasg egy királyság esetén
 TODO: Miben térnek el pl. ezek a lehetőségek a klasszikus feudalizmustól?
@@ -2558,7 +2557,9 @@ TODO: Efelett viszont hagyományos piacgazdaság
 
 TODO: előny, hogy a piacgazdaság ellenpontját nem külső ellenpontként, hanem a belső háló kényszeríti ki, ezért megfelelőbben kell viselkednie. Nehézség a testre-szabás és az átállás (főleg, ha viszonylag normális piacgazdaságból kellene átállni, ott ez igen nehézkes)
 
-<span id="anchor-585"></span>Tudomány
+
+
+<span id="anchor-595"></span>Tudomány
 ------------------------------------
 
 A tudomány ne legyen ellenséged! Légy tudóssá, ismerd a világot, ismerd 
@@ -2582,7 +2583,7 @@ akár a metafizika, vagy filozóia is némely esetekben, azonban jobban
 tesszük, ha általában inkább "csak" a világ és nem a teljes mindenség 
 vizsgálatára használjuk a tudományt.
 
-### <span id="anchor-586"></span>Problémák és korlátok
+### <span id="anchor-596"></span>Problémák és korlátok
 
 A mélyebb rétegekben vizsgálva a fizikai és biológiai eredményeinket 
 természetesen már olyan hatásokra és jelenségekre is bukkanhatunk, 
@@ -2665,7 +2666,7 @@ a világot, vagy a mindenséget leíró szabályszerűség? Vajon egy
 adott jelenség elemei mit jelentenek a világra és a mindenségre 
 nézve? Mennyire jól különül el ez a két elem az adott jelenségben?
 
-### <span id="anchor-587"></span>Lehetőségek helyes alkalmazás
+### <span id="anchor-597"></span>Lehetőségek helyes alkalmazás
 
 A tudományt használjuk fejlesztésre:
 
@@ -2675,10 +2676,10 @@ A tudományt használjuk fejlesztésre:
 
 * Ahogy az előző fejezet végén leírtuk, a mindenség (univerzum) és a világ (láthatóság) érintettségének folyamatos fejben tartásával általában a tudományos gondolkozás kevésbé fog minket a dogmatikus irányba elvinni.
 
-<span id="anchor-588"></span>Populáris kultúra és média
+<span id="anchor-598"></span>Populáris kultúra és média
 ------------------------------------------------------
 
-<span id="anchor-590"></span>Emberi- és párkapcsolatok
+<span id="anchor-599"></span>Emberi- és párkapcsolatok
 -----------------------------------------------------
 
 ### <span id="anchor-600"></span>Szeretet
@@ -2925,18 +2926,70 @@ melyben valami elérhetetlenné válik számunkra. Azért igyekeznek mindent
 kipróbálni egyesek, mert vannak olyan dolgok, amiket mindörökkön örökké
 elveszni látnak már.
 
+<span id="anchor-655"></span>A növényekről és állatokól
+------------------------------------------------------
+
+Mint az írva vagyon, Isten a föld gazdájának szentelte az emberiséget, urának 
+s királyának egyaránt a növényeknek és az állatoknak.
+
+	Úgy király hát az emberiség a növényvilághoz,
+	ahogy gazdája szeressé szőlejét mely termést hoz.
+
+	S úgy legyen ura az emberiség a sok állatoknak,
+	ahogy tegyen juhásza a nyájnak hogy sokasodjnak.
+
+
+Csak az válogatja meg mit eszik, ki nem tudja, hogy minden él és hal e földön.
+Sajnos igen sokan még azt is megválogatják, hogy mely állatot szerethetünk: 
+a haszonállatokhoz a mai embert nem köti sajnos akkora szeretet, mint a "házi" 
+állatokhoz - holott az a szegény tehén, vagy juh aki egyszer a tálba kerül 
+nem-e érdemli meg ugyanazt, vagy ha nem még nagyobb szeretetünket, mint akit 
+csak a magunk szórakoztatására tartunk? Szeressük hát mind azt amit eszünk, 
+vagy akivel együtt élünk ugyan úgy - vagy jobban - mint azt mit csak azért 
+tartunk, hogy a ház körül tébláboljon!
+
+Minden természethez közeli népben és csoportban jobban él ez a szeretet, mint 
+a nagyvárosi emberben. Azért él jobban, mert aki a természettől elszakadva él 
+nem mer a szemébe nézni sem annak az oroszlánnak aki őt felfalná, se annak a 
+báránynak, amit ő felfalhat, de jó-e az olyan kivételezés, ami kitaszítottá 
+teszi a "haszonállatokat" csak azért, mert "hasznosak"? Minő igazságtalanság, 
+ha azért tagadjuk meg tőlük szeretetünket, mert magunkkal nem békülnénk ki!
+Szeresd hát a borjat, a csirkét, a disznót, tehenet, nyulat úgy akár a cicát!
+Sőt úgy áldjad meg a nevét ahogy a régi idők vadásza imádkozott a prédájának 
+a lelkéért megmagyarázva, hogy a családjának ételre van szüksége!
+
+Nem csak a szegény állatoknak, de a már-már "étel-előállító gyáraknak" is jót 
+tenne, ha képesek lennénk szeretettel fordulni a kedves hasznonállataink felé! 
+Aki apró ketrecben tartja a tyúkot ami csak antibiotikumok miatt él az nem-e 
+tudna változni ha jobban szertené az állatait? Régen a pásztor úgy szerette a 
+juhait, mint egy városi ember a "legédesebb aranyhörcsögöt" és jól tette! A 
+legjobbat akarta az aranyos báránynak és a legszebb és legegészségesebb életet 
+adta neki cserébe - olyat, amit egymaga az állat a vadonban nem is remélhetne!
+
+Itt most szót kell ejtenünk azokról, akik ugyancsak a modern városi és az ősi 
+természettől távoli emberek újabban tartanak, miszerint az állatok és növények 
+közt elemi különbség lenne atekintetben, hogy azokat "meg-e szabad enni".
+
+	Nem enni állatot, de megenni a növényt egy tudathasadás:
+	mint a vak ember aki kivégezne egy némát - de senki mást!
+
+Igen vad dolog elmenni abba az irányba, ahol lelkiismeret-furdalás nélkül tud 
+valaki pusztítani olyan életet, amelynek esélye sincs védekezni - csak azért, 
+mert így nem hallani se jajkiáltást, se könnyes szemeket, de mégis pusztul az!
+Az életet szeresd! A fényt! Az igazságot, igazságosságot - ezek összes alakját!
+
 <span id="anchor-660"></span>Kísértés
 ------------------------------------
 
-Légy erős, ne lengedezz,\
-Amerre épp szél fúj.\
-Hős erővel, úgy eredj el,\
-Kisértőtől, gonosztúl!
+		Légy erős, ne lengedezz,
+		Amerre épp szél fúj.
+		Hős erővel, úgy eredj el,
+		Kisértőtől, gonosztúl!
 
-Ostobaságtól távol állj,\
-Hited ne hagyd oda!\
-Vesszen el az ostoba,\
-De te ne légy buta!\
+		Ostobaságtól távol állj,
+		Hited ne hagyd oda!
+		Vesszen el az ostoba,
+		De te ne légy buta!
 
 <span id="anchor-670"></span>Alkalmazandó stratégia
 ==================================================
@@ -2944,11 +2997,11 @@ De te ne légy buta!\
 <span id="anchor-680"></span>Az ellenség
 ---------------------------------------
 
-Ellenséged nem emberi személy,\
-hanem oly ördög, ki az emberben él!\
-Nem nemzet ez, vallás, vagy nép,\
-De sátán, ki maga pusztítás, megtévedés!\
-- Az embereket bántván ő csak tovább nő, tovább él!
+		Ellenséged nem emberi személy,
+		hanem oly ördög, ki az emberben él!
+		Nem nemzet ez, vallás, vagy nép,
+		De sátán, ki maga pusztítás, megtévedés!
+		- Az embereket bántván ő csak tovább nő, tovább él!
 
 TODO: kik és milyen fegyverekkel, milyen módon? Emberekről beszélünk,
 vagy emberekben élőkről? Miért is szeressük ellenségeinket?
@@ -2971,13 +3024,13 @@ Magyarul lehet igazán érteni.
 <span id="anchor-690"></span>Győzd meg a gazdagok utódait
 --------------------------------------------------------
 
-Tudással fel sem érhető uradalom,\
-Más néven szólva: a háttérhatalom,\
-Fejeit levágni bárhogy is akarom,\
-Karddal lesújtva fárad el a karom,\
-Mégis utat talál hozzá furfangom,\
-Nyilam szívébe nyit sebet nagyon,\
-És új ellensége: fia-lánya vagyon!
+		Tudással fel sem érhető uradalom,
+		Más néven szólva: a háttérhatalom,
+		Fejeit levágni bárhogy is akarom,
+		Karddal lesújtva fárad el a karom,
+		Mégis utat talál hozzá furfangom,
+		Nyilam szívébe nyit sebet nagyon,
+		És új ellensége: fia-lánya vagyon!
 
 Ha már tiltani fogják a könyvet, ha már tiltani fogják az igaz
 embereket, mint barátokat, ha már búrában nevelik fel és tartják az
@@ -2994,10 +3047,10 @@ hiába tagadod. Ha esetleg ezt valaha majd úgy olvasod, valódi fiatal
 <span id="anchor-700"></span>Légy türelmes – az aranymag örök
 ------------------------------------------------------------
 
-Az igaz aranymag soha nem vész el,\
-Ha földbe vetetted, majd egyszer kikel,\
-Ilyen egy napba öltözött és igazi jel,\
-Ami örök, ha kell hát örökké telel!
+		Az igaz aranymag soha nem vész el,
+		Ha földbe vetetted, majd egyszer kikel,
+		Ilyen egy napba öltözött és igazi jel,
+		Ami örök, ha kell hát örökké telel!
 
 <span id="anchor-710"></span>Lelki szellemi és testi önvédelem
 -------------------------------------------------------------
