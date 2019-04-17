@@ -2151,6 +2151,20 @@ Etekintetben a vallás gyakorlásának a módjában biztos problémák vannak,
 amennyiben az bármely fél érzéseit sérti - nem feltétlenül a mélyebb 
 rétegekben, de az is baj, ha az emberek dogmatikus saját nézeteiben.
 
+Nagyon fontos azonban arra is tekintettel lennünk ezen vallás esetén, 
+hogy helyesen olvassuk-e a szent könyveket. Nem az a legfontosabb 
+ugyanis, hogy az eredeti nyelvén ismerjük a szövegeket, hanem az, hogy 
+bármely szent irat esetén úgy kell azt olvasni, mint Isten, a teljes 
+jóság, jóakarat és szeretet által írott mű. A "dzsihad" több jelentése 
+közül így csakis a belső - önmagunk kísértései elleni - harcot érthetné 
+bárki is, ahogy például "hitetlennek" se azt kellene tartania egy ilyen 
+vallást követő embernek, aki más vallású, hanem azt, aki "Istenellenes".
+Ez egy igen nagy és lényeges különbség, ami azért fontos, mert több 
+szélsőség az ilyen értelmezési lehetőségek elferdítésére megy rá!
+
+De a terméséről ismerszik meg a vallás sajnos: van ahol több az ember 
+által írt és esetleg könnyen félreérthető tanítás, mint máshol...
+
 #### <span id="anchor-500"></span>A kereszténység
 
 Először is hívő, de más vallású emberek szemszögéből kell megvizsgáljuk 
