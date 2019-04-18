@@ -397,6 +397,34 @@ megértjük majd, hogy a változás látszólagos.
 <span id="anchor-80"></span>A dolgok lényege
 -------------------------------------------
 
+Nagyon veszélyes, hogy a modern világban élő ember mennyire elvesztette 
+a kapcsolatát a "lényeges kérdésekkel" és a dolgok lényegével. Igen nagy 
+szerencse nekünk Magyaroknak, hogy a "lényeg" szóból kiolvasható az a 
+belső lény-je valaminek, ami élő, de jelentésében mégis oszthatatlan.
+
+Amikor nem vagyunk tisztában azzal, hogy mit keresünk, vagy hogy amit 
+éppen vizsgálunk pontosan milyen lényegű, akkor nem a valós kapcsolatot 
+és nem a vizsgálat tárgyát értjük meg lényegében, hanem szinte sötétben 
+tapogatózva vagdalkozunk - rosszabb esetben "azt hisszük", hogy komoly 
+kérdéseinkre igazi válaszaink vannak, holott eközben csak azért érezzük 
+magunkat magabiztosnak, mert a lényeges kérdéseket jó mélyre rejtjük, 
+vagy egyáltalán nem is érezzük már.
+
+### <span id="anchor-81"></span>Út a lényeghez
+
+A lényeg tehát - mint nyelvünk is jelzi - egy élő dolog. Ha azt mondjuk 
+élő, akkor itt látjuk, hogy "ő", vagyis ez a lény amiről beszélünk egy él.
+Úgy él, ahogy összeköti a kés éle annak két oldalát, vagy ahogy egy test 
+körvonala meghatározza magát a test árnyékának, látványának alakját is.
+Élnyeg, vagy lényeg - nem számít, egyre megy és ez a lényeg fontos része.
+
+Mégis amikor azt mondjuk "térj a lényegre", vagy használjuk ezt a szót, 
+akkor valamiért abban is biztosak vagyunk, hogy a dolgok lényege egy 
+kicsi, oszthatatlan, vagy egyedülálló valami. Eköré épülhet egy nagy és 
+bonyolult értelmezés, de ha valamit meg akarunk érteni, akkor a lényegét 
+kell megértenünk - ha valamit igazán tudni akarunk azt kérdezzük: mi a 
+lényeg? Mondd el a lényeget!
+
 I, II, III, IV; 1, 2, 3, 4; a, b, c, d. Látjuk-e mindezekben ugyanazt az
 egyetlen létezőt több megjelenési formában, manifesztációban? Látjuk-e,
 hogy ilyen módon tud az Isten pl. hús vér emberként a világban Jézusként
@@ -409,7 +437,11 @@ megtaláljuk Isten lényegét. Ha a szent lélekről való tanításokat nézzü
 ott azt látjuk, hogy Istennek egy más megjelenési módjáról beszélünk, de 
 megint csak ugyan arról az egyetlen létezőről gondolkozunk.
 
-Fontos tudatosítanunk magunkban a lényegre törést - ezt több példa mutatja 
+Mi az ami egyezik a I, 1, a, jelekben a fenti példában? A lényeg!
+
+### <span id="anchor-82"></span>Hány dimenziós a világ?
+
+Fontos tudatosítanunk magunkban a lényegre törést - ezt több példa mutatja. 
 A dolgok igazi belső "lényének" a megértéséhez ugyanis a lény-egre kell 
 törekednünk, ennek nincs más módja. Sokan például - teljesen feleslegesen 
 - elmerengenek azon, hogy vajon "hány dimenziós" világban élünk és egyesek 
@@ -422,6 +454,81 @@ Négyféle ember van etekintetben:
 * Aki tényleg tudja miről beszél, de azért is így fogalmaz, mert nagyon is jól tudja, hogy felépítettünk egy szabályrendszert, egy modellt és akkor számolunk ennyi-annyi "dimenzióval", ha egy bizonyos nézőponthoz ragaszkodunk és nem lenne praktikus másik rendszert alkotni.
 * Van aki kimondja, hogy ilyen megkötésről beszélni teljesen téves, félrevezető megfogalmazás - a mindenségre nézve, de praktikusan ennek lehet történelmi okokból még létjogosultsága (bár ez is szerencsétlen dolog).
 
+Aki ugyanis kicsit is járatos a modern matematikában az könnyen beláthatja, 
+hogy a kérdés maga, miszerint "hány dimenziós a világunk" egyáltalán nem 
+olyan nagy gondolati alapvetés, mint azt naívan gondolnánk. Az érzékelés 
+miatt a világot - tehát nem a mindenséget, hanem ami abból **világ**osan 
+látható nekünk - három dimenziósnak mondjuk, mert a tér-érzetünk alapján 
+magasságot, mélységet és szélességet különböztetünk meg. A világunkban 
+ezeknek a fogalmaknak tényleg van mérnöki és mértékbeli jelentése, így a 
+praktikusságot szem előtt tartó tudományosság természetesen juthat el az 
+"idő" olyan ábrázolására, mintha az is "csak" egy geometriai dimenzió 
+lenne. Nagyon fontos látnunk, hogy az alapgondolat egyáltalán nem tűnik 
+irreálisnak, hiszen a három ismert "dimenziót" - vagyis tengelyt, irányt
+- tehát igen fontos ismernünk amiatt, ahogy a mindenségből, a látható 
+világot érzékelni és megélni tudjuk, az "idő" fogalmának megértéséhez 
+pedig természetesen minden lehetséges eszközt meg szeretne fogni az 
+emberi kíváncsi elme. Akkor amikor egyáltalán felmerült az idő, mint egy 
+"dimenzió" létezése, még sokkal kevesebbet tudtunk az időről is, akkor 
+még tényleg sokkal könnyebben megfeleltethettük, modellezhettük azt úgy, 
+mint események előre elrendeltetett láncolata, amely lánc minden szeme 
+egy olyan geometriai világ, amit a szemünkkel is érzékelünk. Innentől 
+eredeztethető a "dimenziószám-kérdés" és innen csak annyira történt 
+egész idáig lényegi elmozdulás, hogy a "geometriai" jellegű mértani 
+dimenziókba mikor és mit szeretnénk "bele-erőltetni". Nagyon könnyen 
+azt mondhatjuk, hogy 4 dimenzió "mindenképp" szükséges az idő és a 
+három irányú kiterjedés miatt, de éppúgy előjöhetünk a bozótból, vagy 
+a kutatólaborból egyaránt és kérhetjük az ötödiket-hatodikat mondjuk 
+a szabad akarat, vagy a tizenhetediket az éppen használt és kedvelt 
+fizikai modellünk igényei szerint. Eközben elvész sajnos a "lényeg", 
+ugyanis eleve azért gondolkozunk mértani tengelyekben, mert ez az 
+ember számára úgy látszik "baráti és megszokott".
+
+Az, hogy az embert igen erősen befolyásolja a saját nézőpontja, az
+minden értékelhető gondolkozó számára közismert tény, de az, hogy 
+ennek az elfogultságnak milyen könnyen félrevezető irányai vannak, 
+már sajnos kevéssé közismert és komoly emberek teljes békességben 
+élnek alapvetően félrevezető szóhasználattal amikor egy-egy ilyen 
+tévelygést a világ szerkezetéről a mindenség alakjára általánosítunk.
+
+Ha mindenképpen "dimenziókban" szeretnénk gondolkozni, azt mondhatjuk, 
+hogy a mindenséget épp úgy modellezhetjük egy, mint százegy dimenzióval, 
+de a legjobban akkor teszünk, ha ehelyett a kérdés helyett a dolgok, a 
+szabályok, az élet lényegével - a mindenség lényegével törődünk.
+
+### <span id="anchor-83"></span>Tetris-mindenség szabályai (két dimenzió)
+
+Azért, hogy dimenzió-szám kérdésnek, az igaz  mindenség szerkezetére 
+nézve miért is nincs igazi tartalma ebben az esetben nagyon könnyen 
+érzékeltetni tudjuk úgy, ha gondolatkísérletként a mindenség helyett 
+a "tetris-univerzum" szabályait mutatnánk be egy két-dimenziósnak 
+látható síkbeli elemeket tartalmazó világban.
+
+Ezt a tetrisz-univerzumot tudományos előképzettség nélkül is könnyen 
+követhetjük egészen addig, míg meg nem értjük a kérdés értelmetlenségét.
+
+TODO: ábra, vagy betűgrafika - 4x4, két elem és gravitáció
+
+### <span id="anchor-84"></span>Tetris-mindenség szabályai (egy dimenzió)
+
+TODO: ábra, vagy betűgrafika - 4x4, két elem és gravitáció
+
+### <span id="anchor-85"></span>Nem-egész számok esete (mélyebb példa)
+
+TODO: átírni és ellenőrízni, hogy minden valós szám leírható-e 
+decimális alakban, így ez az egyszerűbb példa helyes-e!
+
+To prove that R and R2 both have same size, it's sufficient to show that there is a bijection between these two. consider f:R→R2 which images each x∈R to (x,0). this function is clearly one to one.
+
+Assume another function g:R2→R.The function formula is this:
+
+give any (x,y)∈R2 . Write x and y by their decimal expansion, so (x,y)=(A0A1...An.a0a1....,B0B1...Bm.b0b1...) without loss of generalitty assume that m &lt; n . say g(x,y)=A0B0A1b1...AmBmAm+1...An.KFa0b0a1b1...., which K=0 if x is positive and K=1 if x is not. and Also F=0 if y is positive and F=1 if y is not. it is obvious that the function g is one to one.
+
+so by using the Schroeder-Bernstein Theorem there is a bijection between R and R2.
+
+So, we proved that R∼R2 . Hence the number of points on a line is equivalent to number of points on a plane.
+
+### <span id="anchor-86"></span>Összegzés
 
 TODO: Síkbeli világ és egydimenziós változat – minden valamire való és a
 magasabb matematikához értő ember képes adni leképezéseket több
@@ -429,11 +536,9 @@ dimenzióból, eggyel kevesebb dimenzióba. Akkor miről beszélünk a világ
 dimenzióit tekintve? Miért beszélünk félre? Miért gondolkozunk ennyire
 emberien?
 
-TODO: Mi azonos és mi különböző, mi az hogy valamink a lényege?
+TODO: 
 
-TODO: nem csak Istenes példák
-
-TODO: A hétköznapi példa "lóugrás stratégia" - köznyelv szerint "elterelés: Ha van egy fontos tengely két ellenpólussal, igen könnyen félre lehet vezetni az embert egy adott pólus felé úgy, hogy egy merőleges pólust állítunk, két olyan egymás ellen küzdő erővel, hogy mind a kettő az eredeti pólus kívánt oldalán állnak. Ilyenkor ugyanis álvita keletkezik - elvész a lényeg...
+TODO: EZT TALÁN NEM IDE HANEM A VILÁGHOZ? A hétköznapi példa "lóugrás stratégia" - köznyelv szerint "elterelés: Ha van egy fontos tengely két ellenpólussal, igen könnyen félre lehet vezetni az embert egy adott pólus felé úgy, hogy egy merőleges pólust állítunk, két olyan egymás ellen küzdő erővel, hogy mind a kettő az eredeti pólus kívánt oldalán állnak. Ilyenkor ugyanis álvita keletkezik - elvész a lényeg...
 
 <span id="anchor-90"></span>Valószínűség
 ---------------------------------------
