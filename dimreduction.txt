@@ -1,0 +1,9 @@
+To prove that R and R2 both have same size, it's sufficient to show that there is a bijection between these two. consider f:R→R2 which images each x∈R to (x,0). this function is clearly one to one.
+
+Assume another function g:R2→R.The function formula is this:
+
+give any (x,y)∈R2 . Write x and y by their decimal expansion, so (x,y)=(A0A1...An.a0a1....,B0B1...Bm.b0b1...) without loss of generalitty assume that m &lt; n . say g(x,y)=A0B0A1b1...AmBmAm+1...An.KFa0b0a1b1...., which K=0 if x is positive and K=1 if x is not. and Also F=0 if y is positive and F=1 if y is not. it is obvious that the function g is one to one.
+
+so by using the Schroeder-Bernstein Theorem there is a bijection between R and R2.
+
+So, we proved that R∼R2 . Hence the number of points on a line is equivalent to number of points on a plane.

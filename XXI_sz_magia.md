@@ -507,26 +507,30 @@ látható síkbeli elemeket tartalmazó világban.
 Ezt a tetrisz-univerzumot tudományos előképzettség nélkül is könnyen 
 követhetjük egészen addig, míg meg nem értjük a kérdés értelmetlenségét.
 
-TODO: ábra, vagy betűgrafika - 4x4, két elem és gravitáció
+A következő "játékot" remélhetőleg sokan ismerik:
+
+![A tetris univerzum 2D nézete](img/tetris2d.png "Tetris-universe - two dimension rules")
+
+A tetris-világot az alábbi szabályok vezérlik:
+
+* Kezdeti állapot: színes és fehér kockák kezdeti helyzete
+* Gravitációs szabály: Színes kockák "lefelé" esnek
+* Törlési szabály: Sortörlés, ha benne végig színesek a kockák!
+
+TODO: Szabályok "korrekt" és részletes leírása, ami majd rávezet 
+az egy-dimenziós nézetre is.
 
 ### <span id="anchor-84"></span>Tetris-mindenség szabályai (egy dimenzió)
 
-TODO: ábra, vagy betűgrafika - 4x4, két elem és gravitáció
+TODO: bevezető szöveg
+
+TODO: ábra
+
+TODO: Szabályok "korrekt" és részletes leírása
 
 ### <span id="anchor-85"></span>Nem-egész számok esete (mélyebb példa)
 
-TODO: átírni és ellenőrízni, hogy minden valós szám leírható-e 
-decimális alakban, így ez az egyszerűbb példa helyes-e!
-
-To prove that R and R2 both have same size, it's sufficient to show that there is a bijection between these two. consider f:R→R2 which images each x∈R to (x,0). this function is clearly one to one.
-
-Assume another function g:R2→R.The function formula is this:
-
-give any (x,y)∈R2 . Write x and y by their decimal expansion, so (x,y)=(A0A1...An.a0a1....,B0B1...Bm.b0b1...) without loss of generalitty assume that m &lt; n . say g(x,y)=A0B0A1b1...AmBmAm+1...An.KFa0b0a1b1...., which K=0 if x is positive and K=1 if x is not. and Also F=0 if y is positive and F=1 if y is not. it is obvious that the function g is one to one.
-
-so by using the Schroeder-Bernstein Theorem there is a bijection between R and R2.
-
-So, we proved that R∼R2 . Hence the number of points on a line is equivalent to number of points on a plane.
+TODO: dimreduction.txt alapján szemléletesen (nem kell valós, elég a racionális)
 
 ### <span id="anchor-86"></span>Összegzés
 
