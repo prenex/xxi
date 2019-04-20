@@ -496,7 +496,7 @@ hogy a mindenséget épp úgy modellezhetjük egy, mint százegy dimenzióval,
 de a legjobban akkor teszünk, ha ehelyett a kérdés helyett a dolgok, a 
 szabályok, az élet lényegével - a mindenség lényegével törődünk.
 
-### <span id="anchor-83"></span>Tetris-mindenség szabályai (két dimenzió)
+### <span id="anchor-83"></span>Tetris-világ szabályai (két dimenzió)
 
 Azért, hogy dimenzió-szám kérdésnek, az igaz  mindenség szerkezetére 
 nézve miért is nincs igazi tartalma ebben az esetben nagyon könnyen 
@@ -509,7 +509,7 @@ követhetjük egészen addig, míg meg nem értjük a kérdés értelmetlenség�
 
 A következő "játékot" remélhetőleg sokan ismerik:
 
-![A tetris univerzum 2D nézete](img/tetris2d.png "Tetris-universe - two dimension rules")
+![A tetris-világ 2D nézete](img/tetris2d.png "Tetris-universe - two dimension rules")
 
 A tetris-világot az alábbi szabályok vezérlik:
 
@@ -517,16 +517,71 @@ A tetris-világot az alábbi szabályok vezérlik:
 * Gravitációs szabály: Színes kockák "lefelé" esnek
 * Törlési szabály: Sortörlés, ha benne végig színesek a kockák!
 
-TODO: Szabályok "korrekt" és részletes leírása, ami majd rávezet 
-az egy-dimenziós nézetre is.
+Ezeket az köznépiesen megfogalmazott szabályokat pontosíthatjuk is. A 
+kezdeti állapotról szóló szabályt nem szükséges különösképpen megadni, de
+annál hasznosabb, ha a gondolatkísérletként szolgáló "világunkat", annak
+szerkezete szerint is bemutatjuk. Van tehát egy két-dimenziós "világ", 
+melyben diszkréten megfogható rekeszek, vagyis "helyek" vannak. Ezeket a 
+helyeket, vagy rekeszeket két "dimenzióban" vett elhelyezkedésük szerint 
+különíthetjük el egymástól. Ezt úgy is leírhatjuk, hogy minden rekeszhez 
+egy (x, y) számpár, vagyis egy zárójelben leírt felsorolás tartozik, mint 
+az (1, 1) rekesz, amely a bal felső sarokban lévő rekeszt jelenti, vagy a 
+(1, 2) rekesz, amely éppen tőle jobbra helyezkedik el. A rekeszek vagy 
+színesek (teli), vagy fehérek (üresek), a színeket nem szükségesen kell 
+megkülönböztetnünk, azt csak a szebb látvány miatt különböztettük meg.
+A világunkat kezdetben valahány színes, és fehér rekesz jellemzi, ez 
+a **kezdeti állapot** a gondolatkísérletben. Minden állapotot egy új 
+állapot fog követni a világunkban addig, amíg van "alkalmazható jellegű" 
+feltételekkel rendelkező szabály.
 
-### <span id="anchor-84"></span>Tetris-mindenség szabályai (egy dimenzió)
+A **gravitációs szabály** ezek után úgy pontosítható, hogy:
+
+* Minden egyes (x, y) által azonosítható színes rekesznél,
+* nézzük meg (x, y+1) rekesz színes-e
+* ha nem színes, akkor a szabály erre a rekeszre alkalmazható jellegű
+* és a következő állapotban ennek a két rekesznek a tartalmát felcseréljük!
+
+Tehát a szabály értelmében minden egyes színes pont "lefelé esik".
+
+A tetris játékszabályaihoz igazodva továbbá a teljesen színes sorokat mindig 
+törölni kell. A **törlési szabály** pontosítása az alábbi módon lehetséges:
+
+* Nézzük meg az egy sorban lévő rekeszeket "alulról felfelé",
+* tehát ha az (1, 4), (2, 4), (3, 4), (4, 4) - vagyis A
+* vagy ha az (1, 3), (2, 3), (3, 3), (4, 3) - vagyis B
+* vagy ha az (1, 2), (2, 2), (3, 2), (4, 2) - vagyis C
+* vagy ha az (1, 1), (2, 1), (3, 1), (4, 1) - vagyis D
+* rekesz-sorozatok közül bármelyik mind a négy rekeszre színesek,
+* akkor az adott rekesz-sorozatot "ki kell cserélni a fölötte lévővel",
+* ha pedig NINCS felette lévő (A felett B felett C felett D felett NINCS),
+* akkor azt a sort csupa fehér színnel kell kitölteni.
+* Ezt a szabályt A,B,C,D sorrendben mind a négy sorra alkalmazni kell.
+
+A tetris-világunknak tehát megvannak a maguk oszthatatlan "atomjai", amik 
+egy választott kicsi két dimenziós térben helyezkednek el, megfelelő saját 
+szabályoknak engedelmeskedve.
+
+Természetesen nem szükséges ennyire precízen megadnunk a szabályokat, de 
+ebben az esetben érdemes így, minden egyes kis rekesz viselkedését megadni, 
+mert ez rá fog vezetni miért is nem számítanak a dimenziók fontos kérdésnek.
+
+A tetris "tipikusan két dimenziós", közismert játék, a fenti egyszerű 
+szabályokat már évtizedekkel ezelőtt is mindenki a kezében tarthatta 
+ezen kis világnak egy még kisebb másaként - néhány plusz szabállyal 
+kiegészítve természetesen azért, hogy ebből "játék" váljék.
+
+Mivel ez a kis elképzelt "világ" sokkal egyszerűbb, mint a teljes világunk, 
+de legalább annyira közismert, ez jó példaként szolgál arra, mennyire erős 
+az a befolyás, ami miatt egy világ, vagy maga az univerzum szerkezetét úgy 
+próbáljuk meg szabályokba foglalni, szerkezetté alakítani, ahogy "látjuk".
+
+### <span id="anchor-84"></span>Tetris-világ szabályai (egy dimenzió)
 
 TODO: bevezető szöveg
 
 TODO: ábra
 
-TODO: Szabályok "korrekt" és részletes leírása
+TODO: Szabályok "korrekt" és részletes leírása - a fentieknek a lehető leginkább megfelelően!
 
 ### <span id="anchor-85"></span>Nem-egész számok esete (mélyebb példa)
 
