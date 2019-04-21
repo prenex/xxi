@@ -1385,12 +1385,126 @@ kibontakozniuk!
 
 Küldetések:
 
-1. A nemzetek nemzete: a nemzetek értéket képviselnek, nem veszhetnek el!
+1. A nemzetek nemzete: a nemzetek értéket képviselnek, nem veszhetnek el! Hunor és Magor legyen az ikerpár, amit követünk, ne Romulus és Remus, vagy Káin és Ábel!
 2. Hősiesség nemzete: A világon élni csak hősként érdemes! A tipikusan Magyar széllel szembe vizel ha a szél nem jó!
 3. Mágusok, tudósok, táltosok nemzete: A Mag népe, ami úgy fejti ki hatását, akár a mustármag!
 4. Megmaradás nemzete: ha mindenki elveszne, legyen aki Magyar kíván lenni és újraindítja a sokszínűséget!
 5. A mélyen értelemmel átszőtt nyelvet átörökíteni hivatott nemzet.
 ...
+
+<span id="anchor-424"></span>A gyermekvállalásról és megmaradásról
+------------------------------------------------------------------
+
+Röviden és velősen ki kell térnünk a modern világ egy igen furcsa, de 
+emellett meghatározó jelenségére: miszerint a történelemben egyedülálló 
+módon, jelenleg ott nő a népesség, ahol a viszonyok a lehető legrosszabbak, 
+míg a legjobb viszonyok mellett folyamatosan csökken. Látható módon szemben 
+áll az emberiség egy nagy hazugsággal és egy nagy problémával is.
+
+A **nagy hazugság** arról szól, hogy úgy teremthetjük meg a legjobb életet 
+az utódainknak, ha azok minél kevesebben vannak. Ez nem azért nagy hazugság, 
+mert nagyon távol áll az igazságtól, hanem azért, mert nagyon közel - de 
+bújtatott módon pont fordított eredményt hoz ez az irány. Nézzünk józan és 
+paraszti ésszel egy pillanatra erre a jelenségre: a világon igen szegény 
+környezetben tapasztalható olyan népességrobbanás (pl. afrikában), hogy 
+a rossz higiénia, infrastruktúra, vízhiány ellenére Etiópiában - amely egy 
+Magyarországhoz mérhető nagyságú terület a maga 1.1 millió négyzetkilóméter 
+nagyságával - a 2007-es 73 millió fő lakosság 2016-ra 106 millióra nőtt.
+
+Etiópia köztudottan sanyarú helyzetű ország, de vajon tényleg ostobának kell 
+neveznünk azokat akik a mai napig nagy családokban hisznek ott? Tegyük fel 
+hát magunkban az őszinte kérdést: "Vajon könnyebben eltűnnek a föld színéről 
+a túlnépesedett Kínaiak, mint a fogyatkozó, de egyedülállóan szigetszerű 
+kultúrával, szinte egyedülálló Szkíta-lovasnomád hagyományú Magyarok? Vajon 
+tényleg a mi leszármazottainknak lesz jobb, vagy csak egy generációra tudunk 
+gondolni - és talán ott sem tiszta fejjel? Összehasonlításképpen, a szegény 
+Etiópia pontos gyermekvállalási példáját követve jelenleg nem felső hangon 
+15 millió, hanem 20 millió Magyar lakná a kárpát medencét - 9 év! Csak 9 év!
+Ennél kisebb ütemben növekedve nem hogy többségbe, de elsöprő többségbe is
+került volna a Magyarság, a sokat emlegetett Trianon-előtti területein, 
+minden háború, fegyver és erőszak nélkül vajon egy 50-60 milliós lélekszám 
+nem-e magában tenné a nemzetet Közép-Európai meghatározó erővé? Nem hogy ez 
+nem történt meg, de egyenesen azért kell a nemzetnek majd küzdenie, hogy 
+egyáltalán a világot egyesítő törekvések közepette valahogyan meg tudjon 
+majd maradni a Magyar kultúra, a Magyar beszéd és legyen annyi ember egy 
+helyen, egy nyelven és kultúrán beszélve, hogy komoly műveket érdemes 
+a jövőben is írni, akár zene, akár írott, vagy a modern médiumok területén.
+A globalizáció ugyanis "kiírtja" a kevesek kultúráját, az eladhatóság és 
+a nemzetközi elismertség jegyében egyre kevésbé lesz kifizetődő a kevésnek 
+a nyelvén alkotni - ha egy világ számára is elérhetővé tehetjük műveink...
+
+Ez a probléma ennek ellenére nem csak a Magyar nép sajátja, hanem láthatóan 
+az Európai kultúrkör egészére, de több más területre is igen komolyan 
+leselkedő veszély. Viszont nem vizsgálhatjuk a problémát csakis egy nézőpont 
+mellett, meg kell ismernünk milyen **nagy probléma** húzódik meg a háttérben!
+
+Több nagy probléma van ugyanis. Az egyik, hogy végtelen módon szaporodni nem 
+lehet, vagyis inkább nem érdemes. Emellett vannak akik szerint az népességet  
+"korlátozni" kell, különben a föld nem bírja el az emberiséget - ez azonban 
+egy olyan véglet, ami szintén nem igaz! Az igazi probléma nem is a földünk 
+eltartó képessége, hanem az, hogy a föld a jelenlegi vad gazdálkodási módon 
+nem bír el egy bizonyos népességnél többet! A javak eloszlása nevetséges, 
+a feleslegnek és a szemétnek már a gyártásáról beszélhetünk, az erőforrások 
+kizsigerelése pedig alapvető része a gazdaságnak sajnos. Emellett, ha idegen 
+lények itt járnának azok is nevetnének, amikor azért égetünk el a véges 
+természeti erőforrásainkből komoly mennyiségeket, hogy egy olyan növény 
+termését vigyük át a tengeren hajókkal és repülőkkel, amely egyébként a 
+célterületen is megélne a bevetetlen földeken, de valami "képzetes" érték 
+miatt, amit mi a földön "pénz"-nek nevezünk ezt a kört kell megtennünk.
+Mivel ennél rosszabb példák is vannak, nem csoda hát, hogy a jelenlegi 
+rendszer csúcsán állva az a képzetünk lehet: itt a lélekszám csökkentés 
+az egyetlen ésszerű lehetőség, de ez sajnos tipikus esete annak, mikor 
+valaki nem a betegséget - hanem annak a tüneteit kezeli.
+
+Az is probléma, hogy ebben a helyzetben már benne élünk, mit kezdjünk 
+hát a keletkező tömegekkel? Arra törekedünk-e, hogy minél inkább 
+megőrízzü a sokszínűséget, a nemzetek és kultúrák különbözőségeit, 
+vagy inkább mentsünk meg 10%-al több embert? Nehéz kérdés. Nehéz 
+kérdés az is, hogy vajon ha megmentünk egy kicsit több embert, nem 
+hal-e meg több valami másodlagos úton - például kulturális belharcokban?
+
+Szomorú, de jelenleg ez a rossz helyzet igazából "kapóra jön". A nemzetek 
+és népek, a kultúrák és a sokszínűség nehezen irányítható és tömegesen 
+igen nehezen megvezethető. A spekulatív jellegű, vagy a pénzből-pénzt 
+előállító, tőkeforgató hatalom gyakorlásában akadályt képeznek a nemzetek, 
+emellett ideológiai alapon egyesek nem a különbözőségeket pusztítókban, 
+hanem a különbözőségekben látják az agressziók forrásait, ezért - sokan 
+egyébként jóhiszeműen - egy homogén társadalomban érdekeltek azok közül, 
+akik a pénzhatalmat fegyverként bírják. Ez a tengely kiegészül még emellett 
+olyan erőkkel is, amelyek a saját erejükben - például népességükben, vagy 
+hatalmi pozíciójukban, technikai és ipari fejlettségükben - bízva állnak 
+ugyan ezen ügy mellé abban a reményben, hogy így a történelem viharait 
+pozitívan, vagy kevéssé lepusztulva éljék át, jó esetben majd a szép új 
+világban meghatározó erőként fellépve.
+
+Arra a kérdésre, hogy **mit cselekedjék az ember ilyen helyzetben?**
+Több válasz is adható, de legalább a helyzetet magát látnunk kell, hogy 
+egyáltalán elképzelésünk legyen a szembenálló felek pontosan mit képviselnek 
+a sokszor nem-egyenes beszéd mögött. Jó stratégia-e, ha aláássuk az emberi 
+civilizáció azon részét, amely esetleg ha összeszedné magát talán még 
+segíthetne? Ez nem valami átgondolt stratégia és sajnos abból indul ki, 
+hogy ember-embernek úgyis farkasa, arra épít, hogy mindenki állati módon 
+fog viselkedni és erre tanítja az emberiséget. Ez a legfőbb bűne ennek a 
+látásmódnak, mert előfeltevésben leszögezi azt, amit elkerülni szeretne!
+
+Sajnos itt megint látható, hogy a világ nagy része a Káin és Ábel ikerpár 
+történetét ismeri csak, Romulus és Remus ikerpárok történetét ismeri csak, 
+de Hunor és Magor szóval sem említtetik - pedig az emberi megmaradásnak a 
+hosszú távú kulcsa nem a homogenizáció, hanem az egymásért való élet és 
+a különbözőségben leledző öröm, melyben nem az erős várakat tesszük a 
+földdel egyenlővé, hanem azon kis kuckóknak is segítünk erős várrá lenni, 
+melyek még csak kicsinyek, fiatalok, vagy akár kevésbé szépek!
+
+Aki csak a Romulus és Remus, illetve Káin és Ábel meséit ismeri az csak az 
+olyan életmódból lát példát, amelyben növekedni csak valaki ellenére lehet. 
+Ez sajnos tükröződik a másokhoz való hozzáálláshoz is, de ahhoz is, ahogy 
+például a földünket is kizsigereljük eközben. Viszont mégsem ez az igazán 
+szomorú ebben, hanem hogy azok, akik magukat jóhiszeműen képzelik jóakarónak, 
+sokszor jóindulattal a szívükben is tévútra keveredhetnek, mert azt látják, 
+hogy "ha Káin leüti Ábelt, akkor ne legyen se Káin, se Ábel - hanem két Káin".
+Ez sajnos a lehető legszomorúbb hozzáállás, csak ahelyett, hogy ebből béke 
+fakadna, hosszú távon, vagy középtávon is teljes káosz alakulhat ki, melyből 
+az emberiség megint csak elfelejt tanulni, megint csak rosszat tanul...
 
 <span id="anchor-425"></span>A Magyar nyelv csodája
 --------------------------------------------------
