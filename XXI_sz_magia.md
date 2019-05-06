@@ -1373,7 +1373,7 @@ TODO: hasonlóságok
 
 TODO: különbségek
 
-### <span id="anchor-420"></span>Magyarság – a mag nemzete
+### <span id="anchor-418"></span>Magyarság – a mag nemzete
 
 TODO: pontosan mit jelent, milyen feladat.
 
@@ -1391,6 +1391,207 @@ Küldetések:
 4. Megmaradás nemzete: ha mindenki elveszne, legyen aki Magyar kíván lenni és újraindítja a sokszínűséget!
 5. A mélyen értelemmel átszőtt nyelvet átörökíteni hivatott nemzet.
 ...
+
+<span id="anchor-419"></span>Statisztika, manipuláció, DNS archeo-genetika és más bonyolult dolgok
+--------------------------------------------------------------------------------------------------
+
+Azt gondolhatnánk, hogy a tudomány és a történelem kutatása előre tart minden 
+minden körülmények között az idő előrehaladásával. A modern technikának hála 
+továbbá már nem csak a régészet, de a minták DNS-biológiai elemzése is csak 
+pontosítja a történelemről, nyelvokonságokról és a világól alkotott képünket.
+
+Ugyan így arra is szívesen gondolunk, hogy a mai "racionális" világban már 
+könnyen találhatunk utat az objektivitásnak, a valóság felismerésének, a 
+félreértések lebontásának és a megvezetésnek való kiszolgáltatottságtól
+történő végső elszakadásnak. Sajnos tévedünk ha azt hisszük, hogy a technikai, 
+vagy a tudományos fejlődés segíti az emberiséget az eligazodásban!
+
+### <span id="anchor-420"></span>A statisztika és a megvezetés
+
+Vigyáznunk kell azonban, mert ez egy erősen "tipikusan statisztikához hasonló" 
+terület! Arról van szó, hogy vannak tudományos területek, ahol az értelmezés 
+legalább olyan fontos, mint maga a mérés. Azért jó példa a "statisztika" erre 
+a jelenségre, mert mindenki jól ismeri a mondást, hogy "azt a statisztikát 
+hiszem el, melyet magam hamisítottam". Ezt jól ismeri mindenki, de a többség 
+sajnos félreérti és "valódi hamisításra" gondol. Nem erről van szó! Egyszerűen 
+arról van szó, hogy a statisztikát igazából csak az érti, aki összeállítja, 
+pontosan átlátja a mintavételezést, a feltett kérdéseket és ezért nem érti 
+félre az eredményként ismertetett végkövetkeztetést. Aki nem néz utána ilyen 
+mélyen, az csupán "elhiszi" a végkövetkeztetéseket - főként ha azok neki igen 
+tetszetősek a személyes véleménye szerint. A szakemberek számára is nehézkes 
+lehet pontosan követni az egyes végkövetkeztetések igazságtartalmát, de a 
+laikus kívülállók számára ez teljességgel lehetetlen. Ezt röviden úgy is 
+összefoglalhatjuk, hogy ez egy olyan terület, ahol könnyű tudományos mérést 
+végezni, de annál nehezebb pontosan átlátni mit is jelent egy adott mérés 
+és "csalni" nem az adatok befolyásolásával lehet, hanem azok célzottan olyan 
+mérésével, ami majd a megfelelő eredményeket mutatja.
+
+Erre néhány példát is adhatunk:
+
+1. Harcból visszatérő repülőgépek sérüléseinek vizsgálata páncélzat erősítéshez
+2. Duplájára növekedett helyi késelések száma vs. 5% növekedés Detroit-ban
+3. Elindított korrupciós eljárások számának emelkedése
+4. Fejlesztők bónusz díjazása a hibák kijavításának számarányával
+
+Az **első példa** a legkiemelkedőbb és azért szerepel elől, mert ez egy olyan 
+részét mutatja meg a hibalehetőségeknek, amelyre nagyon kevesen gondolnak. 
+A szövetséges hadsereg statisztikusait megkérték a második világháború alatt, 
+hogy vizsgálják meg a repülőgépeken található lövésnyomokat. A feladat ki lett 
+adva, a statisztikusok elkezdték mérni a gépek mely részein, hány lövedék 
+csapódik be általánosan. Az eredményt az egyik kutató épp át készült adni a 
+honvédségi felettesének, de kíváncsiságból megkérdezte, hogy mire is szolgál 
+ez a bizonyos kutatás - hát a páncélzatot nem érdemes mindenhol megerősíteni, 
+mert az sok pénz volna, így inkább a gyakran célbavett részeket erősítjük meg 
+ezen "tudományos kutatások" alapján. Erre a kutató széttépte a dokumentumot!
+
+Kevésbé színpadiasan és a lényegre térve: észrevettük-e a kutatási problémát? 
+Hiszen teljesen logikus és tudományos, sőt komoly mérések támasztják alá majd, 
+hogy mely területekre kerül erősebb páncélzat a repülőgépeken! Szabotőr vagy 
+esetleg békepárti pacifista volt a kutató, hogy megtagadta az engedelmességet? 
+Nem volt hazaáruló szabotőr, sem pacifista! De ő igazi szakember volt és látta 
+azt a rejtett problémát, ami komoly károkat okoz majd egy tudományos kutatás 
+leple alá elbújva. Egy komoly problémát amelyre a megbízó nem számított! Az 
+eredmények alapján ugyanis azt láthatták, hogy egy négyzetméterre vetítve a 
+legtöbb találatot a gép teste és a szárnyak szenvedték el - sokkal több volt 
+az ezen területekre becsapódó lövedék, mint a motorba, vagy kormánylapátokba, 
+esetleg a bombatérbe és a pilótafülkébe. Nem arról van szó, hogy a szárnyak 
+nagyobbak, mint a hajtóművek - hiszen négyzetméterenként mértek a megrendelés 
+szerint, vagyis a méret elméletileg kevésbé számíthatna. Ezek szerint tehát a 
+német légvédelmi lövészek ezekre a területekre céloztak, vagy a hajtóművek, a 
+pilótafülke és a légkormányok olyan helyeken voltak, ahol nehéz őket eltalálni?
+
+Sajnos nem. Viszont vegyük észre, hogy statisztikát csak olyan gépről lehet 
+csinálni, ami nem zuhant le, hanem hazatért! Ezek szerint nagyon is bajos 
+lenne azokat a részeket páncélozni, amely részeket ért találattal a gép még 
+haza tud repülni - azzal ellentétben, amely esetén azonnal lezuhan, mint pl. 
+a hajtőművek, a pilótafülke, a bombatér, vagy a kormányműveket ért találat.
+
+**Szögezzük le: a számok nem helyettesítik az ésszerű gondolkozást!**
+
+Most nézzük meg, hogyan lehet kihasználni mindezt manipulatív, vagy akár 
+politikai célokra - az adatok meghamisítása nélkül! Elég ehhez ha a naív 
+emberek gondolkozásra való hajlandóságának a hiányosságát kihasználjuk, úgy 
+hogy a **a torzítást tudományos lepelben adjuk nekik közre**. Ez sajnos 
+működik és mindig is működni fog, mert minél inkább mélyvíznek számít egy 
+adott terület, annál inkább iszonyodni fog valaki attól, hogy megvizsgálja 
+mi és hol értelmezhető másként. Jó példa erre az, amikor nagy "kivándorlási" 
+százalékokat ír le valaki, de szépen hallgat róla, hogy ha ugyan így mérjük 
+más országokat, akkor már nem is "nagy" az adott százalék, sőt egy mögöttes 
+folyamat része, amit igen nehéz megállítani, mert mondjuk régiók közötti 
+történelmi mértékű fejlettségi különbözőség az alapja - évtizedes lemaradásból.
+
+A **második példánk** ennek az állatorvosi ló jellegű esete, mert ha a helyi 
+újság címlapján azt látjuk, hogy hol milyen arányban nőttek a késeléses 
+támadások - és helyben ez duplájára nőtt, más helyeken pedig alig, pl. Detroit 
+közepén is csak 5-10% arányban, abból tévesen arra következtethetünk, hogy 
+Detroit nyomornegyedeiben biztonságosabb lakni. Aki egy kicsit következetesebb 
+és legalább egy kicsit utána néz a dolgoknak azt mondja esetleg, hogy persze 
+ott nem jobb lakni, mert eleve gigantikus mértékben történnek ilyen dolgok, de 
+ilyen arányú exponenciális növekedéssel helyileg igen gyorsan a Detroit-i 
+mélységeket fogjuk elérni a bűnözés terén. Azt is láthatjuk ebből, hogy az 
+ilyen jellegű statisztikai hangulatkeltésnek és manipulációnak több szintje is 
+van és van aki erősen sarkítva, van aki pedig pedig "művészi pontossággal" 
+használja azt. Az utóbbi kifejezések valóságtartalmát máris sokkal kevésbé 
+kérdőjelezi meg az ember, holott pont ezért, **aki művészien manipulál az 
+sokkal de sokkal veszélyesebb ember, vagy szervezet, mint az, aki égbekiáltó 
+módon!** Jellemző továbbá, hogy vannak emberek akik felismerik már a nyílt 
+manipulációt, de még nem ismerik fel annak finomabb, tudományos köntösben 
+megjelenő, vagy komolyabb formáit és ezzel elveszítik objektivitásuk jelentős 
+részét! Visszatérve a példánkhoz: fontos látni, hogy a kétszeresére emelkedő 
+késelések száma vajon 100-ról 200-ra, vagy egyről kettőre nőtt-e! Ha ugyanis 
+az utóbbi, akkor azért a vak is látja, hogy jelentéktelen dologról van szó!
+
+
+TODO: harmadik és negyedik példa leírása hasonlóképp
+
+
+### <span id="anchor-421"></span>Az archeo-genetika és az emberek megvezetése
+
+TODO: Vigyázni kell! Ez is egy nagyon mély terület akár a statisztika és 
+az emberek majd vakon fogják elhinni, vagy el nem hinni és vadul fogják 
+magyarázni az eredményeket!
+
+TODO: Példa - sokszor mondjuk a mai DNS eloszlásból következtetnek történelmi 
+dolgokra, sőt képesek bizonyos markereket pl. Indo-germán, Szláv stb. nevekkel, 
+vad ötletek esetén akár "finnugor", "Török" stb. nevekkel illetni a jelenleg 
+létező kultúrákban való megjelenés miatt. Ez egészen addig tudományosnak hat, 
+míg el nem gondolkozik valaki azon, hogy ilyen módszerek alapján Amerika mai 
+földjén Latin, Angolszász, Frank törzseket keresnénk a középkorban, ami nyílt 
+és vad tévedés volna.
+
+TODO: Egyáltalán nem mindegy kik a kutatók és milyen jellegű a genetikai mód, 
+a leszármazási követhetőség: vannak népek (pl. lovasnomád népek), ahol pl. 
+bevett kulturális szokás a "feleségrablás" és a távoli házasodás intézménye, 
+főként a genetikai belterjesség ellenében, de az ilyen népek is megtartják 
+kulturájukat és még rokonságukat is, de lehetnek olyan mérési módok, ahol 
+ez utóbbi nem jelenik meg: például mitokondriális DNS esetén általában csak 
+a női leszármazási vonalat lehet követni, míg van olyan módszer ahol csak 
+a férfi vonalakat. Ez statisztikailag van ahol működhet, van olyan közeg 
+ahol esetleg kevésbé, de fel kell készülnünk, hogy ez egy olyan terület, 
+ahol a kívülállók még a statisztikához képest is kevés ismeretekkel fognak 
+rendelkezni ezért az egyes mérési módszerek, az eredmények és a teljes 
+tudományterület elmozdítható ennek, vagy annak az elméletnek a Magyarázására!
+
+Erről nagyon fontos tudni, mert itt egy olyan időszak várható, hogy akár a 
+kutatók és komoly nagy tudású koponyák is bevezethetők egy zsákutcába! Majd 
+el fog telni egy bizonyos idő és akkor az ilyen eredmények és a vizsgálat 
+módszere meg lesz kérdőjelezve, de addigra "bebetonozódik" egy nehezen és 
+macerásan változtatható tudományos nézet, ami eltorzítja majd a történelem 
+és múlt-szemléletünket valamely irányba, így egyáltalán nem mindegy, hogy 
+engedi-e valaki, hogy elfogult, de szakmailag kompetens kutatók dolgozzanak 
+ezen egyedül és más - például ma alternatívnak nevezett - történelmi vonalat 
+követők ebből kimaradjanak. Nem szabad vakon hinni az eredményeknek!
+
+### <span id="anchor-422"></span>A kriptovaluták és az emberek megvezetése
+
+TODO: A marson ássuk ki az összes bitcoin-t egy titkos nagy géppel. 1000 év múlva mutassuk meg a világnak. Mit fog érni? Ha mégis elkezdi az emberiség komolyan használni magát a kriptovaluta technológiát például a pénzrendszerben, akkor 
+
+TODO: Aranyból önthetek ékszert, szobrot - egy kriptovalutából mit önthetek közvetlenül?
+
+TODO: Van aki az aranyra csak mint csere-eszköz tekint, de nem így emelkedett ki és nem (csak) a ritkasága miatt.
+
+TODO: Itt is megvezetés zajlik: nagyon tudományos és nagyon precíz leírás - amit igen kevesek értenek.
+
+TODO: Aki "érti" az nem látja a fától az erdőt és a részletekben gyönyörködik, aki nem érti az a "tudományosságában hisz"
+
+TODO: De felteszi-e bárki a kérdést, miért van a pénznek értéke? Mert el tudod cserélni másra! LÉNYEG!
+
+TODO: Veszélyes-e, ha nem lehet követni a tranzakciókat? Ugye mindenki ismeri azt a kifejezést, hogy "pénzmosás"? Ez jelenleg "nehéz". Ha elloptál egy vagyont, akkor nem tudod egykönnyen eltűntetni a nyomaidat, de egy rendszerben ami erre épül??? Ez csak egy példa, de ott van még a terrorizmus támogatása, a politikai lefizetések, hatalmi játszmák stb. tere is. Nem mellesleg a pénz mögött gazdasági eredmény kell(ene) hogy álljon. Vajon miért van az, hogy ha egy bankjegy automatát kirabolnak, akkor a pénzeken lévő azonosítók alapján megpróbálják kivonni azokat a forgalomból? Miként működnek majd ezek ha egyetlen tranzakció sem lekövethető?
+
+TODO: Ha egy forintot tart az ember a kezében, nem csak egy darab pénzt lát, hanem egy ország teljesítőképességének egy kis szeletét tartja ott, valamit ami ezt jelképezi. Igazából pont az lenne a jó, ha egy daab pénzben benne látnánk az összes tranzakciót, amihez felhasználták: látni lehetne egy ilyen pénzdarabnál, hogy egy gazda tejet termelt és azért kapta, majd odaadta a másik embernek aki szénát termelt, aki eladta az elektromos műveknek, aki árammal látta el a farmját, aki visszafizette valakinek aki túl sokat fizetett be, aki házikolbászt vett belőle attól aki elment a szórakozóhelyre és ebből megnézett egy koncertet sörözgetés közben te pedig megkaptad mint visszajárót. Nem-e tölt el nagyobb gazdasági megnyugvással ha mindezt tudod egy pénzérméről, látod hogy végtelen sok valós munka van mögötte egy teljes közösség részéről és nincsenek benne hamis ügyek, lopások, korrupció? Nem az lenne a szebb ha tudnánk, hogy ha valakinek sok pénze van az hozzá az érdemei szerint vándorolt? Persze ezt még egy a fentihez hasonló komoly követőrendszerrel is nehéz volna látni, de nem is arról van szó, hogy ezt meg kellene csinálni, hanem arról, hogy pont az ellenkező irányba történne elmozdulás: ha valaki egyszer elsikkaszt valamit egy cégtől annak a sikkasztása nyomtalanul el fog tűnni. Ettől sok "pénz" birtokosa lesz, lekövethetetlen számlákon, vajon ez majd az emberekben hosszú távon erősíteni, vagy rombolni fogja a hitet a fizetőeszköz hitelességében? Építeni, vagy rombolni fog az, ha bármely tranzakció anonim, lekövethetetlen és kontrollálhatatlan? Hosszú távon mindenképp rombolni fog ez, de természetesen magának a technológiának lehetnének olyan elemei, amit ésszerűen használva az igazi pénzügyi rendszer is használhatna.
+
+TODO: nem-e a piramisjáték egy fajtája olyan pénzügyi rendszert kitalálni, ahol kezdetben könnyen a "semmiből" ki lehet bányászni / termelni valamely értéket, de később egyre nehezebb ezt megtenni - ha tudjuk eközben, hogy a "kitalálók" igen komoly helyzeti előnnyel indulnak? A legrosszabb esetben a publikussá tétel előtt "kitermelhetik" titokban a pénzügyi egységek egy jelentős százalékát. 
+
+TODO: vajon hányféle lehetőség van ilyesféle valutát képezni? Nem-e végtelen sok "féle" ilyen pénzt képezhetünk?! Aranyból csak egy van és egy gyémántszobor, illetve egy aranyszobor másképp néz ki - látványosan!
+
+TODO: valamivel értelmesebb alternatíva: például ha fizetőeszköznek használnánk a jövőben egy kvantumszámítógéphez való hozzáférés gépidejét? Ezzel is lehetnének problémák!!! Ne akarjunk egy nagyon rossz irányt, egy kevésbé rossz felé elfordítani, hanem inkább forduljunk el!
+
+TODO: Mennyire etikátlan "felesleges" matematikai problémákat oldogatni komoly fogyasztású gépparkokkal azért, hogy egy pénzügyi rendszert fenntartson és "értéket bányásszon"? Vannak már ötlet szinten fűtőtestek, amelyek valamely ilyen valutát bányásznak és a túlmelegedéssel fűik az otthonainkat. Ez megint egy olyan dolog, hogy ha a földönkívüliek ide látogatnak körberöhögnek minket :-)
+
+### <span id="anchor-423"></span>Túlélési stratégia a megvezetéssel szemben
+
+**Mit tehetünk a manipuláció ellen?** A Magyar nyelv szépen kifejezi ezt a 
+jelenséget ugyanis "megvezetésnek" hívja. Mit jelent ha valakit megvezetnek? 
+Meg-lódítják egy irányba, amerre a saját lábán elindul! Nem vezetik végig az 
+úton, hanem meg-vezetik őt merre induljon "magától". Fontos látni ennek a 
+lényegi működését mielőtt el próbáljuk hárítani a jelenséget a fejünk fölül!
+
+TODO: a megvezetés anatómiája és észlelése - ne a másikra, hanem magunkra figyeljünk! Vajon ellendülünk-e egy irányba a hallottaktól?
+
+**Aki azt hiszi, hogy átlát a szitán az könnyebben megvezethető, mint aki nem 
+hiszi** ezt magáról! Az egyik leggyorsabban a megvezethetőséghez vezető út az 
+egón keresztül, azon át hat az emberre, hogy ő különbnek, okosabbnak véli 
+magát a "többieknél". Ezért van az, hogy ha két oldal küzd egymással és az 
+egyik professzionálisabban, művészbben, alig tapinthatóan manipulál, mert 
+már média, vagy nemzetközi kapcsolati tőke van a kezében, akkor a másik fél 
+szemmel jobban látható eszközökhöz nyúlva kell ez ellen fellépjen. Aki csak 
+a közvetlen megvezetési kísérletet ismeri, az ilyenkor a veszélyesebb fél 
+irányába vetődik, ahhoz csatlakozik, aki neki nagyobb károkat okoz.
+
+
+TODO: Kétirányú stratégia: Első kézből való információszerzés és elfogultságérzet-érzékelés.
+
+TODO: Nyilván nem érdemes mindent megkérdőjelezni sem!
 
 <span id="anchor-424"></span>A gyermekvállalásról és megmaradásról
 ------------------------------------------------------------------
