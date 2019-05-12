@@ -1,0 +1,25 @@
+Simpson's paradox
+Uri Granta
+
+Previous: Sorites paradox | TOC | Next: Olbers' paradox
+
+Summary: A statistical trend is reversed when the population is partitioned into groups.
+
+Description: A drug trial indicates success on 55 out of 100 participants for the new drug, compared to 45 out of 100 for the control group. This appears to show that the drug is an improvement. However, when partitioned by gender, the new drug is seen to work for 50 out of 80 men and 5 out of 20 women, while the control works for 15 out of 20 men and 30 out of 80 women. The control is therefore better for both women and men.
+
+Resolution: The paradox is a classic example of omitted-variable bias: gender is a confounding factor here with a large effect on the success ratio, and failing to take it into account therefore results in a mistaken conclusion. Mathematically, the paradox is a consequence of the fact that ab<AB and cd<CD does not imply that a+bc+d<A+BC+D. The differing proportions of men and women in the two samples means that the only thing that the aggregate figure shows is that the new drug appears to be more effective when it is applied more frequently to men, who react better to it than women.
+
+The paradox crops up frequently in real life. Controlling for confounding factors is difficult as it requires us to know which factors are causally relevant. The direction of causality is also important. For example, if in the example above gender were replaced by stress levels then it would no longer be obvious whether the treatment was ineffective or not: it could be that the treatment itself results in higher stress levels rather than stress levels affecting the success rate directly, making the aggregate figures the more useful ones.
+
+Some real-life examples of Simpson's paradox include:
+
+    Death penalty and race. White murderers in Florida are more likely to receive the death penalty than African-Americans. However, African-Americans whose victims were white are more likely to be executed than whites, as are African-Americans whose victims were black.
+    The low birth-weight paradox. Low birth-weight infants of smoking mothers have a lower mortality rate than those of non-smoking mothers, while the rates for normal weight babies are around the same. Nevertheless the mortality rates of infants of smoking mothers are much higher, since the infants are more likely to be low weight.
+    Titanic survival rates. The overall survival rates for third class passengers on the Titanic were higher than those for the crew, yet those for both men and women were lower.
+    Baseball batting averages. The batting averages of baseball player David Justice were higher than those of Derek Jeter in both 1995 and 1996, but not in the two years combined.
+
+
+Megj.: Ezek a példák nem mindig könnyen érthetők, követhetők! Sokkal jobb azt a példát behozni majd, hogy az egyetemen felmérést csinálnak, hogy a több tanulás jobb eredményre vezet-e. Azt kapják, hogy minél többet tanulnak a diákok egy vizsgára, annál rosszabb az eredmény! Csak ebben is van egy rejtett változó: egy kalap alá vettük a kvantumfizika 2 és a szabadon választott fraktálok világa órákat, holott az egyiknél igen könnyű a vizsga (ezért keveset tanul rá mindenki) míg a másiknál igen nehéz és mégis sokan megbuknak! Ezt érdemes grafikonon is ábrázolni úgy, hogy először "szinezetlenül" (a tárgyaktól függetlenül) csinálunk egy rajzot, majd ugyan ezt megszínezzük a tárgyak szerint: azt kapjuk, hogy általában az egyes tárgyakon jobb az eredménye a többet készülőknek, de a nehéz tárgyakra mindenki sokat készül és a könnyűekre mindenki keveset - míg az utóbbin viszont nagyon sokan jó eredménnyel vizsgáznak és az előbbinél nagyon kevesen. A legszebb, ha több tárggyal van ez szemléltetve, nehézség szerint és lehetőleg látványosan egyértelmű módon.
+
+
+TODO: ezt berakni a statisztikás részhez!
