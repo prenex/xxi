@@ -2320,7 +2320,7 @@ TODO: kapcsolat az akar, ak-, -ik konstrukciókkal
 TODO: kapcsolat az éG szóval (lángolás, illetve égbolt/mennybolt)
 TODO: Az ige, vagy íge meg is képes igézni. Beszéddel való cselekvés, varázs-ige, örök élet igéi stb...
 
-TODO: iSTeN - STN
+TODO: iSTeN - STN - SáTáN (de magas vs. mély hangrendű itt!)
 
 öSTen
 Ős-Ten(ger)
@@ -2336,7 +2336,7 @@ SzDM (saddam???)
 
 TODO: érdekesség: megjelenik a SáTáN is - habár nem magánhangzóval kezdődik (mint Isten) és a hang is másként szerepel. Lásd Igaz és Gaz ellentéte is teljesen hasonló lehet. Persze az Igaz lebontható úgy, hogy "éG-aZ", "éG-eS", pontosabban "éGieS"! Érdemes továbbá felfigyelni a Gaz-dag szóra is, illetve a "Gazda" szóra is. Furcsa, hogy ide is eljuthatunk a logikai fonal mentén.
 
-### <span id="anchor-434"></span>Élet, állat, állapot, alvás, világ, mindenség stb.
+### <span id="anchor-434"></span>Élet, állat, állapot, alvás, világ, mindenség, boszorkány stb.
 
 TODO: Élet
 TODO: él-al. A mély hangrend szerepe itt is fontos!
@@ -2366,7 +2366,21 @@ TODO: Szerezni ezáltal úgy is lehet, hogy szerbe van foglalva mit kapunk, teh�
 
 ### <span id="anchor-436"></span>Nemzet, nép család, gyerek, felnőtt
 
-### <span id="anchor-437"></span>Néhány Bibliai-Magyar szóegyezés
+TODO: nemzés, nemzet, nemes, nem.
+
+### <span id="anchor-437"></span>Körülbelül, hozzávetőleg, pontosan, kör, korona, kerités, kordon, korlát, gyűrű, Győr, környék, göröngy, kar
+
+Számos mennyiséget, sokaságot kifejező dologról lehet szó a "körülbelül" kifejezés említése után, de úgy látszik minden esetben a mennyiség, számosság, vagy fogalom bizonytalanságát fejezi ki az így kapott szerkezet. Azt gondolhatjuk, hogy esetleg csak az adott KöRnyéken, KöRnyezetben, vagy egy "adott körben valahol megtalálható" mennyiségről beszélünk így. Tehát valamiről, ami nem pontszerű, hanem egy "körön" belül található "valahol" az, amiről beszélünk. Amikor egy számegyenesre nézünk és becslést használunk, ezt konkrétan látni is: "tól-ig" becslést adhatunk és sokszor még a matematika szakirodalomban is úgy hívják ezt, hogy környezet! Amennyiben síkban megjelenő dolgokról beszélünk - például egy harcászati gyakorlatozás esetében - akkor a körülbelüliség még szó szerint is a kör fogalmához közvetlenül is köthező: Képzeljük el, hogy egy íjász gyakorlatozik és céltáblára lő. Pontos találatot mér a cél-pont-ra, vagy csupán körül-belül talál? Ha már a körül belülre se talált akkor a célpontot elvétette. A dolgok elvetéséről eszünkbe juthat egy hasonló kifejezés a becslésekre: hozzávetőleges, vagyis legalább nem vétette el a célpontot.
+
+Természetesen az általánosságot szem előtt tartva, itt nem csak a hardcászati nyelvezetről, hanem a körülhatároltságról van szó! Ugyanúgy, mint a KeRités szóban, amikor valami KoRlátolja és azzal határolja, körbevonja - tehát így nem egy pontszerű (Magyarul: pontos) végeredményt, hanem egy körül belül esőt mondhatunk. Akár egységkörön belül, valamekkora körön belül, vagy akár egy valamilyen más alakú, körülhatárolt téren, "környezeten" belül esőt.
+
+Érdekes csoportot alkot a K-R hangzópár, ami tehát kerítettséget és határoltságot, de a kör alakot is kifejezheti. A korona szóban mind a két tulajdonság együtt is megjelenik, de a korlát, kordon szavakhoz inkább a kerités irányából tudunk közelíteni. A határoltságot továbbá képletesen is használhatjuk, mint a környék, vagy környezet, de akár a körülmény szavak esetén és az is jól látszik, hogy a nyelvben ezt a jelentésközösséget, jelentéstani hálózatot nagyrészt még a nyelvújítást követően is felleljük ugyanúgy, mint annak előtte.
+
+Vannak nehezebben érzékelhető szókapcsolatok is, mint a például a göröngyös út esete, ami nehezebben látható, mint a karika és más "kerek" szavak kapcsolata, de itt segítségünkre lehet amint felfedezzük, hogy a kerek dolgok általában gurulnak is! Arra is felfigyelhetünk, hogy a gyűrű a K-G-Gy mássalhangzóváltozással a hangzócsoportban maradva szintén kifejezi a kerítettséget és a kör alakot is (de még el is gurulhat természetesen)! Ha tovább megyünk itt még a gyülekezéshez, sőt a gyűlik szó más rokonaihoz, mint például a gyűjtögetéshez, gyűjtéshez, gyűjteményhez is eljuthatunk ezen gondolati fonal mentén az R-J mássalhangzócsoportbeli rokonság miatt és még mindig érthető marad a jelentéstani kapcsolat is a jelentéslánc mentén, mert a gyűjtögetéssel a szétszórt dolgokat, különálló dolgokat gyűjtjük egy körülhatárolt helyre! Emellett nem csak hagyományos szavakra, de helynevekre is alkalmazható az ilyen nyelvpörgetés, így igen jól követhető, hogy Győr városunk neve valaha, egy gyűrűs, körkörös - esetleg védművel, vagy csillagvizsgálóval - kialakított hely lehetett. A gyűjtés, gyűlés, gyújtás, gyulladás hasonlóságának a megmagyarázását már az olvasóra bízzuk.
+
+Ahogy az látható, a különféle jelentéstani kapcsolatok a legkönnyebben a ragozás és összeragasztásban, közepesen nehezen a közvetlen hangváltozásoknál és tényleg nehezebben akkor érhetők tetten, ha az adott fogalom sokszoros hangváltozáson, több másik szó jelentésén át kapcsolódik a másikhoz, ezért egy kis gyakorlatot kíván az ilyen gondolkozásmód kialakítása. Vannak azonban hangzásban és hasonlóságban teljesen nyilvánvaló esetek, amelyeket mégis nehezen magyarázunk, mert elsőre idegenkedve fogadjuk az elképzelést. Ilyen például a "kar" szabunk is, ami hasonlónak tűnik a körhöz, de nem biztos, hogy elsőre látjuk ennek a hasonlóságnak a pontos mikéntjét. Ebben az áttörésben az segít, ha átkarolunk valaki - vagy ha még így sem ébrednénk a jelentésbeli kapcsolatra rá: "átkörülünk valakit". A karjainkban tartani a csecsemőt védő keretet, körkörös védelmet biztosít számára.
+
+### <span id="anchor-438"></span>Néhány Bibliai-Magyar szóegyezés
 
 TODO: kicsit kevésbé mély elemzés szükséges, szinte azonnal látható egyezés!
 
@@ -2375,7 +2389,7 @@ TODO - Bibliából: Ez az én testem...ez az én vérem... eközben testvéri fo
 TODO: Megemlíteni az első példához tartozóan kik és mely népek vannak felsorolva - ne csodálkozzunk.
 TODO: Az említett Éli-Éli idézet
 
-### <span id="anchor-438"></span>Néhány Külföldi-Magyar szóegyezés, némely történeti és helynevek részleges elemzése
+### <span id="anchor-439"></span>Néhány Külföldi-Magyar szóegyezés, némely történeti és helynevek részleges elemzése
 
 TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné válni.
 
@@ -2384,6 +2398,10 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 * Selo ~ SzáLLó (Szlávból: falu)
 
 * KuD ~ KúT (Sumerből: Kút)
+
+* Wagen - Weg - "Vág" (Németből - lásd a hasonló "csapás" nevű Magyar szót!)
+
+* Haas - Hős (Németből / Svábosan: "forrófejű", lásd hőmérséklet, hő)
 
 * KaD ~ Köt(és) (Sumerből: összeilleszt, egybeszerkeszt)
 
@@ -2427,7 +2445,7 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 
 * Io ~ "Jó" (Görög: Istennői név) - valószínűleg a Boldogasszony, Szűz Mária rokonítás is helytálló (lásd holdsarló)
 
-* ORion ~ RjN ~ Úr-Jön ? (Görög: lásd orion-öv)
+* ORion ~ RjN ~ Úr-Jön ? (Görög: lásd orion-öv, esetleg: Óriások?)
 
 * NiMRóD ~ NeMeRe(d), Nem-rótt, Nem-roth, Nem-mered (Történelmi személy)
 
@@ -2442,6 +2460,10 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 * Centaur ~ KNTR ~ KaNTáR, Kanta-úr (lásd: "kijegyeztette magát a Centaurusok; ezen bátor emberek ellen, kik legelőbb gyakorolván magokat a lóval való viadalban")
 
 * euFRáT(-esz) ~ BRT ~ BaRáT?
+
+* Circum - Kör (latin és egyéb nyelvek)
+
+* -ing végződés Angol nyelven - náluk folyamatos múlt. Vesd össze a Magyar szóalkotással (pl. kering, szálling(ózik) stb).
 
 A vélt-valós egyezéseket sorolhatnánk napestig, de ezeket csupán azért 
 szerepeltettük, hogy látszódjék: néha a szógyök egyezés még teljesen 
@@ -2468,10 +2490,10 @@ még az erős torzító hatások után is! A fentiek között azonban olyan
 példák is szerepelnek, melyek során látható közvetlen utalás is az 
 elnevezések (pl. személy, nép- és helynevek) és származásuk között.
 
-<span id="anchor-439"></span>Vallásokról és hitről
+<span id="anchor-445"></span>Vallásokról és hitről
 -------------------------------------------------
 
-### <span id="anchor-440"></span>A szent könyvek helyes olvasata
+### <span id="anchor-450"></span>A szent könyvek helyes olvasata
 
 Meg kell nyilatkoznunk a szent könyvek, szövegek olvasásának módjáról.
 Sajnos ahogyan azt mondani szokás: a sátán is képes idézni a bibliából,
@@ -2529,7 +2551,7 @@ A bibliát, más vallások könyveit csak úgy olvashatjuk helyen, hogy
 magunkat kiüresítve, Isten igazi példázatait próbáljuk befogadni a
 szeretet és jóság keresésével – nincs más útja-módja!
 
-### <span id="anchor-450"></span>A nagy vallások és azok viszonyai
+### <span id="anchor-455"></span>A nagy vallások és azok viszonyai
 
 A világmindenség egyetlen egységet képez, a kezdetek-kezdetén jelen lévő
 teremtő pedig egy és ugyanaz, bármilyen módon is tekintünk rá, mert
