@@ -1367,6 +1367,14 @@ szolgaként számolnak velük, de te ne nézd le őket sosem. Ha segítesz
 nekik feljebb lépni, olyan nem várt szövetségeseid lesznek, melyekre a
 háttérhatalmak soha nem számítanának.
 
+#### Délsláv népek
+
+TODO: BoS-njak, BaS-kir, BoS-phorus, BaSz-k, BaS-tarne stb.
+TODO: Croat/Horvát - Adm. Imp. szerint jelentése saját nevükön: sok területtel, földdel rendelkezők
+TODO: Szerb, SzeRBe - lásd: SzeR szó, mely később a SzoL-gál is (Adm. Imp. szerint a rómaiak nyelvén szolgálót jelent a nevük, de lehetséges, hogy a Magyar SzeR szóból ered igazából!). Esetleg érdekes még ránézni: SzaRmaták - lásd "Szüromédia", amikor a Szkíták az Asszírok szövetségeseként a médek felett is uralkodtak. Ebből a szóból már látható a SzaRMaTa - SzRMT - SzRMD - SzüRoMéDia kapcsolat és itt is a "Szer" az alapszó. Kérdés, hogy itt a Sár, vagy a Szer/Szarv szóról van-e szó?
+
+TODO - Lásd még: A királyi szkíták – szövetségük neve urartui feliraton Išqigulu, asszír ékiratos táblákon Aškuza, Iškuza, görög és latin forrásokban Szküthoi (Σκυθοι), illetve Scythae – az i. e. 8. században behatoltak a Kaukázuson túli területekre. Az Araksz, illetve a Kura folyó völgyében, valamint az Urmia-tó környékén ütöttek tanyát. Jelenlétük a környék földrajzi neveiben is nyomokat hagyott.
+
 ### <span id="anchor-410"></span>A szovjetúnió és az urópai únió
 
 TODO: hasonlóságok
