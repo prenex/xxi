@@ -1809,6 +1809,12 @@ figyeljünk fel arra, hogy nem mindig úgy kerültek a szógyökök egymásra
 ahogyan magánhangzóként szoktunk szótagolni! Inkább a mássalhangzót 
 kell némely esetben a tagolási határszélnek vennünk!
 
+**Az Atilla és az Étel, illetve Etelköz** szavaink elemzésekor továbbá 
+azt láthatjuk, hogy **ezek mind Át-Él jellegűek, vagy aD+éL értelműek!**
+Tulajdonképpen ezért igaz, hogy mind az ital, mind az étel az életnek a 
+"túléléséhez" (által-éléséhez), illetve az élet-adáshoz szükséges és 
+ugyan ehhez hasonlatos, hogy a "tej" szavunk a teljességet fejezi ki!
+
 Amikor még egy szinttel mélyebbre merészkedünk, akkor sok helyütt 
 egyenesen hangutánzó, vagy fizikai érzettel kapcsolódó kapcsolatokat 
 találunk a nyelvben. Például az "R" hang megjelenése a szógyökben, mint
