@@ -2477,6 +2477,8 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 
 * Circum - Kör (latin és egyéb nyelvek)
 
+* Weg - vág (lásd: csapás)
+
 * -ing végződés Angol nyelven - náluk folyamatos múlt. Vesd össze a Magyar szóalkotással (pl. kering, szálling(ózik) stb).
 
 A vélt-valós egyezéseket sorolhatnánk napestig, de ezeket csupán azért 
@@ -2503,6 +2505,29 @@ mert szóátvételek esetén is látható, követhető marad az eredeti jelenté
 még az erős torzító hatások után is! A fentiek között azonban olyan 
 példák is szerepelnek, melyek során látható közvetlen utalás is az 
 elnevezések (pl. személy, nép- és helynevek) és származásuk között.
+
+### <span id="anchor-440"></span>Egyéb példák
+
+Nézzük meg az óriás szavunkat is. Az eddigiek alapján itt az "erő" szóval és 
+az "úr" szóval rokon alapvetően szógyököt látunk első ránézésre, ám érdemes a 
+dolgok mélyére nézni. Amikor ordítva beszélsz, "erődítve" beszélsz (így ugye 
+máris értjük). Nagyon sok szóban benne van az R-mássalhangzós első szótag. 
+Ér-dek, Űr/üres, erő, ér / erek, öreg, őr, stb. Mindegyikből ki lehet "érezni" 
+(érzés, érintés is ide tartozik), hogy miről van szó. Én azt mondanám, hogy az 
+ér, érint, összeér, tehát kapcsolódik az alap motívum és nem csak az erő, mint 
+esetleg sokan gondolnák. Inkább az erő az ami már sokáig el-ér!
+
+Az óriás az milyen? Hatalmasnak is nevezhetnénk. Azt a másik jelentésével 
+miként fejezhetnénk ki hasonló alakban? Úr-jás! Vagy ha azt akarjuk kifejezni, 
+hogy az égig érő, azaz mondjuk égig "érős". Ezek mind mind kapcsolódnak, csak 
+és érdekes módon két olyan szóbokrot kapunk, amelyeket hasonló irányokba lehet 
+változtatgatni: Az Ér-érzékelés-erő az a hozzáérésből, elérésből áll, de aki 
+erős az ugyebár ezzel erőt tud kifejteni, aki pedig így nagy hatalmú óriás. A 
+hatalom szó ellenben a hat-ás irányából ered, viszont itt is mondhatom, hogy 
+hatalmas és ez ugyanúgy jelenthet nagyot is, mint az erős->óriás esetén a 
+másik vonalon a hasonló gondolatmenet.
+
+Mondanám, hogy kéretik utánunk csinálni más nyelveken, de inkább nem mondom.
 
 <span id="anchor-445"></span>Vallásokról és hitről
 -------------------------------------------------
