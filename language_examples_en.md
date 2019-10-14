@@ -1,3 +1,6 @@
+Language magic
+==============
+
 In Hungarian language you get “free vocabulary” without learning words. This is common in agglutinative languages.
 We never learn “megszentségteleníthetetlenségeskedéseitekért”, but every Hungarian will understand what you mean if you say this very long word.
 There are other languages with agglutinative structures though, but even more rare is the sub-word language structure for the base roots of the words! In Hungarian things that sound similar or made with the similar consonant groups (grouped by biologically how you make the sounds) they are indeed similar in meaning.
@@ -107,3 +110,97 @@ One good rule to keep in mind is however to not cross this lower level of word c
 Also worth meaning a small detail in our Chronicles. It has a different version of the Tower of the Babel story than you can find in the Bible, but if you put them together you get a story without holes. It is as if someone wrote down an other version from the similar story with other details being emphasized and from an other viewpoint. In this chronicle they say that “when Nimród have seen the one language of humanity starts to confuse he left Bábel with his people and went to Ninive”. In that place he have fathered “Hunor and Magyar” with other sons and daughters who speak similar language than these two but stayed in place, while Hunor and Magyar went to follow the wonderstag and ended up in the land of Meotis. LAter with Szépmező Szárnya every descendant of them tried to keep the Carpathian basin as the “last golden corner” of the world which translates to the “last place still peaceful and normal until the world ends”
 Please take care as there is a very minor detail encoded in here! According to the text, Nimród did not wait until the languages “got confused”, but left at the very start of this process with his people. This line very highly hint that the person who wrote that has had the tradition even in the medieval times that the language in question have survived the confusion of the languages - or at least all the effort was made to save it from that.
 Purely a speculation, but a confusion like that can happen easily if you hve a system with which you can create words along phonetic similarities, but slowly forget the system and just use the words as if you learn by a dictionary. This way those parts of a bigger empire or group who do not communicate will slowly develop different words using the same system and if they forget the system there will be no way any more for them to understand each other as they only have parts of the original construction kit. This latter part is my speculation only.
+
+More examples (férj, feleség, asszonyállat)
+-------------------------------------------
+
+Quite interestingly in Hungarian there is no grammatical genders because "who cares who does what when it is done" is a horse-nomad kind of 
+philosophy over this. Remember woman ought to ride and be able to defend herself in needs or be able to travel long distances in a nomadic 
+highculture such as the Scyths and Hungarians. Despite this, one might tell you that in medieval texts people have used the term 
+"asszonyállat" (they can even translate it to "womanimal"). Bad-intended or confused people can fool and confuse others not knowing 
+Hungarian well here however! One must add that originally the word "állat" not only meant "animal", but also meant what currently "állapot" 
+is used for (which means state). This is understandable from what Hungarians call the "Zodiac" (we call it állatöv - which not only means 
+a "belt of animals" but more intelligible is to say a "belt of states" (that the sun travels through on the sky at night etc). If you look 
+at what kind of things you see in the zodiac (which are not animals at all), you see why this is relevant. In any ways a "womanimal" or the 
+"asszony-állat" is practically a state of a female in which she is being with a man - likely also in a blessed state (with children). The 
+word "állapot" is a late change in the Hungarian language and even it was used interchangably with a state. Btw "állat" is having "áll" 
+(stand) in it, because they are not flourish-ing, flowering and growing like a forest or plants (növény - nő means grow) are doing while the 
+animals also "stand" on their legs intead of just laying or just growing towards the sky as plants are doing. Állás also means "position", 
+"current result" (as in football in middle of the match), and "job" among others too, but if you own a land and you separate your wine field 
+into "workable smaller regions one can finish one at a time" you also can call those regions an "állás". These are all related in their 
+meanings, but also one must end this conversation with the core meaning: "él" - to live (it also means "edge") and "élet" (life). This is 
+also related with "ér" (to reach) which one can find in the word "érzés" (feeling) and "érez" (to feel - "reaching" you can say maybe).
+One can see from the above that asszony-állat is not "womanimal" in its meaning, but an uplifted state being a woman!
+
+A similar hard for foreigners to understand area is with "feleség" - our word for wife. On the shallow levels it is easily understandable, 
+because "fél" means half and "-eség" is changing the meaning in a playful way to "half-ness" or "otherhalf-ness" etc. The problem is not 
+with this, but usually with those who take this negatively. First of all this is pretty much in line with the ancient knowledge that a man 
+can meet with its "other half" in its life only through a woman. Also if you add to this “consonant pronounciation groups” and analyse words 
+by the way we make sounds you can end up seeing that “FéRJ” (husband) is really also related to the “Fél” (half) or “félje” (her half) 
+because of relatedness of ‘R’ and ‘L’ sounds both being in the same consonent pronounciation group.
+
+In the Hungarian language you can exchange a consonant to one that is pronounced in the “same mental way” and get a word root with a similar meaning. Like the ‘s’(sh) and “sz” (s) sounds both mentally mean flow of air or flow and can be exchanged while getting similar meant words.
+
+This is why “Kölök” or “Kölyök” is the same as “Gyerek” and both mean “kid” in Hungarian. Practically speaking… if you speak in Hungarian and say a word a world open for you. It is not something that you just remember as if you have learned it from the dictionary! This works both on the low level of the language so that you can see what word roots are connected and also works when building new words out of existing ones (see “Kád” = “Tube / vat” and “Kádár” is the man who makes barrels and tubes for the wine out of wood etc.)
+
+Actually it is harmful for a Hungarian to be early-childhood bilingual, because most language are not “logical” or “creative” like ours, but if a Hungarian learns a less creative indo-europid language later he can indeed get the most out of two worlds. But the Hungarian right-brain kind of language is the one that is more rare among languages as you can creatively create with the language WHILE also the language kind of “speaks” to you whenever you say a word. You say a word like “eső” (rain) and you immediately recognize its connection to “es” (to fall). You say “fém” (metal) and you realize it is “fényes” (shiny) while “fény” itself is meaning “light”. This connection only has a simple m-ny change in it but you can go further you easily get “vén” (ancient / old). V and F are also really close sounds (not only in the same group, but even more tightly connected forms) and we just did an n-ny change alongside the v-f one. Also you can get to “fenn” which means “up” (like up in the heavens - the doubling of the sounds should not frighten you as it is not “doubling” but saying the same sound longer).
+
+Practically any time you stop to think about what you just said, the language “speaks” to you and tells you more analogies to that said thing. Also not only 1–2 analogies, but sometimes around 20 or more!
+
+Even more examples (fém, fény, dualities, etc.)
+-----------------------------------------------
+
+Because the Hungarian language describes the real world closer, than other languages. Giving the chance to show what this language is capabale of, definitly shows the result.
+
+Edward Teller (the “father” of the nuclear bomb) that the Hungarian language is the only one what has quality of light the double nature (energy and material).
+
+There are two words fém-fény - almost the same sound in Hungarian but completly different in English : metal - light. Metal is the most typical “material” and the light is the most typical “energy”, and one of the quality of the metal that it shines, reflects the light.
+
+Many of the Hungarian words have a dinamic and a static meaning, the dinamic is the verb, the static is the noun.
+
+Like:
+
+    nő : woman and grow - a gyermek nő a nőben (the child grows in the women)
+    fog: tooth, hold - a kutya a fogával fogja a csontot (the dog holds the bone with his teeth
+    szív: heart, suck - a szív kiszívja a vért az erekből (the heart sucks the blood out of the vein)
+    vár: castle, wait - az őr a várban várja az elenséget (the guard in the castle waiting for the enemy)
+    nyíl: arrow open - a nyíl helyén seb nyíl(ik) az áldozaton (the arrow opens a wound on the victim)
+    ég - sky, burn - on the sky the Sun burns (az égen a Nap ég) - I should mention here that to burn is égni, the fire in latin is ignis… the god of the fire is Agni in the Vedic traditions… and the way to make fire, is to rub two branches together : ágni….
+
+So getting into nuclear physics, it helps a language what is “natural”.
+
+But there is a “built in” doppler effect too:
+
+(if you getting closer to a sound source, you hear it with a higher frequency, when you getting away from it, you hear it lower) built in to the language. The hungarian wovels are divided to high sound e-é, i-í ö-ő, ü-ű and low sound a-á, o-ó, u-ú
+
+Take this letters:
+
+S T N
+
+If you add high sound wovels like i S T e N, you got GOD getting closer to the source.
+
+If you add low sound wovels like S á T á N, you got SATAN getting away from the source.
+
+Maths:
+
+Most of the mathemathical and scientific concepts have meaningful hungarian words, and not distorted latin or greek words what have to learn separatly like most of the western languages. (isocele or equilateral triangles, egyenlő szárú vagy egyenlő oldalú háromszög)
+
+The english protractor does not say what is it… one have to learn it. The szögmérő really means measuring angle.
+
+The human body and the relations having its own matemathical concept… being whole…
+
+The married couple is the unit… the wife is feleség: halfness.
+
+If you miss on leg or eye, you are half legged or half eyed.
+
+John von Neumann could become the “father” of the modern computers, because in his mind calculate and number is next to each other: számol és szám.
+
+3D languages…
+
+The Hungarian language is based on images, using the right side of the brain, while the western languages mainly on expressions, on the left side. So for a Hungarian who learns a western language ( or a wetern, who learnas Hungarian) have a chance to employ BOTH side of their brain to understand the world around them… It is like seeing with twoo eyes… we see more-less the same thing, but that little difference gives the DEPTH…
+
+These are just small examples, to show, how the Hungarian language is reflecting the actual world, and helps to understand how it works…
+
+So that could help to the Hungarian scientists to achieve better than others and having longer list of famous Hungarians what the size of the country would allow.
+
+But this also source of most of the problems for the Hungarians…
