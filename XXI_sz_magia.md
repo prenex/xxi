@@ -2477,7 +2477,9 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 
 * Circum - Kör (latin és egyéb nyelvek)
 
-* Weg - vág (lásd: csapás)
+* Weg - vág (lásd Magyar nyelven: csapás (erdei ösvény))
+
+* Stellar (csillagközi) - vesd össze eSTe (eSTeLLaR kapott Magyartalan latin végződést) Megjegyzés: eSTe vesd össze SeT-éT vesd össze "Seth"
 
 * -ing végződés Angol nyelven - náluk folyamatos múlt. Vesd össze a Magyar szóalkotással (pl. kering, szálling(ózik) stb).
 
