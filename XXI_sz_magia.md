@@ -2508,6 +2508,52 @@ még az erős torzító hatások után is! A fentiek között azonban olyan
 példák is szerepelnek, melyek során látható közvetlen utalás is az 
 elnevezések (pl. személy, nép- és helynevek) és származásuk között.
 
+Néha a fentiek mellett továbbá találhatunk egyezéseket különféle személy 
+és népnevekkel is. Ilyen például a "Magor" nevű ókori közel keleti papi 
+kaszt elnevezése, vagy a Madjar város - de megtalálhatók különböző más 
+személynevek is, mint például a Csaba királyfi miatt keletkezett Kabar 
+népnév, vagy az Atilla másik nevéből származó Utrigur / Kutrigur népnév. 
+
+Érdemes továbbá felfigyelni a Képes Krónikában megjelenő "Thána" névre 
+is, aki ott Nimród apjaként és Jáfet fiaként (Noé unokájaként) jelenik 
+meg. 
+
+		Miután a somnium a mi nyelvünkön álom, s ama fiú származását álom 
+		jövendölte meg, ezért nevezték Álmosnak, aki Előd, ez Ögyek, ez Ed, 
+		ez Csaba, ez Etele, ez Bendegúz, ez Torda, ez Szemény, ez Etej, ez 
+		Apos, ez Kodocsa, ez Berend, ez Zsolt, ez Bulcsú, ez Balog, ez Zombor, 
+		ez Zámor, ez Lél, ez Levente, ez Kölcse, ez Ompód, ez Miske, ez Mike, 
+		ez Beszter, ez Budli, ez Csanád, ez Bökény, ez Bondorfán, ez Farkas, 
+		ez Otmár, ez Kádár, ez Belér, ez Keár, ez Keve, ez Keled, ez Dama, 
+		ez Bor, ez Hunor, ez Nimród, ez Thána (**), ez Jáfet, ez Noé fia volt. 
+		Álmos nemzette Árpádot, Árpád nemzette Zoltánt, Zoltán nemzette Taksonyt. 
+
+Általában Kustól származtatják Nimródot a krónikák, de itt eltérés 
+mutatkozik ezen a ponton, amit a szöveg úgy látszik meg is próbál majd 
+magyarázni az olvasónak egy korábbi említésnél. Mindenesetre furcsa a 
+Thána-Thanais (Don folyó) elnevezésbeli egyezés itt, de láthatóan ugyan 
+arról a szóról (névről) van mind a két esetben szó.
+
+Érdekes módon úgy látszik, hogy már a magyarázat közben megjelenik a Tanais:
+
+		Nyilvánvaló ebből mindenkinek, hogy Hunor és Magor, a magyarok ősei 
+		[nem] Nimród fiai voltak, aki Kus fia, aki Kám fia volt, akit Noé megátkozott; 
+		mert akkor a magyarok nem Jáfet nemzet-ségéből származnának, miképpen pedig 
+		Szent Jeromos mondja; azért sem, mert Nimród sosem lakott a Tanais folyó 
+		környékén, mely keleten van, hanem az óceán tengerénél. Miképpen tehát a 
+		Szentírás és a szent doktorok mondják, a magyarok Jáfet fiától, Magortól
+		származnak, aki - Szent Sigilbert antiochiai püspöknek a keleti nemzetekről 
+		szóló krónikája szerint - ötvennyolc esztendővel a vízözön után ment bé Evilat 
+		földjére, és feleségétől, Enétől, nemzette Magort és Hunort; 
+		róluk a Magyarok és Hunok nevezete.
+
+Az ilyen vitás esetekben amikor lehetőség van rá, érdemes az eredeti szöveg 
+vizsgálata az eredeti (jelen krónika esetén latin) nyelven is, hiszen látható, 
+hogy például a "[nem]" az itt egy fordítói betoldás. Lehetséges, hogy később 
+"Thána" azért jelenik meg Nimród származásában, mert ez köti a Tanaiszhoz és 
+így tehát a Magyar eredettörténet szálaihoz a Biblia anyagát? Látható, hogy 
+a krónika írója az egységesítéskor Nimródnál az ószövetséggel megy szembe.
+
 ### <span id="anchor-440"></span>Egyéb példák
 
 Nézzük meg az óriás szavunkat is. Az eddigiek alapján itt az "erő" szóval és 
