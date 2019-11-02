@@ -2481,6 +2481,8 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 
 * Stellar (csillagközi) - vesd össze eSTe (eSTeLLaR kapott Magyartalan latin végződést) Megjegyzés: eSTe vesd össze SeT-éT vesd össze "Seth"
 
+* Land (ejts: lend) - vesd össze: "lent". Érdekes, hogy Magyarul erre azt mondjuk "föld", mikor is a "föl/fel" szó pont az angol "up"-nak felelne meg. Ez nagyon érdekes.
+
 * -ing végződés Angol nyelven - náluk folyamatos múlt. Vesd össze a Magyar szóalkotással (pl. kering, szálling(ózik) stb).
 
 A vélt-valós egyezéseket sorolhatnánk napestig, de ezeket csupán azért 
