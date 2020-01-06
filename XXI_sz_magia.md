@@ -1381,7 +1381,7 @@ TODO: hasonlóságok
 
 TODO: különbségek
 
-### <span id="anchor-418"></span>Magyarság – a mag nemzete
+### <span id="anchor-417"></span>Magyarság – a mag nemzete
 
 TODO: pontosan mit jelent, milyen feladat.
 
@@ -1399,6 +1399,41 @@ Küldetések:
 4. Megmaradás nemzete: ha mindenki elveszne, legyen aki Magyar kíván lenni és újraindítja a sokszínűséget!
 5. A mélyen értelemmel átszőtt nyelvet átörökíteni hivatott nemzet.
 ...
+
+### <span id="anchor-417"></span>A Magyarság további elemei
+
+#### Palócok, Avarok, Barkók (K. P. alapján)
+
+A címszóhoz tartozva a nyelvünkbe megjelenő szavak szókapcsolatait hozom összefüggésbe a a környező és rokon népek ide vágó szavaival. Ez és a néhány következő bejegyzésem is az avar szócsoportal, az avarokkal, azok nyelvével foglalkozik, Magyar Adorján gondolata szerint. Az idézetek, esetenként pontatlanok, hiányosak.
+
+Magyar Adorján a Barkó nevű népünkhöz köti az avarok eredetét:
+
+Avar ma is élő barkó nevű néprészünk volt a történelemből ismert avarok őstörzse, habár ezen avarok kitudja hány ezredévvel azelőtt vándoroltak, költöztek volt ki a világba, majd tértek ismét vissza az őshazába. A Gömör-megyében lakó barkókat a palócság egy részének tekintik, ami, ha nem is egészen de részben azért helyes mert a barkók és palócok egymásnak ugyanolyan közvetlen rokonai mint a székelyek a kazároknak. A barkók és palócok majdnem azonossága nem csupán mai tájszólásuk egyező voltából tűnik ki, hanem abból is, hogy ősvallásukbeli kultusz szócsoportjuk az f; v, b, p és az r mássalhangzók által képezett volt, amelytől a palócoké csak abban különbözött, hogy itt az r helyett l mássalhangzó szerepelt, de viszont az r és az l hang egymásnak közvetlen rokona.
+
+Ámde nem csupán az újabb történelemből ismert avar, másként várkun, nevet viselt nemzet származott azon őstörzsből amelyet ma barkónak nevezünk, hanem például az egy ideig Egyiptom fölött uralkodott hixoszok is, ami kevesek előtt ismeretes, helyesebben szólva: kevesen tudják miszerint a hixoszok is egy avar törzs voltak. De ugyancsak barkó azaz ősavar származásúak voltak az ősi, árjaelőtti perzsák, továbbá az ugyanottani pártusok, valamint az ezektől származott perzsiai és indiai parszik is. Mind e népek tűztisztelők voltak és Perzsia, azaz a ma Irán nevet fölvett, mohamedánság előtti ország egész műveltségét is ők alapították. Tűztisztelők voltak azonban az őspalócok is, habár e tűztisztelet náluk nem is játszotta annyira a főszerepet mint az avaroknál, és némileg különbözött is ezekétől.
+
+Az avaroknál a tűz nevét a par, pár, bar, bár szóalak képezte, amelynek úgy a mai magyarban, mint más nyelvekben is, igen sok származéka él még. Ilyenek a magyar pörzsöl vagy perzsel, pörköl vagy perkel, pirit, parázs, piros, börzsöny (utóbbi piros festékféle), továbbá forr, forró, förmed vagy fermed (utóbbi kettő a dühödik, haragra gerjed), valamint permed = lángra lobban, föllángol, gyullad (lássad Ballagi szótárában is). Más nyelvekben: olasz brucia (brúcsa) = ég, blagia (brádzsa) = parázs. Német: brennen, Brand = égni, égés. Görög pür, pürzosz = tűz. Szláv: urucse = forró.
+
+Avar őstörzsünk legfőbb vallásos jelképe a keresztalak, de az egyenlőszárú, volt (e rajzon a), amely a legrégibb tűzszerszámot: a két egymáshoz dörzsölt száraz ágdarabot, jelképezte s eszerint egyúttal a tűz jelképe is volt. A tűz szikráit az avarok tűzmagoknak és jelképesen életmagoknak is tekintették. Ezeket igen kicsi egyenlőszárú keresztecskékkel, avagy nyolcágú csillagocskákkal is, szokták volt jelképezni. Náluk a szikra neve piri féle szóalakok voltak, amilyenek nálunk ma is kicsiséget fejeznek ki. De nagy szerepe volt náluk még a körnek is, amiért náluk ez is fontos jelkép volt. Ezt azonban ők nem körnek hanem vár-nak, variga-nak nevezték (a rajzon b). Miután pedig nemzeti istenségükként és regebeli ősapjukként ők is a Napot, vagyis a Napistent, tisztelték, de aki náluk egyúttal Tűzisten is volt, ezért őt körbe foglalt kereszttel is szokták volt jelképezni (a rajzon c).
+
+Ha mármost mindezt tudjuk, akkor észre kell vegyük, hogy a görög mythologia tűzistenségei Phoroneosz (Foroneosz) és Prometeusz neve is avar szócsoportbeli, habár utóbbi már magánhangzó kihagyásos. E nevekből következtethető, hogy a görögök valahonnan ős avar tűzkultuszbeli hagyományokat is örököltek. Mi tudjuk már azt is, hogy az olyan mythikus királyok alatt, amilyen a görög rege Phorneosza volt, tulajdonképpen istenségeket kell értenünk. Sejthető pedig, hogy eredetében Phorneosz és Prometeusz egymással azonos istenség volt. Ezt tanúsítja az is, hogy Phorneosz, peloponezoszi, regebeli király, volt az aki az embereket tűzgyújtásra és lakaiban való tűztartásra megtanította, holott körülbelül ugyanez Prometeuszról is mondatik. Utóbbi nevét a görögök „előre meggondoló”-nak magyarázták, de bizonyosnak tartható, hogy ez értelmezéshez a nevet hozzá is alakították. Amely magyarázatuk azonban hogy nem más mint az amit a néprajzi tudomány és a nyelvészet ma „népetimologia”-nak nevez, bizonyítja az, hogy például Indiában – kétségtelenül az ottani fajunkbeli, árjaelőtti őslakosságtól származólag – a tűzgyújtó
+szerszám fúróját pramata néven nevezik. Erre vonatkozólag Fáy Elek hivatkozik Kuhn Adalbert „Die Herabkunft des Feuers” műve (Berlin, 1859.) 15. oldalára.
+
+A "pernye" nevű szó is (azon kis darabka ami felszáll a tábortűzből miután elégett az a darab) is innen származik úgy látom.
+
+A palóc - barkó is logikus! Nyilván a p-b váltóhangok, csakúgy mint az l és az r is (lásd Magyar nyelv fejezete)! A Palóc szó végződése egyébként engem arra emlékeztet mint például a Töm / tömlőc képzett alak. Tehát a P+L itt a szógyök mássalhangzópárja ezek szerint, ami egyenes alakváltozata a pír / pör alapnak már! A perzsák lényegében "perzselők" ha mai alakban akarnánk mondani - napnál is világosabb, bár ők nem feltétlen csak baráti viszonyban voltak azért a Magyarsággal de úgy tűnik lehetett olyan néprészük akik viszont igen.
+
+#### Székelyek
+
+TODO: Csaba királyfi, stb.
+
+#### Kunok
+
+TODO: Chunni. Ők is Hunok?
+
+#### Egyéb elemek
+
+TODO: ...
 
 <span id="anchor-419"></span>Statisztika, manipuláció, DNS archeo-genetika és más bonyolult dolgok
 --------------------------------------------------------------------------------------------------
