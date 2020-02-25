@@ -1348,7 +1348,7 @@ TODO: pre- és poszt-Oszmán/ottomán korszakok.
 ### <span id="anchor-380"></span>Franciák
 
 TODO: Gallia pusztulásai, „Párizs” neve, bor és szőlő, bölcsesség és
-balsors, hibák, multikulti.
+balsors, hibák, multikulti. Párisz és a Szikamberek a Krónikáinkban.
 
 ### <span id="anchor-390"></span>Fiatal nemzetek és országok
 
@@ -1358,7 +1358,11 @@ TODO: Múlt nélküliség, gyökértelenség
 
 TODO: Baj? Nem baj?
 
-TODO: "Szlovákia" / "Románia"
+TODO: "Szlovákia"
+
+"Románia":
+
+TODO: Vlach, Oláh: Figyeljük meg, hogy Magyarul hogyan hívjuk az Itáliaikat: Olasz. Ha valakinek nem tűnik fel az Oláh - Olasz szókezdet egyezése, az hibás nyelvérzékre utal, így ezt ne tagadjuk el. Sem nem azt, hogy mindenféle Latin nyelvű népeket neveztek a Magyarok hasonlóan (Blak, mint valószínűleg keleti Frank például). Ha kicsit mélyebbre ásunk a nyelvünk segítségével, akkor láthatjuk, hogy az oLáSZ, illetve oLá(h) mindkét esetben igazából egy "L" mássalhangzóval kezdett szógyök (lásd a Magyar nyelvről szóló részt a megértéshez, miért a mássalhangzókat tartjuk a legfontosabbnak). Hol található még ilyen mássalhangzóval való szókezdés? A "LaTiN" szó elején! A LaTiN pedig esetleg írható a mai nyelveünkön jobban érthető "La-TéN" alakban is. Ejtsük csak ki azt, hogy "Vlach-tén", vagy "Vlach-tin" és talán pontosabban megértjük miről van szó. A román elnevezés ellenben valószínűleg a Bizánci (saját maghatározásuk szerint: Római) birodalomból származót jelenti és Erdélyben (amire szavuk sincs, csak a Magyar Erdély / Erdőelve = Ardeal átvétele) A Török- és Tatár-Magyar háborúk során, esetleg az elől menekülve jelenhettek meg nagy számban. Az összeomló Bizánci birodalmat nem ritkán nevezték akkoriban "Romániának" (szó szerint "Romania"). Elvethető a Románok maguk által megrajzolt "Dák" kapcsolata, azonban ha elvetnék ezt maguk, talán egyszer valami torz mese helyett egy Dicsőbb múltra is találhatnának. Megjegyzendő továbbá, hogy Trója neve is "iLLium" (innen az Illiász név is!) és ha a végződést levéssük erről a névről is, szintén az "L" hanggal kezdett népnevet és a Latinokat kapjuk. Azért nem szabad elfeledni azt sem, hogy ellenben az iLLium "éLi" vagyis az élet szóval, illetve Isten Jézus által használt nevével is rokon. Arra is gondoljunk, hogy az Illiászban megjelenő "Szép Heléna" épp "Tündareosz" király lánya, míg nekünk Magyaroknak "Tündérszép Ilona" szerepel a népmesében! Azt se feledjük, hogy Sicambria alapítói, tehát a Sicamber-ek (a Szék - Szaka itt is megjelenik - lásd Délszláv népeknél a Sokác népnévnél, de persze a Székelyeknél!!!).
 
 ### <span id="anchor-400"></span>Szláv népek
 
@@ -1369,11 +1373,13 @@ háttérhatalmak soha nem számítanának.
 
 #### Délsláv népek
 
-TODO: BoS-njak, BaS-kir, BoS-phorus, BaSz-k, BaS-tarne stb.
-TODO: Croat/Horvát - Adm. Imp. szerint jelentése saját nevükön: sok területtel, földdel rendelkezők
+TODO: BoS-njak, BaS-kir, BoS-phorus, BaSz-k, BaS-tarne stb. érdekes felvetés: BuSó [? - ők elvileg sokác-ok és valószínűleg szlavónia és Bosznia felől kerültek északabbra a Török háborúk alatt és után. Magyarul is van a Sokác névnek etimológiája (SoK-ász), amit nem vizsgálnak. Egy másik érdekes lehetőség, hogy származtatták őket a Saka (šaka = ököl - Horvát tájnyelv) szóból a kereszténység miatt, hogy kézzel vet az ember keresztet és nem három ujjal, mint az Orthodox-ok, illetve a . A Busó lehet még a BÚdoSÓ rövidülése is ezt ne felejtsük el! Továbbá Búsuló egy alakváltozata is (aki elbúvik, az is talán bújában teszi ezt ugyebár), de lehet köze a Bosszó szóhoz is ha a legendát is hozzákapcsoljuk, (miszerint a szigeten vártak Mohácsnál, véres maszkot faragtak és rácsaptak a Törökre.). Mindenesetre érdekes, hogy az elemzés eljut náluk a Horvát "Saka" szóig, de nem jut el már a gondolatmenet a "Szakákig" akkor már felvetés szintjén sem. Az nem furcsa, ha valaki esetleg ezt kevés esélyűnek gondolja, ed az már furcsa ha meg sem említi. Legalább leírhatnák, hogy "véleményük szerint nem" és talán kiderülne, hogy mégis ha sok helyen jelenik meg ez a szál. De így nem jelenik meg maga a feltételezés sem, nem lehet összevetni, összerakni a kirakóst ha esetleg összeállna. Egy jó példa, hogy miért nem érdemes prekoncepciókat tenni az elméletekbe. Ha etimológiát csinálnak legalább minimum hogy meg kellene említeni a Magyar és más vonatkozásokat is - akkor is, ha az adott etimológus szerint esetleg nem az a valószínű - hiszen sokkal tudományosabb csak leírni az összes szógyök hasonlóságot és az összes lehetséges Magyarázatot arra (ha gyengének is tűnik az adott pillanatban), mint eleve kizárni és le se írni bizonyos szóegyezéseket ]. Példa az utóbbira: "Rác" - mi ezen a néven nevezzük az Ortodox délszlávokat. Milyen érdekes, hogy RáC, azaz R-C hangokat látunk és a C-vel egy mássalhangzó ejtési csoportban van az "Sz" hang is! Igen, mi Magyarul a Rác-okat és a Rusz-inokat elnevezésileg például összekötjük. Az is kiderül ha tovább áskálódunk, hogy ezt a Rác nevet a ma Szerbiában lévő Raska (Raška) helynévből származtatják és innen nevezik őket "Rácságnak". Raška neve 962-ben jelent meg először, mint Tihomily Cseszláv nejének birtoka, később 1159 után az első Nemanjićok (Szerb uralkodóház) is felvették a rasciai fejedelmi címet, de Dusán cár nem vette fel. A magyar király címerébe is fel van véve a rasciai (Ráciai, Ráczországi) cím. Eszerint már 962-ben tudunk a névről. Az is érdekes, ahogy korábban írtuk a nevet cz-vel! Ahol ilyet tapasztalunk ott az egyáltalán nem volt véletlen a régi írásoknál, mert azt jelezte, hogy vagy két hangról van szó, vagy a c-z vonalban "mozgóhangról" ejtéskor, így a Rusz, Rác, Ráz között az ilyen írásmódnál több mozgás lehetett, mintha valamit csak egyetlen C-vel írtak volna le. Később ez lekopott. Azon elméleteknek
+TODO: Croat/Horvát - Adm. Imp. szerint jelentése saját nevükön: sok területtel, földdel rendelkezők. A Hor-vát szó gyöke Magyarul próbálva értelmezve egyébként ugyan az, mint a Magyar "HoRd" (tehát visz, szállít) igének. Esetleg szóbajöhetne hangzási kapcsolatként "HoRezm" (Khwarezm). A t-c másodlagos áthallással "Horvác", onnan pedig "Horvász" alakban is mondhatjuk őket. További hangzás kapcsolat: "Hurri" nép. Egyébként ővelük van Magyar vonatkozás (a Hurrikkal), mert az Isten szavunk közös velük, akárcsak a hettitákkal!
 TODO: Szerb, SzeRBe - lásd: SzeR szó, mely később a SzoL-gál is (Adm. Imp. szerint a rómaiak nyelvén szolgálót jelent a nevük, de lehetséges, hogy a Magyar SzeR szóból ered igazából!). Esetleg érdekes még ránézni: SzaRmaták - lásd "Szüromédia", amikor a Szkíták az Asszírok szövetségeseként a médek felett is uralkodtak. Ebből a szóból már látható a SzaRMaTa - SzRMT - SzRMD - SzüRoMéDia kapcsolat és itt is a "Szer" az alapszó. Kérdés, hogy itt a Sár, vagy a Szer/Szarv szóról van-e szó?
 
 TODO - Lásd még: A királyi szkíták – szövetségük neve urartui feliraton Išqigulu, asszír ékiratos táblákon Aškuza, Iškuza, görög és latin forrásokban Szküthoi (Σκυθοι), illetve Scythae – az i. e. 8. században behatoltak a Kaukázuson túli területekre. Az Araksz, illetve a Kura folyó völgyében, valamint az Urmia-tó környékén ütöttek tanyát. Jelenlétük a környék földrajzi neveiben is nyomokat hagyott.
+
+Érde
 
 ### <span id="anchor-410"></span>A szovjetúnió és az urópai únió
 
@@ -1381,7 +1387,7 @@ TODO: hasonlóságok
 
 TODO: különbségek
 
-### <span id="anchor-417"></span>Magyarság – a mag nemzete
+### <span id="anchor-416"></span>Magyarság – a mag nemzete
 
 TODO: pontosan mit jelent, milyen feladat.
 
@@ -1434,6 +1440,83 @@ TODO: Chunni. Ők is Hunok?
 #### Egyéb elemek
 
 TODO: ...
+
+
+### <span id="anchor-418"></span>Etruszkok
+
+Az etruszkok származására nézve fontos momentumnak tűnik, hogy a Vilusza 
+állammal kapcsolatos hettita dokumentumok ta-ru-ú-i-ša vagy ta-ru-i-ša nevet 
+használnak Trója városára. Ez a névalak pedig kapcsolatot teremt az egyiptomi 
+turusa népével, amely az ógörög nyelvben türszénosz lett. Azt is megfigyeljük 
+az elnevezésben, hogy tehát nem csak a Ta-Ru-ú-i-S-a = eTRuSz(kok) hasonlóság 
+adódik így, de a Tarsis (Társzisz) város(ok) neve is (pl. dél-Spanyolhonban).
+Hasonlóan közeli hangzás még "Tarshish" (ejtve: s) mely fontos fémforrás volt 
+a Főníciai és Zsidó népek kereskedelmi forrásaiban. Egy hasonló helynév Tarsos 
+amely ma délkeler-Törökországban található. A nevét érdekes módon (csakúgy, 
+mint ta-ru-ú-i-sa esetén Trójának) itt is a Hettiták adták "Tarsa" alakban. 
+Ezt "Tarhunna" szél-Isten nevéből származtatják. A hettiták nyelve erősen 
+köthető a Magyar nyelvhez pl. egyezik az "Isten" szavunk, érdemes még emellett 
+megjegyezni, hogy a "Hettita" úgy is érthető, mint "HéT-tita", vagyis a "Hét" 
+szóval rokon (lásd "Hétmagyar", Hetumoger, stb). Az is érdekes, hogy a hettita 
+nyelv néhány igen ősi jellegzetességet őriz a nyelvtani funkciókban. Ezek közé 
+tartozik, hogy nincs határozott nemi elkülönítés, azaz nincs hím-, nő- és 
+semleges nem. Ehelyett bizonyos esetekben az élő/élettelen elhatárolás létezik 
+a ragozásban, csakúgy mint a sumer nyelvben. Az etruszk nyelv is ragozó, sőt 
+sokkal jobban a fenti hettitához képest (bár talán nem a Hurrihoz képest): A 
+ragok sorrendje éppúgy kötött, mint a magyar nyelvben. A szótőhöz elsőként a 
+többes szám jele csatlakozik, majd az esetrag. Ha szükséges, kötőhangzót 
+(illeszkedő magánhangzót) is beiktattak. A görög és latin nyelvekben 
+elképzelhetetlen többszörös ragozás is megtalálható, vagyis a már ragozott 
+szóalak továbbragozása vagy képzése. Ilyen például az egyik szövegemlék 
+Unialθi szava. Ennek elemei: Uni- (istennő) -al (birtokrag) θi (helyhatározó). 
+Együttes fordítása Uniénál. Az Unié Uni templomát jelenti és a továbbképzésnél 
+szótőként viselkedik. A kifejezés tehát azt jelenti, Uni templománál. Itt mi 
+Magyarul elemezve azt is megfigyelhetjük, hogy az Istennő neve "uNi", ami az 
+"aNya" szó (lásd közel-keleti Magyar vonatkozásokban: Anu) neve is. Azt amit 
+"helyhatározónak" neveznek is felismerhetjük, hasonló ez a kéz-DI-vásárhely 
+nevéhez. Több ilyen szóvégződést is találunk régi Magyar helyneveknél! Ilyen 
+például SükösD neve is, ahol szintén 'D' hang szerepel a 'T' hang helyett. 
+Azt, hogy ez a "-D", vagy "-T" mássalhangzó-végződés mit jelent "Egyed" falu 
+neve világítja meg jól. Lásd még "Csapod", "Cigánd", "Érd" településnevek.
+Érdekes, de ami helynév-végződésként szolgál az pont a Csap-od, Ér-ed, vagyis 
+a birtoklást kifejező végződés, míg itt az Etruszk szövegben azt inkább a 
+középre teszik, mint "-al-". Ez sem biztos, hogy rossz, mert az "R" és az "L" 
+rokon hangok, így ez a szó korlátozottan az "úR", uRalkodással is kapcsolatban 
+van, ami nyilván jelenthet így birtokságot. De ha nem akarunk ilyen messzire 
+menni és ha a ragok sorrendjét nem nézzük, akkor rájöhetünk, hogy a Magyar 
+fordítás "Uniénál", vagy még Magyarabbul "Anyáénál" és az Unialti úgy is jól 
+megfeleltethető, hogy mindkét esetben ugyan az a szókezdet, de míg Magyarul ma 
+a -nál (azaz: -(n)ál) végződés a szó végére esik, míg Uni-al -esetén középre, 
+lásd "Anyá-nál", vagy "Uni-nál". A "-D-", "-T-" mássalhangzóvégzőést már előbb 
+megvizsgáltuk, de az Uniénál szó közepén az "-é-" hang az Unialθi "-i" végével 
+rokon értelmű etekintetben.
+
+Érdekesség továbbá, hogy az Etruszk nyelv is kerülte a mássalhangzó torlódást, 
+ellenben a Latinnal, Szlávval. A Magyarnál is erősebben alkalmazták ezt, így 
+például a latin africus etruszkul afarakanas elnevezéssel is megjelenik. Nem 
+igazán jelölték az alanyesetet sem (alanyeset nem kap ragot náluk sem). Az 
+etruszk nyelv sem ismerte továbbá a nyelvtani nem fogalmát sem (akárcsak a 
+Magyar nyelv sem tesz különbséget etéren). A nevek végződésében lehetett csak 
+különbség az Etruszknál férfi és nő között. A melléknevek képzése is rokon a 
+Magyarral: Egy biztos melléknévképző az -s. Cluvenia = hely, cluvenias = helyi
+és Zalarvena = család, zalarvenas = családi. Ezt jobban megérthetjük ha "-S" 
+végződés helyett "-áS", vagy "-éS" végződést használunk erre Magyarul. Lásd 
+például "méz" és "mézes" (nyilván melléknévvé képződött!), vagy Zalarvena és 
+ZalarvenÁS az ő esetükben. Az is lehet, hogy a szógyök is rokon (ZaLa-, CSaLá-)
+
+Az igeragozás vitatott az Etruszk nyelvben. Egyedül a múltidő jele számíthat 
+ismertnek, ez a "-ce" végződés. A "c" és "t" hangok másodfajú rokonok hangtani 
+jellemzőik szerint, így a Magyarral rokon megoldást kapunk (ordít és ordít-ott, 
+meghal és meghal-t). Érdekes kapcsolat más hangtani irányban: VéR, VeR-eS. Még 
+érdekesebb: Ver, Verő, Verőce (település). Esetleg: tőkés ré-ce, stb.
+
+Az Etruszkok Trójai (T-R hangzópár) eredete tűnik valószínűnek és érdekes, de 
+sok módon a Magyarokhoz is kapcsolhatónak tűnik ez a nép! Saját elnevezésük a
+"mek" volt, de egyes kutatók szerint rasz(e)na, ami inkább országrészt, vagy
+tartományt jelenthetett. A "mek", vagyis MeK és a MaGy-ar, MaG között hangtani 
+alapvető hasonlóság áll fent (lásd MaG és MaKk a Magyar nyelvben). A rasz(e)na 
+ellenben akár kapcsolatba hozható a "rész" szóval is, ha kitartunk a valószínű 
+jelentése mellett ("inkább országRÉSZT, vagy tartományt jelenthetett"). 
 
 <span id="anchor-419"></span>Statisztika, manipuláció, DNS archeo-genetika és más bonyolult dolgok
 --------------------------------------------------------------------------------------------------
