@@ -2192,6 +2192,84 @@ szinte egyfajta emberiség szempontjából közös rendszerre is utalnak, amely
 rendszer biológiai, hangképzési és fizikai sajátosságokon, illetve a nyelvi 
 ésszerűségen alapulva képezheti a kimondott szó jelentésének a megértését.
 
+Mikor lehet mégis ragozott alakot keresni a nyelvpörgetés során? 
+Például abban az esetben, ha feltételezzük, hogy egy idegen nyelv 
+vett át éppen egy Magyar szót. Ebben az esetben átvehetett egy 
+ragozott szót is akár! Egy másik lehetőség abban áll, hogy a ragok 
+és toldalékok többsége is jelentéssel bír! Ezek a mai napig érthetők 
+és egy kis gondolkozással meg lehet találni a jelentésük!
+
+* esŐ = "ő aki es" ('ő' mint megszemélyesítés)
+* belsŐ = "belül(re) eső" (belül esik valamin, felül esik valamihez képest (felső) - az előző sorra alapul)
+* házBaN, erdőBeN = "ház BeNN", "erdő BeNN" (Benn lenni valahol, valami valamiben van)
+* házBóL, kőBőL = "ház BeLüL", "kő BeLüL" (ezt a példa kedvéért kifejtjük lejjebb!)
+* alapuló, feszülő = "alapul ó" (lásd eső, esetleg még érdekesség: alapul ó, mint az 'ó' a régiség, 'óság' jele, lásd ó-Magyar a mélyebb hang a "mélyebb értelmű jelentés" felé visz, kivéve ha csak a hangzási harmónia miatt áll ott.)
+* HázBa, KőBe, FáBa = itt egy "félkész" szógyök van meg a belülségről, tehát még nem belül vagyunk, nem benn vagyunk, hanem csak be- tehát még befelé tartunk és a folyamat nem ért véget. Ugyanezt az alakot szó elején is használjuk (lásd: bevés, berak, betesz, bebeszél, stb.), ahogy az szintén jellemző a nyelvünk logikájára, hogy az előtagok is értelmesek magukban! 
+* -t mint a múlt (el-mú-lott) idő jele? Az pedig pont az "iDő" jelentéssel rokon!
+* stb. (tehát: "házi feladat")
+
+**Nézzük meg részletesebben a -ból, -ből jelentéstartalmát!**
+
+Először is technikai szinten gondoljuk meg, hogy ha azt mondjuk ki élő 
+szóban: "A vár kő belül van", akkor alig lenne olyan ember, aki maga ne 
+akarná rögtön úgy mondani ki ezt a szöveget, hogy "a vár kőből van"!
+
+Egyrészt torlódások és nehéz ejtés érzékelhető, amit az ember természete 
+eleve tömörebb alakban akar kimondani, másrészt nyilvánvaló a hangtani 
+rokonság: B-L alak, mássalhangzót félretéve B-LL lesz, ami a BeLüL szó. 
+Az 'L' hang duplázódása nem számít, hiszen láthattuk, hogy még azonos 
+hangkategórián belül is duplázhatunk (akár L-R is lehetne amit mondunk)
+itt azonban csak egy hosszan való ejtésről beszélünk.
+
+Vannak szavaink ahol az ilyen kapcsolatok azonnal láthatók, van amit igen 
+hosszasan is lehet elemezgetni. Nézzünk most erre egy erősebb és talán 
+kezdőként nehezebben követhető példát, majd ezt követően példákat mutatunk 
+be lassanként felépített rendszerben a lépésenkénti megértéshez! Ha az olvasó 
+zavarban van, elvész a részletekben próbálkozzon meg egy másik példával, vagy 
+próbálkozzon meg később visszatérni az adott példára. Az itt szereplő 
+záró példa gondolatmenet pedig ne riasszon el senkit, mert ez inkább azért 
+szerepel itt, hogy lássuk hova is szeretnénk eljutni! Ha valaki ezt is érti, 
+annak is érdemes a további példákat végigolvasnia, aki nem az viszont jó 
+eséllyel maga is megérti majd később ezt a gondolatmenetet.
+
+**Igazából**
+
+A fenti kifejezés, ugyan minden jelenlegi hivatalos Magyar nyelvtani szabálynak 
+eleget tesz, de mégis hibásnak érződhet, mert azt jeleni, hogy  valakinek 
+elveszünk az IGAZÁ-BÓL. Hiszen öt-ből három is kettő, tehát elvételről van szó!
+
+Ez így ebben a formában kétséget kelthet bennünk és jogosan, sőt ez már-már 
+filozófiai kérdés és mi inkább sejtetni fogjuk az álláspontunkat, mint az 
+egyetlen lehetséges igazságnak beállítani, ám úgy néz ki talán mégsem rossz 
+ez a kifejezés. Nézzük meg, hogy miért!
+
+Először is tegyük fel, hogy mégis elvételt jelent ez a végződés.
+
+"Igazából azt mondhatjuk..." - ebben az esetben úgy értjük, hogy fogunk "valaminek 
+az igazából" tehát az igazságtartalmá-ból és ebből kiindulva mondhatjuk amit mondunk.
+Ettől még nem lesz rosszul használt, "modern, torzított" szó ez a kifejezés, csak egy 
+formája annak a szerénységnek, "hogy nem gondolom azt, hogy a teljes igazságot ismerem"
+egy adott esetben, de az igazság-ból kiindulva, az igazság-ból kijelölve a fontos részt 
+azt mondhatom, hogy... (és elkezdek beszélni)
+
+Fontos hozzátenni, hogy amikor ez a szó elemezve lett, akkor még nem elemeztük annak 
+előtte a "-ból, -ből" végződést, tehát egyáltalán nem volt biztos a válasz, hogy ez 
+vajon mit is jelent. Ezáltal arra is példát mutatunk itt, hogy ha valaki komolyan és 
+igen mélyen is szeret belemenni a dolgokba, milyen mélységekre juthat.
+
+Tehát tovább gondolkozva: "Igazából ..." = "(Valaminek az) igaz(ságá)ból (kiindulva) ..."
+
+**Fontos tudnivaló:** régiesen a "-ból, -ből" végződés: "-balól, -belől"!
+
+TODO: KromekP.txt alapján fel kellene ide dolgozni a diskurzust
+
+Lehet hogy ha úgy beszélek, hogy "Igazába" - aminek kissé régies is a hangzása - könnyebben rátalálok az első néhány lépés után arra, hogy a nyelvünk mit akar ezzel mondani, de én úgy érzem ezt a másik esetben is megtalálom, csak több lépés gondolkozás után.
+
+Helyesebb használati forma: "Igazából azt tartják...", "Igazából azt mondhatjuk..."
+Helytelenebb: "Igazából ez egy..."
+
+Kerüljük a hasonló kifejezéseket, mert kitanít a szavaink megértéséből.
+
 <span id="anchor-430"></span>"Nyelvpörgetési" példák
 --------------------------------------------------
 
