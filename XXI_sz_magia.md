@@ -2775,6 +2775,47 @@ másik vonalon a hasonló gondolatmenet.
 
 Mondanám, hogy kéretik utánunk csinálni más nyelveken, de inkább nem mondom.
 
+Mit jelent a nap? Ezt azért mindenki látja, hogy Magyar nyelven ugyanazzal a 
+szóval illetjük az égi fényadó szomszédunkat, mint az időszakot.
+
+Mit jelent az év? Ezt már talán kevesebben látják, pedig hangtani szemmel 
+teljesen nyilvánvaló, hogy az "ív" szavunkkal lényegi értelemben rokon szóról 
+beszélünk! Mit mond az ív szóról a "hivatalos" értelmező szótár?
+
+"Félkört v. többé-kevésbé szabályos görbét mutató vonal, alak, forma. Villogó 
+szemeit amint rám vetette, Szemöldöke ívét egyenesre vette. (Arany János) 
+Csípőre vágta a kezeit, harcias ívbe a könyökét. (Mikszáth Kálmán) || 
+a. (mértan) A sík- v. a térbeli görbe vonalnak két pont közti darabja."
+
+Továbbá ezt is írják róla:
+
+"(régies) Íj. Ívet és nyilat ragad ... (Kisfaludy Károly) Hajna ... A kis ivet 
+mindig viszi és meghozza magával A nyilat is. (Vörösmarty Mihály) || 
+a. (átvitt értelemben) Nem akarok dühvel meghalni, Ajzott és visszatartott 
+ívvel. (Ady Endre)"
+
+Fontos, hogy óvatosan közelítsünk az értelmező szótárakhoz is és ne mellőzzük 
+a józan észt miközben olvasunk. Észrevehetjük, hogy az íjként való használat 
+esetleg nem feltétlen alap "ív" szógyökként, hanem a ragozot alak változásával 
+állt elő, tehát esetleg (a példák szerint) az is lehet, hogy csak az "íjvet", 
+"íjvel" és hasonló kifejezések "hasonuló" alakjával van dolgunk, ezért a régen 
+használt alakot csak úgy lenne értelme alapvető gyökként elfogadni, ha magában 
+álló példát is látnánk (pl. "az ív és nyíl országa").
+
+Ellenben szembetűnő, hogy "többé-kevésbé szabályos" görbét mutató alak, forma. 
+Az év az egy kör-jellegű forma és a körnek is köríve van, akár a félkörnek is. 
+Továbbá az is feltűnhet, hogy a nap körül mit ír le a föld egy év alatt? Igen. 
+Egy ívet! Vagyis mi is történik "egy ív alatt"? Sok minden történhet például a 
+csillagképek is leírhatnak egy ívet a napi előfordulásukban.
+
+Mi a hónap? Az pedig a hold-nap, vagyis a hold-ciklus. Ezek mind-mind példák, 
+de nagyon sok ilyen gondolatbeli mélység van a Magyar nyelvben és ezek mind 
+valamilyen logikus szabályosságot követnek. Szabályos pedig micsoda? Ami meg 
+van szabva, vagyis mint a szabó munkájának eredménye a ruha, össze van szabva 
+és a ruha szabása, vagy akár egy "szablya" is távoli jelentéstani rokonok.
+
+Figyeljünk ezekre az apró, ám igen nyílvánvaló szókapcsolatokra!
+
 <span id="anchor-445"></span>Vallásokról és hitről
 -------------------------------------------------
 
