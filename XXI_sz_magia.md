@@ -2719,6 +2719,21 @@ nem mondhatjuk, hogy kizárt de elég nehéz félrehallani és félreejteni,
 így nagyon is kérdéses mi vinne rá egy lakosságot, hogy lecserélje a
 hangot, míg a másik esetben ez lényegében természetes...
 
+Azért sokkal könnyebb d-dz-z áthallás, mint fordítva - főleg Magyar 
+nyelvi közegben és ejtéssel számolva. Nem egy ejtési kategória a kettő, 
+de ettől független, hogy mik vannak adatolva és azzal nem is érdemes 
+azzal utóbbival vitába szállni, nyugodtan kiindulhatunk a kapcsolat
+tényéből, de figyeljünk arra, hogy ki vehetett át kitől. Az ejtés 
+szerint egyáltalán nem ugyan annyira könnyű az egyik és a másik 
+irányba áthallani az adott hangot. Ez abból is látható, hogy a 'z' 
+hang az kvázi magánhanzó és jelen esetben még a szó rövidebb alakjában 
+is hosszan ejtett hangként jelenik meg. Az S-Sz-Z-Zs a legközelebbi
+rokonok a hangkategóriát tekintve (azonos alcsoport a főcsoportban), 
+de az ejtési kategória másik alcsoportjában egy alapvető megtaláljuk
+a C-Cs párost is már. A 'dz' hanghoz innen úgy lehet eljutni, hogy a 
+C hangra nézve valakinek a kiejtése már nem pontos (d és z kombináció
+adja nála). Innen rövidülhet ez le 'D'-re és megtaláltuk a kapcsolatot.
+
 Ez utóbbit azért fontos megjegyeznünk, mert mióta kezd tarthatatlanná 
 lenni a szűken finnugor nyelvi értelmezés bizonyos körökben is, azóta 
 lényegében ugyan az a közeg inkább a Török származási vonalat erőlteti, 
