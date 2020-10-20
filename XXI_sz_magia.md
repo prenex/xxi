@@ -1,3 +1,4 @@
+
 % Az utolsó aranymag – a fehér ló útján
 
 <span id="anchor"></span>Elő-előszó
@@ -2681,6 +2682,10 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 
 * -ing végződés Angol nyelven - náluk folyamatos múlt. Vesd össze a Magyar szóalkotással (pl. kering, szálling(ózik) stb).
 
+* Bolgár - polgár - Volga.("Volgár?" azaz "volgavidéki"?)
+
+* Küdük - Kettő(k) / Kettük - Törökös nyelven "viszonyt" fejez ki.
+
 A vélt-valós egyezéseket sorolhatnánk napestig, de ezeket csupán azért 
 szerepeltettük, hogy látszódjék: néha a szógyök egyezés még teljesen 
 más jellegű nyelveknél is megmaradt (pl. szláv, latin, stb), a szógyök 
@@ -2696,6 +2701,29 @@ szót használnak átvétel esetén az alapvető szójelentésre. Fontos még
 az elemzéseknél azt is figyelembe vennünk, hogy egy-egy elnevezés 
 mögött vagy előtt nem-e szerepel ragadvány, így például adott idegen 
 nyelvre vonatkozó (pl. görög, római, stb.) utólag hozzáadott végződés.
+
+Még egy példa - hangváltás egy irányba, de nehezebb másik irányba:
+
+A Volga és Bolgár szavak rokonítása nagyon jó megyfigyelés, más is már
+felhívta erre a figyelmet és ezt aláírhatjuk hangtanilag is bármikor.
+A török nyelvekkel kapcsolatban a "magyarban a z végű szavak általában
+d-ből lettek" kicsit pontatlan turkológiai megállapítás. Elfogadhatjuk
+a megfigyelést, hogy ha találni folyamatosan értelmi megfelelést a d-z 
+hangváltással, mert ez teljesen bizonyítja a kapcsolatot, de az irányát 
+nem. A 'z' hangból 'd' hangot kapni sokkal nehezebb, mint "dz" hangból
+mondjuk egy d hangot kapni. Lásd "méz" -> "médz" -> "méd / med", mint
+ahogy ez utóbbit megfigyelhetjük még a Bosnyákban - talán szlávban is.
+A z -> dz, vagy a rokon z -> tz az, ha csak a hangképzést nézzük elég 
+könnyen elelejthető, de fordítva? Az már nem ilyen egyszerű dolog - 
+nem mondhatjuk, hogy kizárt de elég nehéz félrehallani és félreejteni,
+így nagyon is kérdéses mi vinne rá egy lakosságot, hogy lecserélje a
+hangot, míg a másik esetben ez lényegében természetes...
+
+Ez utóbbit azért fontos megjegyeznünk, mert mióta kezd tarthatatlanná 
+lenni a szűken finnugor nyelvi értelmezés bizonyos körökben is, azóta 
+lényegében ugyan az a közeg inkább a Török származási vonalat erőlteti, 
+holott lényegében mindkét nyelvre hatást gyakorolt a Magyar nyelv és
+annak változatai, előnyelvei.
 
 Azt a következtetést is levonhatjuk a fentiekből, hogy az indo-europid 
 nyelvekkel ellentétben tehát a gyökrendszerben és ragozással működő, a 
