@@ -2682,7 +2682,7 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 
 * -ing végződés Angol nyelven - náluk folyamatos múlt. Vesd össze a Magyar szóalkotással (pl. kering, szálling(ózik) stb).
 
-* Bolgár - polgár - Volga.("Volgár?" azaz "volgavidéki"?)
+* Bulgar - Bolgár - polgár - Volga.("Volgár? Volga-úr?" azaz "volgavidéki"?)
 
 * Küdük - Kettő(k) / Kettük - Törökös nyelven "viszonyt" fejez ki.
 
