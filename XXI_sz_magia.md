@@ -2795,7 +2795,84 @@ hogy például a "[nem]" az itt egy fordítói betoldás. Lehetséges, hogy kés
 így tehát a Magyar eredettörténet szálaihoz a Biblia anyagát? Látható, hogy 
 a krónika írója az egységesítéskor Nimródnál az ószövetséggel megy szembe.
 
-### <span id="anchor-440"></span>Egyéb példák
+### <span id="anchor-439"></span>Néhány közelebbi nyelv (Sumér, Türk, Uráli, stb.) egyezései
+
+ Magyar: megy [a tő alapalakja men-]
+* Régi ujgur: mün- (lovagol, felmegy) – pl. at müntük (lovagoltunk) -, maŋ (lépés)
+* Baskír: men- (lovagol, felmegy)
+* Török: bin- (lovagol, felmegy, felmászik, beszáll) – pl. ata bindik (lovagoltunk), binek / bincilik (lovaglás)
+* Kazah: min- (lovagol, beszáll, felszáll [valamire]), mañ (ügetés)
+* Szalár: min- / miŋ- / mim- (lovagol, felmegy)
+* Kirgiz: min- (lovagol, felmegy), maŋ (ügetés)
+* Türkmén: mün- (lovagol, felmegy)
+* Karahánida: mün- (lovagol, felmegy), man- (üget)
+* Középtörök: bin- / min- / mün- (lovagol, felmegy), müntür- (lovagoltat) 
+* Jakut: mīn- (lovagol, felmegy), maŋıy- (üget)
+* Dolgán: mīn- (lovagol, felmegy)
+* Gagauz: pin- (lovagol, felmegy)
+* Tatár: men- (lovagol, felmegy)
+* Ujgur: min- (lovagol, felmegy), maŋ- (üget)
+* Üzbég: min- (lovagol, felmegy)
+* Hakasz: mün- (lovagol, felmegy), maŋ (ügetés)
+* Sór: mün- (lovagol, felmegy), maŋ (ügetés)
+* Ojrát: min- (lovagol, felmegy), maŋ (ügetés)
+* Tuvai: mun- (lovagol, felmegy), maŋ- (üget)
+* Tofa: mun- (lovagol, felmegy), maŋ- (üget)
+* Nogaj: min- (lovagol, felmegy), maŋ (ügetés)
+* Balkár: min- (lovagol, felmegy)
+* Karaim: min- (lovagol, felmegy)
+* Karakalpak: min- (lovagol, felmegy)
+* Kumik: min- (lovagol, felmegy)
+* Írott mongol:  meŋde- / megde- (siet)
+* Halha: meŋde- / megde- (siet)
+* Burját: megde- (siet)
+* Kalmük: meŋdä- (siet)
+* Ordoszi: meŋde- / megde- (siet)
+* Evenki: meniw- / meŋiw- (siet)
+* Even: men- / menu- (siet), muŋŋăn- (szaladgál [kutya])
+* Irodalmi mandzsu: muŋre- / muŋgire- (fut [marha])
+- A Magyar etimológiai nagyszótár véleménye a ’megy’ szóról: „Ősi örökség az uráli korból: vogul min-, zürjén munni, finn mennä, szamojéd mengem (‘megy’). A finnugor mene- alapforma a magyarban megmaradt. A jelen idő egyes alakjai n đ ny đ gy hangfejlődéssel jöttek létre, ezek az alakok ma is együtt élnek a tájnyelvek s a köznyelv rétegeiben: megyek–menyek–menek: a harmadik személyben is: mén. Lásd még menedék.”
+
+Van még ennél is közelebbi rokon: menet, men (mint men-hír, stb.). Érdekes
+lehet még: "mén". Itt továbbá azt is tetten érhetjük, hogy maga a szókezdő
+hang a domináns jelentéshordozó (lásd még például: M-ozog, M-egy, M-enet,
+ M-unka, stb. és erre épülnek rá az egyes szavak részletei.
+
+Az "m" hangnak nem egy jelentése van. Egy magában álló hang elég nagy
+jelentésgyök-tartomány, így ezt ne úgy képzeljük, hogy úgy jelentene
+egyféle dolgot, miként egy befejezett szó egyféle dolgot jelenthet,
+de az említett szavakat mégis ez köti össze. A "megy" szó múlt ideje
+egyéb iránt máig a "ment" szó.
+
+Ilyenkor felmerül a következő kérdés: A munka és a masírozik eredete
+is teljesen másnak tűnik. Megfordítva a kérdést: véletlen-e, hogy a
+mozgásra utaló szavak nagy részében nincs 'm' szókezdő hang?
+Koslat, fut, siet, rezeg, vonul, vánszorog szavaknál például?
+
+A kérdés megfordítása azért nem értelmes, mert mondhatjuk, hogy ne úgy
+gondoljunk egy hang jelentésére, mint egy szó jelentésére. Ez olyan,
+mintha azt mondaná valaki, hogy ez-az a számot, pl. a hey joe-t és a 
+paranoid-ot az köti össze, hogy E-ben vannak írva és felhoznánk, hogy
+hát van olyan hardrock / blues nóta, ami nem E-ben van írva....
+Igen van, de az adott dolgokat az köti össze akkor is és a kapocs mentén
+más, fontos hangulati, jelentési, ha úgy tetszik "stilisztikai" tartalmi
+kapcsolat tárható fel ha a dolgok mélyére tekintünk.
+
+A kevésbé pontos hasonlatokat hanyagolva: Az, hogy több úton el tudunk
+jutni egy hasonló teljes jelentéshez, nem csökkenti a jelentőségét a
+részletek kapcsolatainak!
+
+Például vegyük az "út" és a "csapás" szavakat. Az "út" az "üt irányából
+közelíti meg a kérdést, a csapás pedig a "csap/lecsap" irányából. Ettől
+függetlenül a csépelés és a csapás rokonításának elemzésekor nem fog jobb
+esetben befolyásolni az "út" szó. Itt még megjegyezhető újfent, hogy a
+német "weg" szó egyébként a "vág" irányából közelíti meg ugyanezt, de ezt
+már említettük. Egy másik hasonlattal élve, ez olyan, mintha a nyelvújítás
+jegyében az ország fele "villamosnak" a másik fele "áramosnak" nevezné
+ugyanazt a járművet és mind a kettő mondjuk fenn is marad közhasználatban.
+Ettől függetlenül nem lesz véletlen a más szavakkal való kapcsolatuk.
+
+### <span id="anchor-441"></span>Egyéb példák
 
 Nézzük meg az óriás szavunkat is. Az eddigiek alapján itt az "erő" szóval és 
 az "úr" szóval rokon alapvetően szógyököt látunk első ránézésre, ám érdemes a 
