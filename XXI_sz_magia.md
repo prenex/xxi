@@ -2962,7 +2962,24 @@ a szekerce - főleg ács-szekerce - jelentése között, amely utóbbival kalap�
 és SZEGET KIHÚZNI is tudunk! Igen. Itt a jelentés részeként, szintén mondhatni
 egy nagyobb jelentésgyök-falatként ez is megjelenik.
 
-Ha egyébként a hangok jelentésgyökeit keressük, a magukban álló érzetet, akkor 
+Rokona természetesen: szakóca (kis szererce) is, amiről azt állítják, hoyg a 
+"A szlovén sekalce (‘hidegvágó, nyeles véső’) átvétele hangrendi 
+kiegyenlítődéssel és al ⇨ ó hangváltozással: sekalce ⇨ szakalca ⇨ szakóca. 
+A szláv előzmény a szek- (‘vág’) igető származéka, így a ~ rokonságába 
+tartozik a szecska, székács, szekerce, szuszék is."
+
+Ellenben az ideológiai alapú korban született eredmények nem fedik fel, hogy 
+ez a szekalce, mint "nyeles véső" és a "szög" saját maguk által dokumentált 
+eredeti jelentése, miszerint az utóbbi "Ősi örökség az ugor korból: lásd vogul 
+szenk (‘ék, cövek, faszeg’). A köznyelvben inkább labiális szög formája él."
+között ott van a tótágast-vető jelentésgyök kapcsolat ha már ék értelemben, a 
+valamibe való szöges behatóláshoz használjuk azokat akár "nyeles véső", akár 
+így tehát a "szög" értelmében. Itt sajnos csak zavart sikerül kelteni, mert 
+nem jó hasonlatokat hoznak, hiszen a "véső" az "v-alakú" a "szeg" pedig SZúr, 
+méghozzá eGYet szúr! Lásd "szegycsont" - ha valakinek nem volna világos miért 
+is állhat ott "gy" hang a "g" helyett és ha a hangkategóriákat elfelejtettük.
+
+Akkor ha a hangok jelentésgyökeit keressük, a magukban álló érzetet, úgy tehát 
 a legszerencsésebb, a rövid, vagy egytagú szavak vizsgálata és a szókezdő hang 
 vizsgálata különféle rokonítható szavak esetében (hiszen elől van a hangsúly).
 
