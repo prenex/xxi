@@ -2872,6 +2872,103 @@ jegyében az ország fele "villamosnak" a másik fele "áramosnak" nevezné
 ugyanazt a járművet és mind a kettő mondjuk fenn is marad közhasználatban.
 Ettől függetlenül nem lesz véletlen a más szavakkal való kapcsolatuk.
 
+### <span id="anchor-441"></span>A jelentésgyök fogalma és a hangok jelentésgyökökhöz kötődése
+
+Most nézzük meg még egy példát Lukácsy Kristóftól "A magyarok őselei, 
+hajdankori nevei és lakhelyei" c. művéből, ami például vitatott (többek közt):
+
+Csorda (Magyar) - Csog (Örmény)
+
+Itt hangtanilag nem látható megfelelés és ne is nagyon keressük a szókezdő
+hangon felül, mert g-rd nem egy kategória, messze állnak egymástól. Miért 
+hibás mégis elvetnünk a kapcsolatot?
+
+Nézzünk pár hasonló jelentésű szót:
+
+* csapat
+* csoport
+* csorda
+* sok
+* számos
+* csupa
+* stb.
+* -ság végződés (pl. sokaság)
+* esetleg még pl.: család
+
+Látunk-e ezekben közöset? Valamit ami összefogja őket? Most nem ejtési szemmel 
+nézve, hanem a jelentésükben elsősorban. Igen! Van közös része az értelmüknek,
+amit nyugodtan hívhatunk "jelentésgyöknek". Vegyük észre, hogy az egymagukban 
+álló hangok, mássalhangzók sokszor köthetők jelentésgyökökhöz, de persze nem
+kizárólagos ez a kapcsolat. Egy magában álló hang az ejtésekor kifejez egy 
+hangulatot, érzést (hang = hangulat!), így tehát egyáltalán nem véletlenül 
+kerül egy szóba. Egyáltalán nem csak megegyezés kérdése. Nem csak az ejtésmód 
+számít és az ejtési hely, hanem az a mentális kép, amit a hangkeltés és az 
+adott hang meghallása okoz bennünk.
+
+Vegyük észre, hogy amit mi "Csordának" nevezünk, azt ők "Sok"-nak mondják
+ebben az esetben tájszólással! Innentől kezdve egyáltalán nem véletlen, hogy 
+ez fel lett jegyezve az adott műben és máris kevésbé vitatott helyzettel áll 
+szemben az ember.
+
+Szintén ugyan ebben a műben - például:
+
+	Cseber (Magyar) - Szápor (Örmény)
+
+Ezt azért nem hangoztatják, mert ideológiai alapon a Cseber szót a szlávból 
+származtatták. Az nem probléma, hogy cseberből-vederbe mondásként milyen jól 
+összeáll például. Az sem probléma, hogy Szápor itt megjelenik. Ellenben ha 
+ezen a ponton jól figyelünk, észrevehetjük és felismerhetjük a zápor szót is,
+amivel közvetlen kapcsolat nincs, de a jelentésgyök kapcsolat igen is létező 
+és a vízhez köt. Köt továbbá a "csöppen"-éshez (csever, csepp, csap, ..) is
+és a hang ejtésére figyelve észlelhetjük hogy több hasonló jelentési gyökhöz 
+kapcsolódik: ide tartozik még a süvít, szél, stb. szókezdő hang is, mint a 
+csöpp, cseppen és jelen esetben hangutánzó.
+
+A vödör szóban egyéb íránt a véd kapcsolatot és a visz, vele, stb. szókezdő
+hangot találjuk. Aki nem hiszi, hogy ez lehetséges, az "elvitte a vödrét".
+Ezt pedig azért mondom, hogy lássunk t-d áthallást ezzel kapcsolatban.
+
+Innentől kezdve azt is tudjuk, hogy a csöbör a csöppentő, öntő alkalmatosság, 
+míg a vödör amit vittek / vettek / odavettek / vedör.
+
+Lásd még:
+
+"Kerek, lefelé keskenyedő, egyfülű fa- v. bádogedény, melyben főleg vizet, moslékot tartanak <a konyhában, kamrában> v. amelyben vizet hordanak. Festékes, moslékos, vizes cseber.  Rocskával, csöbrökkel mérték a bort. (Móricz Zsigmond) Csöbrök, hasas üvegek | sorakoztak, a földre rakva, meg | az éléstárban. (Szabó Lőrinc)"
+
+és:
+
+"víz merítésére, tartására, hordására való füles edény, A szó eredeti illabiális veder alakja szláv eredetű szó: szerb-horvát, szlovén, szlovák vedro. Ez alighanem többes birtokos vedr alakjában került nyelvünkbe, ahol a mássalhangzó-torlódást ejtéskönnyítő e oldotta fel."
+
+A vödör "vitt" szóval való kapcsolata helyett tehát azonnal a "voda" = víz 
+szóval azonosítják és a Szláv nyelvből emelik át - holott nálunk még jól 
+láthatóan szerves kapcsolat van a szavak között, hiszen a vödör "vitt/vett" 
+alakja és a "víz" szó "visz" alakú és jelentésű tartalma még szerves egység.
+
+Ha őszinték akarunk lenni, ebből leginkább az vezethető le, hogy a visz = víz 
+jelen idejű alakú Magyar szó egy másik "vitt" Magyar alakját ugyanarra 
+használja sok más nyelv is - lásd "water - wasser" angol-német kapcsolat erre!
+Arról van tehát szó, hogy a "víz" vagy a "visz", vagy annak múlt idejű "vitt" 
+szavával jellemezhető és ez teljesen látványosan jelenik meg benne. Az egyes 
+más külföldi nyelvek az eredeti jelentést már nem hordozzák és valamelyik 
+alakját vették át az eredeti - esetünkben nyilvánvalóan Magyarul érthető szónak.
+
+Szintén ebben a műben - továbbá:
+
+	Szekerce (Magyar) - Szagr, Szagur (Örmény)
+
+Remélhetőleg az olvasó tudja és ismeri még a különbséget a nagy méretű balta
+(mint Balthazar nevében) favágó alkalmatosságot, az egykezes fejsze eszköz és 
+a szekerce - főleg ács-szekerce - jelentése között, amely utóbbival kalapálni
+és SZEGET KIHÚZNI is tudunk! Igen. Itt a jelentés részeként, szintén mondhatni
+egy nagyobb jelentésgyök-falatként ez is megjelenik.
+
+Ha egyébként a hangok jelentésgyökeit keressük, a magukban álló érzetet, akkor 
+a legszerencsésebb, a rövid, vagy egytagú szavak vizsgálata és a szókezdő hang 
+vizsgálata különféle rokonítható szavak esetében (hiszen elől van a hangsúly).
+
+Könnyen találhatunk hasonló kapcsolatokat több ilyen korai műben és bár nem 
+hiba nélküliek, de óvatosan kell bánni mindenféle érdemük teljes elvételében!
+
 ### <span id="anchor-441"></span>Egyéb példák
 
 Nézzük meg az óriás szavunkat is. Az eddigiek alapján itt az "erő" szóval és 
