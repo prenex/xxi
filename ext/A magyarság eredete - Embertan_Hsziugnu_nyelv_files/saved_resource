@@ -1,0 +1,195 @@
+* {
+font-family: Arial !important;
+}
+
+#sidebar-primary {
+    border-left: 1px solid #efefef;
+  width: 299px;
+}
+
+#main {
+background: #FFFFFF !important;
+}
+
+#respond {
+text-align: left;
+}
+
+body {
+   background: white;
+    color: #555555;
+}
+
+#header {
+    background: white url('https://embertan.hu/wp-content/uploads/2018/01/embertan-logo.png') no-repeat center left;
+    background-position: 3% 50%;
+    height: 160px;
+      padding: 0px 0;
+}
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+  #header {
+  display: none !important;
+  }
+}
+
+.menu-secondary-container {
+ background: #E0261D !important;
+}
+
+.menu-secondary li a {
+color: white !important;
+  font-weight: bold;
+}
+
+.menu-secondary li a:hover, .menu-secondary li a:active, .menu-secondary li a:focus, .menu-secondary li:hover > a, .menu-secondary li.current-cat > a, .menu-secondary li.current_page_item > a, .menu-secondary li.current-menu-item > a {
+color: white !important;
+      background: #666666 !important;
+}
+
+.title {
+    color: #0574B0 !important;
+  font-size: 25px !important;
+}
+
+#content {
+text-align: justify !important;
+  color: black;
+font-size: 15px;
+}
+
+.widgettitle, .widgettitle a, .widgettitle a:hover {
+    color: white !important; 
+  text-transform: uppercase !important;
+  font-weight: bold;
+  background: #E0261D;
+  border: 0px solid #C4E095;
+}
+
+.widget-container a, .widget-container a:hover, a:hover, a:focus, #footer a {
+color: #E0261D !important;
+  font-size: 15px;
+}
+
+.widget-container a, .widget-container a:hover {
+text-decoration: underline !important;
+}
+
+.widget ul li {
+	padding: 0 0 0px 10px;
+    margin: 0 0 3px 0;
+    border-bottom: 0px dashed #ddd;
+}
+
+.widget-container {
+    color: black;
+  font-size: 15px;
+}
+
+#footer {
+/* background-color: #E0261D !important; */
+background-image: -webkit-linear-gradient(top, #DF251D, #DF251D);
+      padding: 10px 0 !important;
+}
+
+#copyrights, #copyrights a {
+color: white !important;
+}
+
+.nsr-mnu-wrap, #credits {
+    display: none !important;
+}
+
+.error404 #content-search {
+display: none !important;
+}
+
+#top-social-profiles {
+display: none;
+}
+
+.menu-secondary li li a {
+background: #1B6FAA;
+}
+
+#search {
+border: 1px solid #1B6FAA;
+}
+
+#search #s {
+    background: none;
+    color: #1B6FAA;
+}
+
+a {
+    color: #1B6FAA;
+}
+
+#container {
+    margin: 0px auto 0 auto;
+}
+
+#footer {
+    margin: 0px 0 0px 0;
+}
+
+.logo {
+        padding: 39px 0px 0px 162px;
+}
+
+.logo h1, .logo h2.site_description {
+color: #0D2169;
+  font-size: 20px;
+}
+
+.logo h1.site_title {
+font-size: 28px;
+font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+}
+
+#content h1 {
+font-size: 25px;
+}
+
+#content h2 {
+font-size: 22px;
+}
+
+.readmore a:hover {
+    color: white !important;
+    background: #666666;
+    border: 1px solid #E0261D;
+}
+
+.readmore a {
+    color: white;
+    background: #E0261D;
+    font-size: 15px;
+    border: 1px solid #E0261D;
+}
+
+.postmeta-primary {
+    font-size: 15px;
+}
+
+.title a:hover {
+    font-size: 25px !important;
+}
+
+.title a, .title a:hover {
+color: #0574B0;
+}
+
+.menu-secondary li a {
+  text-transform: none;
+}
+
+.logo h1.site_title a, .logo h1.site_title a:hover {
+    color: #0D2169;
+    text-decoration: none;
+  font-size: 35px;
+}
+
+.comment-meta.commentmetadata {
+display: none;
+}

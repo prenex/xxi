@@ -1,0 +1,806 @@
+/*
+Õshagyomány - alapértelmezett stílus: Lunae Lumen
+(a cikkekhez)
+készítette: Bondi
+*/
+
+a:link {
+background: transparent;
+color: #9f8800;
+text-decoration: none;
+}
+
+a:visited {
+background: transparent;
+color: #5b508f;
+text-decoration: none;
+}
+
+a:hover {
+background: transparent;
+color: #ddb600;
+text-decoration: underline;
+}
+
+a:active {
+background: transparent;
+color: #f70;
+text-decoration: none;
+}
+
+body {
+background: /*#f0f0f2*/#666 url("kep/hatter01.png") fixed no-repeat 50% 30%;
+color: #000;
+font-family: "palatino linotype", "book antiqua", "times new roman", serif;
+scrollbar-3dlight-color: #fff;
+scrollbar-arrow-color: #ffd700;
+scrollbar-darkshadow-color: #000;
+scrollbar-face-color: #9d9d9d;
+scrollbar-track-color: #000;
+}
+
+body#cikk {
+background: #f0f0f2 url("kep/hatter04.png") repeat-y;
+/*
+margin: auto;
+padding: auto;
+*/
+max-width: 1000px;
+margin-top: 1em;
+}
+
+/*cikkek teteje*/
+div#navcikk1 {
+background: #000;
+color: #ffd700;
+display: block;
+font-family: arial, sans;
+font-size: small;
+line-height: 1.5em;
+margin: 0 12% 4em 18%;
+text-align: right;
+}
+
+div#navcikk1 a {
+background: transparent;
+color: #ffd700;
+display: inline;
+text-decoration: none;
+}
+
+div#navcikk1 a:hover {
+background: #ffd700;
+color: #000;
+text-decoration: none;
+}
+
+/*cikkek alja*/
+div#navcikk2 {
+background: #000;
+color: #ffd700;
+display: block;
+font-family: arial, sans;
+font-size: small;
+line-height: 1.5em;
+margin: 5em 12% 0 18%;
+text-align: center;
+}
+
+div#navcikk2 a {
+background: transparent;
+color: #ffd700;
+text-decoration: none;
+}
+
+div#navcikk2 a:hover {
+background: #ffd700;
+color: #000;
+text-decoration: none;
+}
+
+/*OHxyimp*/
+div#navsav2 {
+background: #000;
+color: #ffd700;
+display: block;
+font-family: arial, sans;
+font-size: small;
+line-height: 1.5em;
+margin: 3em 25% 0;
+text-align: center;
+}
+
+div#navsav2 a {
+background: transparent;
+color: #ffd700;
+text-decoration: none;
+}
+
+div#navsav2 a:hover {
+background: #ffd700;
+color: #000;
+text-decoration: none;
+}
+
+/*OH0205; OH0306; OH0406; OH0506; OH0607; OH0706*/
+div.szamoz2 {
+margin: 0.5em 0 0 18%;
+}
+
+/*ul: OH0406*/
+div.szamoz2 p, ul {
+list-style: none;
+margin: 0 15%;
+text-indent: 0;
+}
+
+/*
+OH0306
+hogy kisebb felbontasban
+biztos ne folyjon bele
+a tul hosszu span.szamoz1
+*/
+div.szamoz2 p.korr1 {
+margin: 0.5em 15% 0 18%;
+text-indent: 0;
+}
+
+/*OH0204*/
+div.szamoz4 {
+margin: 0 0 2em 25%;
+}
+
+div.szamoz4 p {
+font-family: arial, sans;
+font-size: small;
+margin: 0.5em 20%;
+text-indent: 0;
+}
+
+/*OH0706*/
+div.szamoz5 {
+margin: 0.5em 20% 0 20%;
+}
+
+/*
+div.szamoz5 p {
+margin: 0;
+}*/
+
+/*OH0700*/
+div#tarto1 {
+margin: auto;
+padding: auto;
+width: 760px;
+}
+
+div#tarto1 p {
+text-indent: 0;
+}
+
+div#tarto1 p.beh1 {
+text-indent: 5%;
+}
+
+div#tarto1 p.beh2 {
+text-indent: 10%;
+}
+
+div#tarto1 p.beh2-1 {
+margin-top: 1em;
+text-indent: 10%;
+}
+
+div#tarto1 p.beh3 {
+text-indent: 15%;
+}
+
+div#tarto1 p.beh3-1 {
+margin-top: 1em;
+text-indent: 15%;
+}
+
+div#tarto1 p.beh4 {
+text-indent: 20%;
+}
+
+/*OH0702*/
+div#tarto2 {
+margin: auto;
+padding: auto;
+width: 760px;
+}
+
+div#tarto2 p {
+font-size: small;
+text-indent: 10%;
+}
+
+div#tarto2 p.beh3 {
+text-indent: 15%;
+}
+
+/*impresszumok*/
+dl {
+font-size: medium;
+margin: 1em 20%;
+}
+
+dt {
+display: list-item;
+list-style: url(kep/felsor01.png) disc;
+margin: 0.5em 0 0;
+}
+
+dd {
+font-family: arial, sans;
+font-size: small;
+margin: 0.5em 5% 0;
+}
+
+/*cikkek cime, szerzoje*/
+h1, h2 {
+font-size: large;
+font-weight: bold;
+margin: 1em 12% 0 18%;
+text-transform: uppercase;
+}
+
+/*OHxy00*/
+h1#fejlec1 {
+border-bottom: 2px solid #000;
+margin: 1em 12% 2em 18%;
+}
+
+/*cikkek szerzoje*/
+h2 {
+border-top: 2px solid #000;
+font-weight: normal;
+margin: 1em 12% 2em 18%;
+padding-top: 1em;
+}
+
+/*
+cikkben alcimek
+OH0203; OH0301; OH0305; OH0601; OH0602; OH0702
+*/
+h3 {
+font-size: medium;
+font-variant: small-caps;
+letter-spacing: 2px;
+margin: 3em 12% 2em 18%;
+text-align: center;
+word-spacing: 3px;
+}
+
+/*OH0306; OH0702; OH0805*/
+h3.fejz1 {
+font-style: italic;
+font-variant: normal;
+font-weight: normal;
+margin: 2em 12% 1em 18%;
+text-align: left;
+text-indent: 5%;
+}
+
+/*OH0306; OH0504; OH0806*/
+h3.fejz2 {
+font-style: italic;
+font-variant: normal;
+font-weight: normal;
+margin: 2em 12% 1em 18%;
+}
+
+/*OH0404*/
+h3.fejz3 {
+font-variant: normal;
+font-weight: normal;
+margin: 2em 12% 1em 18%;
+}
+
+/*OH0407; OH0506; OH0602;OH0607*/
+h3.fejz4 {
+font-size: small;
+font-variant: normal;
+text-transform: uppercase;
+}
+
+/*OH0407*/
+h3.fejz5 {
+font-style: italic;
+font-variant: normal;
+font-weight: normal;
+text-transform: capitalize;
+}
+
+/*OHxyimp*/
+h4 {
+font-size: x-large;
+font-weight: bold;
+letter-spacing: 3px;
+margin: 3em 0;
+text-align: center;
+text-transform: uppercase;
+word-spacing: 3px;
+}
+
+/*OHxyimp*/
+h5 {
+font-size: large;
+font-style: italic;
+font-weight: bold;
+letter-spacing: 0;
+margin: 2em 0 1em;
+text-align: center;
+}
+
+hr {
+color: #000;
+height: 2px;
+margin-bottom: 2em;
+margin-top: 2em;
+text-align: center;
+width: 20%;
+}
+
+img {
+border: 0;
+padding: 10px;
+vertical-align: middle;
+}
+
+img a, a:link, a:visited, a:hover, a:active {
+backrgound: transparent;
+color: #000;
+text-decoration: none;
+}
+
+/*img.abra2 p-ben kozepre*/
+.abra {
+margin: 2em 0;
+text-align: center;
+text-indent: 0;
+}
+
+/*
+autoszamozas:
+http://my.opera.com/dev/articles/20030519/#exnumimg
+vagy
+http://www.markschenk.com/cssexp/publication/article.xml#exnumimg
+OH0103
+*/
+img.abra2:after {
+border: 0 none inherit;
+content: counter(kep) ". kép: " attr(alt);
+counter-increment: kep;
+display: block;
+font-family: sans-serif;
+font-size: x-small;
+font-weight: bold;
+margin: 0.5em 0 0;
+text-align: center;
+}
+
+/*OH0305; OH0406*/
+.abra3:after {
+border: 0 none inherit;
+content: counter(abra) ". ábra: " attr(alt);
+counter-increment: abra;
+display: block;
+font-family: arial, sans-serif;
+font-size: x-small;
+margin-left: 30%;
+margin-right: 25%;
+margin-top: 0.5em;
+text-indent: -5%;
+}
+
+p {
+font-size: medium;
+line-height: 130%;
+margin: 0 12% 0 18%;
+text-align: justify;
+text-indent: 3%;
+}
+
+ol {
+font-size: medium;
+margin: 0 12% 0 18%;
+text-align: justify;
+text-indent: 4%;
+}
+
+/*OH0101*/
+li.fels1 {
+list-style: disc url(kep/felsor01.png) inside;
+}
+
+/*OH0406*/
+li.fels2 {
+list-style: outside;
+list-style-type: none;
+margin: 0 0 0 10%;
+text-indent: 0;
+}
+
+li.fels2:before {
+content: counter(lista, lower-alpha);
+counter-increment: lista/*lower-alpha*/;
+}
+
+/*OH0504*/
+li.fels3 {
+margin-left: 5%;
+list-style: outside decimal;
+text-indent: 0;
+}
+
+/*OH0305*/
+p.bibl1 {
+margin-bottom: 0.5em;
+text-indent: 0;
+}
+
+/*bekezdesek kozotti hatarolo*/
+p.elval1 {
+font-weight: bold;
+margin-top: 2em;
+margin-bottom: 2em;
+text-align: center;
+text-indent: 0;
+}
+
+/*tavolitott bekezdes elotte*/
+p.elval2 {
+margin-top: 1em;
+}
+
+/*cikk vegen a hatarolo csillagok v. keresztek*/
+p.elval3 {
+font-weight: bold;
+letter-spacing: 20px;
+margin-top: 2em;
+margin-bottom: 2em;
+text-align: center;
+text-indent: 0;
+}
+
+/*tavolitott bekezdes utana*/
+p.elval4 {
+margin-bottom: 1em;
+}
+
+/*koztes tavolitott bekezdes*/
+p.elval5 {
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+/*OH0204; OH0306; OH0404; OH0406; OH0602; OH0702*/
+p.idez1 {
+font-family: arial, sans;
+font-size: small;
+margin: 0 14% 0 20%;
+text-indent: 2%;
+}
+
+p.labjegyzet {
+border-top: 2px solid #000;
+font-size: small;
+font-weight: bold;
+margin: 3em 18% 1.5em 23%;
+text-align: left;
+text-indent: 0;
+}
+
+p.labj {
+font-size: small;
+margin: 0.5em 18% 0 23%;
+text-indent: 0;
+}
+
+.labjhiv {
+color: red;
+font-size: x-small;
+line-height: 125%;
+text-decoration: none;
+vertical-align: super;
+}
+
+/*imp*/
+p.megj2 {
+font-size: medium;
+margin: 1em 20% 0;
+text-indent: 0;
+}
+
+/*imp*/
+p.megj3 {
+font-size: small;
+margin: 1em 25% 0 0;
+text-align: right;
+}
+
+/*h2 és motszarm1 kozott*/
+p.motto1 {
+font-size: small;
+margin: 0 12% 0 24%;
+text-indent: 3%;
+}
+
+/*a cikkek vegen*/
+p.motto2 {
+font-style: italic;
+text-align: left;
+text-indent: 0;
+}
+
+/*OH0100*/
+p.motto3 {
+text-indent: 0;
+}
+
+/*OH0105; OH0403; OH0503; OH0504*/
+p.motto4 {
+font-style: italic;
+margin: 0 12% 0 45%;
+text-indent: 0;
+}
+
+/*OH0105*/
+p.motto5 {
+margin: 0 12% 0.5em 45%;
+text-indent: 0;
+}
+
+/*OH0304; OH0407; OH0504*/
+p.motto6 {
+font-style: italic;
+margin: 0 14% 0 55%;
+text-indent: 0;
+}
+
+/*OH0304; OH0504*/
+p.motto6a {
+font-style: italic;
+margin: 1em 14% 0 55%;
+text-indent: 0;
+}
+
+/*OH0304; OH0504*/
+p.motto6z {
+font-style: italic;
+margin: 0 14% 1em 55%;
+text-indent: 0;
+}
+
+/*OH0407; OH0504*/
+p.motto7 {
+margin: 0 14% 0 40%;
+text-indent: 0;
+}
+
+/*OH0405*/
+p.motto8 {
+margin: 0 14% 0 45%;
+text-indent: 0;
+}
+
+/*OH0501; OH0805*/
+p.motto9 {
+font-size: small;
+margin: 1em 16% 2em;
+text-align: right;
+}
+
+/*OH0905*/
+p.motto10 {
+font-style: italic;
+margin: 1em 12% 3em 18%;
+text-align: right;
+}
+
+/*OH0905*/
+p.motto11 {
+font-style: italic;
+margin: 0 12% 0 30%;
+}
+
+/*motto1 utan*/
+p.motszarm1 {
+font-size: small;
+margin: 0.5em 15% 2em 50%;
+text-indent: 0;
+}
+
+/*motto2 utan*/
+p.motszarm2 {
+font-style: italic;
+margin: 1em 20% 3em 45%;
+text-indent: 0;
+}
+
+/*motto3 utan*/
+p.motszarm3 {
+margin: 0.5em 23% 2em 55%;
+text-indent: 0;
+}
+
+/*motto4 utan*/
+p.motszarm4 {
+font-style: italic;
+margin: 0.5em 23% 2em 55%;
+text-indent: 0;
+}
+
+/*motto8 utan*/
+p.motszarm8 {
+margin: 0 14% 3em 45%;
+text-indent: 0;
+}
+
+/*cikkek vegen szerzo, fordito*/
+p.szerz {
+font-style: italic;
+margin: 2em 20%;
+text-align: right;
+}
+
+/*OH0205; OH0306; OH0406; OH0506; OH0607; OH0706*/
+span.szamoz1 {
+clear: left;
+float: left;
+font-size: medium;
+margin-left: 18%;
+margin-top: 0.5em;
+width: 10%;
+}
+
+/*OH0204*/
+span.szamoz3 {
+clear: left;
+float: left;
+font-family: arial, sans;
+font-size: small;
+margin-left: 20%;
+width: 20%;
+}
+
+table {
+background: transparent;
+border: 0;
+border-collapse: collapse;
+color: #000;
+display: table;
+margin: auto;
+padding: auto;
+}
+
+td {
+background: transparent;
+display: table-cell;
+vertical-align: top;
+}
+
+/*OH0603*/
+table.age1 {
+margin-top: 1.5em;
+margin-bottom: 1.5em;
+}
+
+table.age1 td {
+padding: 2px 10px;
+}
+
+/*OH0306*/
+table#osszegz {
+margin: 0 17% 0 23%;
+}
+
+table#osszegz td {
+border: 0;
+font-size: medium;
+width: 30%;
+}
+
+/*OH0605*/
+table.osszegz2 {
+border: 1px solid #000;
+margin-bottom: 1em;
+margin-top: 1em;
+}
+
+table.osszegz2 th, td {
+border: 1px solid #000;
+font-size: small;
+padding: 2px;
+text-align: left;
+}
+
+/*OH0805*/
+table#tarot {
+margin: 0.5em 20%;
+}
+
+table#tarot td {
+border: 0;
+}
+
+/*OH0204*/
+table#zoo {
+border: 1px #000 solid;
+border-collapse: separate;
+margin-bottom: 1.5em;
+}
+
+table#zoo caption {
+border: 1px #000 solid;
+border-bottom: 0;
+font-family: arial, sans;
+font-size: small;
+font-weight: bold;
+margin-top: 1em;
+padding: 3px;
+}
+
+table#zoo th {
+border: 1px #000 solid;
+font-size: small;
+font-weight: bold;
+text-transform: none;
+}
+
+table#zoo td {
+border: 1px #000 solid;
+font-size: small;
+padding: 2px;
+white-space: no-wrap;
+}
+
+table#zoo td p {
+font-size: small;
+margin-left: 2%;
+text-indent: 0;
+}
+
+/*OH0406*/
+table#zoo2 {
+border-bottom: 1px #000 solid;
+margin-bottom: 2em;
+margin-top: 2em;
+}
+
+table#zoo2 th {
+border-bottom: 1px #000 solid;
+border-top: 1px #000 solid;
+font-weight: bold;
+}
+
+table#zoo2 td {
+padding-left: 10%;
+text-align: left;
+}
+
+/*OH0204; OH0205; OH0304; OH0306; OH0404; OH0506; OH0605; OH0903*/
+.kiem1 {
+text-align: center;
+}
+
+/*navcikk; OH0204; OH0304; OH0605*/
+.kiem2 {
+float: left;
+}
+
+/*OH0603*/
+.kiem3 {
+border-top: 1px solid #000;
+}
+
+.kiem4 {
+float: right;
+}
+
+/*OH0706*/
+.kiem5 {
+text-indent: 10%;
+}
