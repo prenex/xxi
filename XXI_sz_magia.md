@@ -1837,9 +1837,41 @@ az emberiség megint csak elfelejt tanulni, megint csak rosszat tanul...
 <span id="anchor-425"></span>A Magyar nyelv csodája
 --------------------------------------------------
 
+Amit itt most a nyelvről írunk, az egy nagyon mély csoda, vagy az emberré
+váláshoz tartozik, hogy így alakult, tehát az ember testi-lelki-szellemi
+sajátja és a belső logika szerint így kell legyen (pl. hangképzés), vagy
+amennyiben és amikor nem - de mégis például más nyelvek közt és a Magyar
+szóbokrok közt olyat tapasztalunk, hogy "értjük" a gondolatcsokrot és a
+kifejezéseket Magyarul is - akkor tán a gondviselést magát is látjuk,
+azt, hogy ilyennek teremtetett és tartott a Magyar nyelv, ami egy beavató
+nyelv, titkok előhozásának nyelve, a megértés, érzékelés, átérzés és a
+fel-fog-ás, meg-fog-ás, meg-RAG-ad-ás nyelve.
+
+Általa megannyi dolog érthető. Tudhatjuk miért alma az édeni jó és rossz
+tudás fája: hogy aki foggal beleharap, annak legyen fog-alma. De azt is,
+hogy iSTeN és SáTáN az a magas és alacsony energián, módon működtése az
+S-T-N hármasságnak. Tudjuk ki "Éli" és nem értjük félre Éliás-nak, azaz
+Illésnek, mert értjük, hogy az Élet maga, ami az Életet Éli. De azt is így
+tudjuk, hogy a fizikában a "felhő" maga az, ami a hő hatására felpárolog.
+
+Ez igaz a szavak szintjén, de a nyelv többi részében is, mint az, hogy
+nincs nemekhez kötött kinek tevékenységéről beszélünk, vagy miről (ő),
+vagy a szórendet nem valami vaskos szabály, hanem aszerint alakítjuk,
+hogy mit akarunk ELSŐ-sorban hangsúlyozni (ez lesz előrébb).
+
+A bibliából és a vallási szövegekből is értjük, hogyan leszünk Test-vér
+Jézussal, ha esszük a testét és isszuk a vérét - méghozzá téve ezt egy
+mondhatni megszokott Szkíta vérszerződés kereteiben, de azon is így
+elgondolkozunk, hogy "ha CSAK annyi hit lenne bennünk, mint egy mustár
+mag, akkor hegyeket tudnánk megmozgatni" alatt vajon nem-e inkább arról
+van szó, hogy "sok" (de gyenge) hit helyett kicsiny, összegyűjtött,
+magszerű és erőteljes - de eközben szelíd - hit lenne a hegymozgató, míg
+eközben a világ nagy része ezt úgy érti, hogy több és több hit kell,
+nem pedig a mélysége számít, nem a magva - az igazság magva...
+
 ### <span id="anchor-426"></span>Alapjellemzők
 
-A Magyar nyelv az egyik legfontosabb eszközünk a világosság és a világ, 
+A Magyar nyelv így az egyik legfontosabb eszközünk a világosság és a világ, 
 illetve a mindenség megértéséhez. Nem csak nagyon régi és ragozó nyelv, 
 de minden szinten értelem szövi át, ezáltal pedig a szavak nem csak 
 megtanulandó hangsorok, hanem olyan módon rendezett hangsorok, mely 
@@ -2525,6 +2557,26 @@ olyan gyorsan vágtatunk a mezőn, hogy a ló patája szinte "vágtázza"
 ki a földdarabokat abból. Ha sebesen vágtáztunk, akkor pedig könnyen 
 meglehet, hogy a végén szó szerint kezelhetjük a szegény ló sebeit.
 
+### <span id="anchor-431"></span>Művész, bűvész, színművész
+
+ A mű (nem igazi / mű mint alkotás) nem csak művel, hanem például "míves" alakban is látható. Tehát az a V ott hasonló szerepet tölt be.
+Szerintem nem csak ejtési szerepe van a hangnak ott - bár kétség kívül van neki ejtési szerepe nagyon is!
+A bűvész esetén bűv-ölet, bűv-öl stb. alapjelentésből szerintem sokkal közelebb van a történet az alapjához. A bűv-ölés pedig véleményem szerint a "bő" (mint bőség) alapból jön. Tehát ott a V-nek nem csak ejtési, hanem jelentés tartalmát is látom / érzem.
+Azt, hogy önmagában véve a hang milyen jelentéskört jelent én úgy szoktam elemezni, hogy "milyen szavak / ragok / egyéb alapvető dolgok kezdődnek vele?"
+
+1. -val, -vel ragozás. Vegyük észre, hogy asztallal esetén valószínűbb az asztalval hasonlulása, mint a "v megjelenése" amikor hagyományosan írjuk és nem hasonulva!
+2. Vés, Vész, Vő, Vej, Vág, Vád, Vad, Vágy, Váj, Vak, Vakolat, Vál-(változás, válik, elválaszt)
+
+^^A vő esetét kivéve itt a jelentést mindig befolyásolja a megjelenő másik hang!
+
+Ha most nagyon le akarnám egyszerűsíteni, akkor a V+L mássalhangzóváz jelentéstartalma jól leírható a fenti esetekben a "val-val" és a "vál" (mint változás) kettő hatásával. Tehát aki bű-völ az bű (lásd még bűn, bál-vány stb. is) a bőségvel dolgozik, és azt műveli, abban hoz változást. Innen a bűvész már könnyen levezethető.
+
+A művész is inkább a "művelő"-n keresztül érthető. Változtatja a művet és a mű-vel dolgozik közben. Sokkal jelentőségteljesebb kérdés például a "művi" szó esete (művi módon eltávolították a vakbelét) például, mert ott a "v" hang magában áll és így az ejtés-segítő szerepe is sokkal erőteljesebb és tényleg kicsit rámutat, hogy az a "v" szinte magától megjelenik ha kiejtenénk, hogy "műi" módon - ahhoz hasonlatosan, ahogy a "női" kiejtésekor könnyen "nőji" szó keletkezik például. Ezért valóban van szerepe a magánhangzóknak is abban, hogy ejtéskönnyítéskor milyen mássalhangzó kötőhang tud odakerülni ejtéskor / mivel téveszthető össze. De hiszen ez maga a mássalhangzóság egyik tulajdonsága: a magánhangzók kötése is tulajdonság - nem csak mássalhangzó-vázat lehet magánhangzókkal "kiegészíteni", hanem láthatóan magánhangzók kötését fordítva is lehet oldani ezzel és ott is felfedezni vélek szabályokat most!
+
+Ha pedig arról az alakról akarunk beszélni, ami az "épít-ész" formájára a "műv-ész" esetén előfordul és nem a "v" hangról, akkor az szerintem nyelvújításbeli változás a nyelvben és régebben érzésem szerint inkább az épít-ő alak volt használatban. Ez utóbbinál "ő" (mint én, te, ő) aki épít - lásd még "es-ő", tehát "ő aki es(-ik)". A nyelvújított forma első ránézésre kevésbé beszélő, de mégsem teljesen alaptalan. Hiszen az építész "építé" fel az épületet és az sz-s váltóhangon keresztül olyan nyelvtani szerkezetekhez is hasonlatos, mint a vasút-as (épület-es, épít(ő)-es).
+
+Amikor a "v" hang hasonló beiktatását keressük, ott van például még a "füvész" is, ami a fű szóból ered, de emlékezzünk, hogy a "füves" - tehát így, mint a gyógyfüves ember - az egy régi kifejezés viszont. Szóval egyáltalán nem légből kapott és nem nagyon szerkezetrontó a későbbi kifejezés sem a nyelvünkben.
+
 ### <span id="anchor-433"></span>Ige, Igen, Ég, Akar, ak-, -ik, Isten, Sátán, Igaz, Gaz
 
 TODO: kapcsolat az akar, ak-, -ik konstrukciókkal
@@ -2600,7 +2652,26 @@ TODO - Bibliából: Ez az én testem...ez az én vérem... eközben testvéri fo
 TODO: Megemlíteni az első példához tartozóan kik és mely népek vannak felsorolva - ne csodálkozzunk.
 TODO: Az említett Éli-Éli idézet
 
-### <span id="anchor-439"></span>Néhány Külföldi-Magyar szóegyezés, némely történeti és helynevek részleges elemzése
+### <span id="anchor-439"></span>Színek és jelentésük
+
+* Sárga: SÁR-ga, azaz "sárszínmű". A szóbokorba tartozik még például a "szar", de még áttételesen olyan szavak is, mint a szűr, szer, csel. A ragasztás az alapjelentés (lásd szer-ződés) és annak ellentétpontja is ki tud a szóbokorból alakítani (leszűrni, vagyis megbontani két részre). A csel, mint a csapdába csal-ás már távolian kapcsolódik, mint a lépre csaláskor és ahogy a csalogatásnál a természetes állapotból - mint a szűrés esetén is - leválasztásra kerül mondjuk egy vad. Lásd még: Sárkány (sőt: Ser-pent).
+
+* Piros: vérszínű, lásd vörös
+
+* Kék: ég-szín. A külső ég színe.
+
+* Arany: Az arany színe és az anyag neve is az "úr" szókezdettel indul. Ide kapcsolódik továbbá az "arány" is (lásd arany középút is egy arányról szól).
+
+* Ezüst: Érdekes módon az "ész" szóval rokon. Ahogy az arany az úrral, a bölcsességgel és erővel, úgy az ezüst az ésszel.
+
+* Szürke: Mikor látni ilyet? Szürkületnél? Erdők mélyén? Amikor a fényt valami megszűrte! Szűr-ke.
+
+* Bíbor: Lásd például "Bibe" (virág belső része). Kicsit kellemetlenebb értelmében: Báb-úr.
+
+* Zöld: Szőlő, Szól-ás - tehát mint a népmesében a szóló szőlő, a zöld szín a természet "szava" és nyelve is, az életet szólítja. A szél (nem csak a szél fúvása, hanem valaminek a szél-e). Továbbá száll is - akár majd később, amikor a levél hullik egyszer! De a lev-él a lev-egőben sem csak "száll" vagyis leb-eg, hanem akkor is száll (mint a szálló/álló zászló) amíg a növényen zölden rajta van.
+
+
+### <span id="anchor-440"></span>Néhány Külföldi-Magyar szóegyezés, némely történeti és helynevek részleges elemzése
 
 TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné válni.
 
@@ -2685,6 +2756,8 @@ TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné v�
 * Bulgar - Bolgár - polgár - Volga.("Volgár? Volga-úr?" azaz "volgavidéki"?)
 
 * Küdük - Kettő(k) / Kettük - Törökös nyelven "viszonyt" fejez ki.
+
+* Sauna - Samas, Csoma, csomó - a kőhalomról lehet. Érdekes, de a finnek magukat "suomi"-nak hívják (számi-nak), pedig elvileg ők pont a számikat űzték el a területről északabbra... A népnév érdekes, de a szumír / sumír megjelenési formája eredetileg.
 
 A vélt-valós egyezéseket sorolhatnánk napestig, de ezeket csupán azért 
 szerepeltettük, hogy látszódjék: néha a szógyök egyezés még teljesen 
@@ -2795,7 +2868,9 @@ hogy például a "[nem]" az itt egy fordítói betoldás. Lehetséges, hogy kés
 így tehát a Magyar eredettörténet szálaihoz a Biblia anyagát? Látható, hogy 
 a krónika írója az egységesítéskor Nimródnál az ószövetséggel megy szembe.
 
-### <span id="anchor-439"></span>Néhány közelebbi nyelv (Sumér, Türk, Uráli, stb.) egyezései
+### <span id="anchor-441"></span>Néhány közelebbi nyelv (Sumér, Türk, Uráli, Szkíta, stb.) egyezései
+
+Thargithaosz: Az ókori történetíró szerint a Szkíták ős-atyja, akinek gyermekei közt három aranytárgy megosztatik. Ez a szó vegyük észre, hogy a "Hargita" hegy nevében ma is megtalálható (elhagyva az -osz görögös végződést). Érdekesség továbbá, hogy az eredetmonda leírását követően azonnal egy "másik változatát" is halljuk, miszerint Heraklész (Herkules) volt a Szkíták ősatyja, aki egyik kalandjában arra lovagolt és arra kelt, hogy a lovait mind egy szálig ellopták. Hát kereste azokat és egy barlanghoz talált, egy kígyó-asszonyhoz, aki előadta, hogy márpedig a lovai igen is nála vannak - de odaadja őket, ha vele hál. Tőle született három fiú, kik a Szkíták három törzse, de Heraklész hazatért évekkel később és anyjuk a gyerekeknek kérdezte mi legyen hát velük: arra mondta, hogy amely az arany övét, az ő arany kését és ivócsészéjét is a legjobban tudja használni, az legyen a király és belőlük lettek a "királyi szkíták", a másik kettő pedig agathürszök és egyéb szkíták nemzetségei. Itt a nő lépre csalása egyfajta udvarlás, ha úgy tetszik "tesztelés" volt az illető hős képességeit illetően. Itt meg is állhatunk és megállapíthatjuk, hogy a görögök hérosza - azaz "hírese", mert hiszen a híró a hír szóból jön - tehát Szkíta / Magyar eredetű és valószínűen Erdély közelében élt, vagy legalábbis hosszabb időt eltöltött eredetileg, a görögök pedig innét szereztek tudomást róla. A neve pedig egyszerre jelent haragvást ha negatív oldaláról közelítjük, de hír-ességet, hírhedtséget, sőt a hír hozását is jelenti - sőt még a "here"-séget is, tehát megtermékenyítőt. Külön érdekesség, hogy ott a nő csalja magához (kígyóként - vagyis csalárd mód, ügyeskedve) és ősatyjává teszi Szkíta törzseknek, mint ahogy dolgozók, herék és királynő ismerjük ezt a felállást a méhek esetében is. Az már csak hab a tortán, hogy a Szépmező Szárnya, aki "jel alatt született" - méghozzá "hős" (hérosz) tulajdonsággal is - az Puszta király három gyermeke közül a legkisebb, csak úgy, mint a Hérodotosz-féle Szkíta eredettörténetben Heraklész fiai
 
  Magyar: megy [a tő alapalakja men-]
 * Régi ujgur: mün- (lovagol, felmegy) – pl. at müntük (lovagoltunk) -, maŋ (lépés)
@@ -2872,7 +2947,7 @@ jegyében az ország fele "villamosnak" a másik fele "áramosnak" nevezné
 ugyanazt a járművet és mind a kettő mondjuk fenn is marad közhasználatban.
 Ettől függetlenül nem lesz véletlen a más szavakkal való kapcsolatuk.
 
-### <span id="anchor-441"></span>A jelentésgyök fogalma és a hangok jelentésgyökökhöz kötődése
+### <span id="anchor-442"></span>A jelentésgyök fogalma és a hangok jelentésgyökökhöz kötődése
 
 Most nézzük meg még egy példát Lukácsy Kristóftól "A magyarok őselei, 
 hajdankori nevei és lakhelyei" c. művéből, ami például vitatott (többek közt):
@@ -2986,7 +3061,7 @@ vizsgálata különféle rokonítható szavak esetében (hiszen elől van a hang
 Könnyen találhatunk hasonló kapcsolatokat több ilyen korai műben és bár nem 
 hiba nélküliek, de óvatosan kell bánni mindenféle érdemük teljes elvételében!
 
-### <span id="anchor-441"></span>Egyéb példák
+### <span id="anchor-443"></span>Egyéb példák
 
 Nézzük meg az óriás szavunkat is. Az eddigiek alapján itt az "erő" szóval és 
 az "úr" szóval rokon alapvetően szógyököt látunk első ránézésre, ám érdemes a 
