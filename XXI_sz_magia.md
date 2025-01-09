@@ -2025,6 +2025,20 @@ Ezen hangkategóriák tehát:
 
 7. X - Y - Q - W: "Idegen" hangkategória (G)
 
+Egy másik érdekes (bár a nyelvpörgetéshez csak áttvitt módon kapcsolható) kategórizálás:
+
+1. Hosszan ejthető: (S, Sz, R, F, H), V, Z, Zs, iJ, eL, eM, eN, Cs, W
+
+2. Egyszer ejthető: B, P, D, T, Ty, K, G, Gy, Ny, C, X, Y, Q
+
+Itt nem arról van csupán szó, hogy "bár mássalhangzók, de magukban is hangoztathatók-e", mert
+ezt csupán a "hosszan ejthető" hangok első alkategóriájára mondhatjuk így ki (lásd zárójel).
+
+Ha adni is kell valami magánhangzó, vagy magánhangzó-jellegű hangot közben, akkor is lehet
+lényegében az idők végezetéig hallatni az adott kategóriába eső hangot, míg az egyszer ejthetőket nem igazán...
+
+Ez az utóbbi kategorizálás inkább abban hasznos, hogy esetleg segíthet megérteni az egyes hangok önmagában vett jelentését
+és a szavakban emiatt előforduló szerepeik - de ez másodlagos a fenti hangkategóriákhoz képest!
 
 Megjegyzések / átjárások:
 
