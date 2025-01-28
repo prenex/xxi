@@ -1,4 +1,4 @@
-​ @csebal  @garfield584 Egyben válaszolok, mert mindketten egy témáről beszéltek más nézőpontból.
+@csebal  @garfield584 Egyben válaszolok, mert mindketten egy témáről beszéltek más nézőpontból.
 
 > Egy halom elágazás, egy döntési fa is tűnhet intelligensnek, ha a megfelelő kérdéseket teszed fel neki, de soha nem fog újat/eredetit létrehozni.
 
