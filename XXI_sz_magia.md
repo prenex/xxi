@@ -1,3 +1,7 @@
+Mi a különbség a népszerűség meg a vezetés között?
+
+A népszerű embert ma szeretik, holnap felejtik.
+A vezetőt ma vitatják, holnap hiányolják.
 
 % Az utolsó aranymag – a fehér ló útján
 
@@ -310,12 +314,12 @@ mindig volt aki kibírta állva - hát most jól figyelj a tanulságra.
 	Ha van füled hallod,
 	Ha szemed hát látod,
 	Vágtassál mivélünk,
-	Rá termettél, látod!
+	Rá teremtél, látod!
 
 	Halld az öreg szavát,
-	Add hozzá szívedet,
+	Add hozzá a szíved,
 	Tisztasággal kérlek,
-	Teremts újra minket!
+	Teremts újra mindet!
 
 <span id="anchor-40"></span>Ami tudvalevő a mindenségről
 =======================================================
@@ -339,6 +343,71 @@ Amikor tisztán látsz és ezt meggondolod, akkor majd életed adósságát
 siratod. Amint magadat feladod, amint magad választását az éghez szabod
 – remélve, hogy így legalább egy részét talán megkapod – akkor veted el
 csak igaz emberként a magot. Addig minden nap van mit takarítanod.
+
+<span id="anchor-55"></span>Az igazság
+--------------------------------------
+
+    Kerestem az igazságot - Kerestem a lényeget
+    Kerestem a hazugságot - Szerettem az életet
+    Kerestem az igazságot - Kerültem a tévedést
+
+
+Azt mondják egyesek, az Igazság és hazugság csak az emberi gondolkodásban
+létezik. A világon csak igazság van, és a hazugság, vagy a tévedés csak
+abból fakad, hogy vannak olyan dolgok, amikről nincs információnk,
+vagy téves információnk van róla, esetleg valaki nem jól tájékoztatott.
+Például egy bolygó mindig ott van, ahol van, legfeljebb mi tudjuk rosszul,
+hogy hol van. Mások azt mondják "sok igazság van", mindenkinek a sajátja.
+
+Én pedig azt mondom, a világban létező abszolút igazság (amit nem pontosan
+ismerünk) valóban létezik, keresendő, közelítendő, de a nézőpont sok!
+
+De amit talán kiemelnék, természetesen más dolog a hazugság és a tévedés, mert
+a hazugság asszimetrikus, az egyik fél nem "rosszul tudja" - nagyon is jól
+tudja és azt szeretné, hogy a másik valamiért "ne úgy tudja", vagy "ne tudja".
+
+Az állatvilágban is bőven vannak ilyen hazugságok, ha úgy tetszik átverések;
+elég csak az "álszem" mintákra gondolni, vagy arra miként épít több madár
+ál-fészket, vagy ál-bejáratot a fészekhez és rejti el úgy fiókákat, hogy
+leteszi a könnyen elérhető "fals" lyukat ahova bemegy a kígyó és azt hiszi,
+hogy a fészek üres.
+
+A ragadozó ezeknél persze ha teljes, nem hiányos információkkal lenne ellátva,
+akkor nem menne félre, de a tudatos félrevezetés és a mindenség egyetlen egy
+igazságától távolítás egy külön elem itt. Az igazságtól eltérés tehát nem
+csupán információs hiánygazdálkodás eredménye lehet természetesen.
+
+Érdekes megfigyelni a Magyar nyelvet is, mert tanulságos. Később több ilyen
+úgynevezett nyelvpörgetést fogunk végezni, de előre legyen elég az, hogy
+jó ha megfigyeljük, hogy az "igaz" ember nem csak "igazsággal rendelkező"
+ember például a bibliában sem, hanem kicsit szinonímnak tűnik ott a "jóság"
+egy formájával. A nyelvünkön az "igaz" ugyebár rokon az "ige" szóval (IGÉS,
+"az igével egy", vagyis a mindenséget teremtő igével egy). Az is érdekes,
+hogy az "igen" szó is ide jön s más nyelveken nem mindig van ilyen kapcsolat
+például az angol true és yes nem hangzik hasonlóan, mint az "igaz" és "igen".
+
+Ebből is látszik a "valósággal való szoros kapcsolat". Az is érdekes, hogy
+igazodás - ami ha lebontod a ragozás szerint, akár "igazzá levést" jelentene,
+mégis eligazodást, út-találást jelent, esetleg igazodási pontot.
+
+Ide tartozik az IGA szó is, amely eredeti jelentésében nem az ökör szerszáma,
+ami húzza az igát, hanem két dolog össze-alkotásának jelentése, összekötő
+szerepő szó volt. Tehát így az állatot hozzá kötöd ahhoz, amit húz. Később
+már csak ez a jelentés ment tovább, ezért ma ehhez kötjük. Lásd még "-IG" rag
+amikor ragozol. Tehát "ez a terület az enyém és elterül a szomszéd szőlők-IG",
+vagy épp "a létra felér a tető-IG".
+
+Továbbá kapcsolódik ezen szóbokorral az "így" szóhoz is. Tehát megint csak a
+"valóság igazságával".
+
+Ezekre Magyar nyelven gondolkozva igazából, igen-is igen könnyű rájönni, de
+hátrányból indulnak az indo-európai anyanyelvűek, ahol ezek nem alkotnak egy
+jelentésben ÉS ejtésben is közös szóbokrot, tehát nem "szembeötlő" a kapcsolat.
+Ezért beszélnek "kinek mi a saját igazsága", a truth így nem az abszolútnak
+hangzik nyelvileg, "csak egy szó". De ugye Magyarul az igaz, maga a teremtő
+ige, ami a térkitöltés-IG ott van mindenhol is - méghozzá pont "úgy", a-hogy
+(aképp hogy) lennie kell, csak EGY van belőle és nem több, nem a föld a hona,
+hanem az ÉG és ha megigéz lehet hogy épp a valót látod saját szemmel. 😉
 
 <span id="anchor-60"></span>Az univerzum és a világ
 --------------------------------------------------
@@ -2027,9 +2096,9 @@ Ezen hangkategóriák tehát:
 
 Egy másik érdekes (bár a nyelvpörgetéshez csak áttvitt módon kapcsolható) kategórizálás:
 
-1. Hosszan ejthető: (S, Sz, R, F, H), V, Z, Zs, iJ, eL, eM, eN, Cs, W
+1. Hosszan ejthető: (S, Sz, R, F, H), V, Z, Zs, iJ, eL, eM, eN, Cs; W
 
-2. Egyszer ejthető: B, P, D, T, Ty, K, G, Gy, Ny, C, X, Y, Q
+2. Egyszer ejthető: B, P, D, T, Ty, K, G, Gy, Ny, C; X, Y, Q
 
 Itt nem arról van csupán szó, hogy "bár mássalhangzók, de magukban is hangoztathatók-e", mert
 ezt csupán a "hosszan ejthető" hangok első alkategóriájára mondhatjuk így ki (lásd zárójel).
