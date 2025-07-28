@@ -3030,6 +3030,13 @@ jegyében az ország fele "villamosnak" a másik fele "áramosnak" nevezné
 ugyanazt a járművet és mind a kettő mondjuk fenn is marad közhasználatban.
 Ettől függetlenül nem lesz véletlen a más szavakkal való kapcsolatuk.
 
+További példák:
+
+* Marketplace: Melkart-placc, Melkart-palota, Melkárt ugyanis pun / főniciai hajós és kereskedőnép, a hajóskereskedelem "védő Istene" így.
+* placc / plate: P-F és T-D hangváltásokkal a Magyar "föld" (tehát a talajon kijelölt terület) szó!
+* feld: föld
+* casa, house, hus, hota, stb.: ez mind a "ház" szóból jön!
+
 ### <span id="anchor-442"></span>A jelentésgyök fogalma és a hangok jelentésgyökökhöz kötődése
 
 Most nézzük meg még egy példát Lukácsy Kristóftól "A magyarok őselei, 
@@ -3208,7 +3215,63 @@ van szabva, vagyis mint a szabó munkájának eredménye a ruha, össze van szab
 
 Figyeljünk ezekre az apró, ám igen nyílvánvaló szókapcsolatokra!
 
-<span id="anchor-445"></span>Vallásokról és hitről
+### <span id="anchor-447"></span>A nyelvtörténet kutatások különféle torzulásai
+
+Egy-két szót itt meg kell ejtenünk arról a jelenségről, hogy akárcsak a történelem esetén, a nyelvek és az ő történetük is sokszor nagyon rosszul feldolgozott, rosszul feltárt féligazságokkal telített.
+
+Csak, hogy egy példát mondjak minderre, nem régen voltam Máriaradnán. Szent zarándokhely, egy Bosnyák kereskedő által adományozott Mária-oltárképpel, melyen nem fogott a tűz, midőn a török leégette a helyet. Érdedkes a története, szép a kegyhely, de itt most egy furcsaságot kiemelnék a "Temesvári római katolikus egyházmegye" hivatalos oldaláról:
+
+    "1767-ben a radnai új templom építése már annyira előrehaladt, hogy pünkösdkor,
+    június 9-én a csodatevő kegyképet elhelyezhették az új főoltár fölött. Fontos
+    megjegyezni, hogy aznap kora reggeltől kezdve hat nyelven hangzottak el
+    szentbeszédek: németül, magyarul, illírül, horvátul, románul és örményül."
+
+Illír nyelven. Érdekes, mert "hivatásosok" szerint több mint ezer éve kihalt nyelv - ellenben
+érdekes módon pont Magyar forrásból fennmaradt egy Ferences Illír-Latin szótár, amit persze
+rögtön Horvát-Latinnak mondanak annak ellenére mi a címe - holott láthatjuk, hogy az Illír és
+a Horvát között különbséget tesznek.
+
+Ilyen esetekben azt, hogy "mi mondjuk az Illír nyelv" hasonlóan szövevényes lehet meghatározni,
+mint akár azt, hogy mi a Hun nyelv, vagy akár államalakulat - de mégis mindkettőnél nagyon sok
+valós és régebben írt forrást valahogy "hanyagolnak". Meglehet, hogy ezek egy része valóban fals,
+de ne tegyünk úgy, mintha minden nyitott kérdés valami "véletlen tévedés" volna!
+
+A legújabb próbálkozások ezen a téren már egészen odáig mennek, hogy olyanokat mernek egyesek
+állítani, hogy az archeogenetikai eredmények és a nyelvek terjedése teljesen kapcsolatmentes
+kell legyen - tehát hiába tárjuk fel természettudományos módon a vérségi viszonyokat, a nyelvi
+terjedésről ez nem ad információt. Hogy miért nem - azt nem is nagyon indokolják.
+
+Holott nagyon is követhető lehet például a Magyar nyelv archeogenetikai szemmel is, ha elég a
+minták száma. Mondjuk ne is nézzük a sztyeppét, egyszerűen tekintsünk Erdélyre: Ha meghatározható
+ugyanis admixture összetételben a valóban tudott Székely etnikum, ez visszakövethető mondjuk
+legalább a 9-10. századig, vagy akár 12.-ik századig, majd láthatóan Erdélyben ez dominál és
+a Tatár-Török háborúk után egy új, korábban még a balkánon megjelenő népelem admixture jelenik
+meg nem is nagyon keveredő sírokban - akkor tudható lehet, hogy kinek honnan mind a származása,
+mind pedig a nyelve. Ne tegyünk úgy, hogy ne lehetne a nyelvi kutatáshoz tehát a természettudományos
+igényességű archeogenetikát, a régészetet, a kulturális pl. temetkezési szokásokat és az egyéb
+népmozgás indikátorokat felhasználni. Különösen ne tegyünk így, annak fényében, hogy sok nyelvész
+csak úgy hasraütés-szerűen alakít ki hipotetikus "köztes" nyelveket, vagy "közös ősöket" minden
+valós bizonyíték nélkül, csupán logikai levezetéssel (nem elvitatva a levezetés hasznosságát!)
+
+Nem érdemes természetesen túlzásokba sem esni! Nem érdemes eltagadni a rokonságot Finn, Manysi
+és egyéb népekkel, de érdemes például felvetni, hogy vajon nem-e az ottani, kimutathatóan sztyeppei
+forrásból IS származó kulturális és vallási elemekkel rendelkező népesség nem-e véletlen pont a
+Sztyeppéről felfele mozdulva került oda, ahelyett, hogy azt tételeznénk fel, amit a finnugristák
+nagyon erőltetnek, hogy ott élt egy alig csak halászó, gyűjtögető nép, ami lement a Sztyeppére -
+ahol tudjuk ám, félelmetesen jó lovasok, jól fegyverezve és viszonylag magas Szkíta kultúrával
+éltek - majd azokat mind jól megverve megvetette lábát, aztán valakik jól megvertek minket is,
+majd annyira meg lettünk verve, hogy a Kárpát medencét több hullámban elfoglalva, utána többszáz
+évig egész Európát szanaszét "kalandoztuk" és sakkban tartottuk egy közel ezer éves középhatalmat
+úgy megalapozva, hogy az se keletről, se nyugatról érkező folytonos támadások ellenére máig egy
+országalkotó erőt képvisel. Azért úgy néz ki ebben nem kevés visszavetítés van, mert nem reális.
+
+A fentebb ismeretett nyelvi bölcselet és a nyelvpörgetés talán végre segítségünkre lehet a valódi
+nyelvi kapcsolatok mélyebb feltárására. Én látok hasznos eredettörténeti eredményeknek helyet a
+nyelvi kutatások terén, de ott kéne valahol felvenni a fonalat, ahol Czuczor és Fogarasi letette,
+modernizálni, átnézni, végigkutatni, jobb modelleket alkotni - de Magyar szemmel és fejjel! Ekkor
+szerintem lehetőségünk volna valami mód közeledni múltunkhoz és így biztosítani a Magyar jövőt!
+
+<span id="anchor-448"></span>Vallásokról és hitről
 -------------------------------------------------
 
 ### <span id="anchor-450"></span>A szent könyvek helyes olvasata
