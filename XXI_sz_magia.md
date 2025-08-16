@@ -2758,6 +2758,8 @@ TODO: Az említett Éli-Éli idézet
 
 TODO: Itt át kellhet formázni talán, mert lassan kezd áttekinthetetlenné válni.
 
+* Caer (mint Caerdydd = Cardiff, Kelta): Kör. Ő jelentésükben: Vár! Lásd még - guard, gard, etc.
+
 * SeLiTi ~ SzáLLíT (Szlávból: mozgatni, szállítani, migrálni)
 
 * Selo ~ SzáLLó (Szlávból: falu)
